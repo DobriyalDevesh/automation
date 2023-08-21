@@ -1,0 +1,612 @@
+2021-03-10 14:32:30 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 14:32:30 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 225======
+2021-03-10 14:32:30 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 14:32:31 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 14:32:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 14:32:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 14:32:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 14:32:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 14:32:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 14:32:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 14:33:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 14:33:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 14:33:38 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 20.000
+  (Session info: chrome=88.0.4324.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57467}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: b23656371003b205d29297d2bf4f91d8
+*** Element info: {Using=xpath, value=.//span[.='Processing...']/../..}
+2021-03-10 14:33:39 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 14:33:39 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 14:34:50 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 14:34:51 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 239======
+2021-03-10 14:34:51 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 14:34:51 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 14:34:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 14:34:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 14:34:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 14:35:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 14:35:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 14:35:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 14:35:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 14:35:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 14:36:07 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 14:36:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 14:36:39 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874445  searched successfully
+2021-03-10 14:36:39 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT8874445 
+2021-03-10 14:40:27 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 14:40:27 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 165======
+2021-03-10 14:40:27 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 14:40:28 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 14:40:28 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 14:40:28 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 14:40:33 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 14:40:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 14:40:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 14:40:47 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 14:41:04 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 14:41:04 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 14:41:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 14:41:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 14:41:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874445  searched successfully
+2021-03-10 14:41:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT8874445 
+2021-03-10 14:41:39 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874445 opened successfully
+2021-03-10 14:41:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Classification window opened
+2021-03-10 14:41:53 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID has been specified on receipt number
+2021-03-10 14:41:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching LocalID
+2021-03-10 14:41:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 14:41:55 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID searched , window closed successful
+2021-03-10 14:41:57 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 14:41:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 14:42:07 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 14:54:13 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 14:54:13 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 182======
+2021-03-10 14:54:13 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 14:54:13 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 14:54:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 14:54:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 14:54:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 14:54:28 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 14:54:28 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 14:54:34 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 14:54:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 14:54:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 14:54:50 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 14:54:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 14:56:31 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 14:56:31 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 159======
+2021-03-10 14:56:31 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 14:56:31 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 14:56:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 14:56:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 14:56:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 14:56:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 14:56:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 14:56:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 14:56:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 14:57:00 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 14:57:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 14:57:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 14:58:32 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@class='ui-datatable-scrollable-body']//table[@role='grid']//tr[1]//td[17]//span[.='RCT8874445'] (tried for 60 second(s) with 500 milliseconds interval)
+2021-03-10 14:58:33 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 14:58:33 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 14:58:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 14:58:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 14:58:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874445  searched successfully
+2021-03-10 14:58:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT8874445 
+2021-03-10 14:59:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874445 opened successfully
+2021-03-10 14:59:21 INFO  DuplicateSearch_TS:33 - ---INFO--- Classification window opened
+2021-03-10 14:59:21 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID has been specified on receipt number
+2021-03-10 14:59:21 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching LocalID
+2021-03-10 14:59:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 14:59:24 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID searched , window closed successful
+2021-03-10 14:59:24 INFO  DuplicateSearch_TS:33 - ---INFO--- switched to current handle
+2021-03-10 14:59:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Proceed button
+2021-03-10 14:59:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Waits are over
+2021-03-10 14:59:25 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 14:59:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 15:11:41 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 15:11:41 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 226======
+2021-03-10 15:11:41 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 15:11:41 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 15:11:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 15:11:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 15:11:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 15:11:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 15:11:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 15:12:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 15:12:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 15:12:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 15:12:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 15:12:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 15:12:33 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874445  searched successfully
+2021-03-10 15:12:33 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT8874445 
+2021-03-10 15:12:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874445 opened successfully
+2021-03-10 15:13:13 INFO  DuplicateSearch_TS:33 - ---INFO--- Classification window opened
+2021-03-10 15:13:14 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID has been specified on receipt number
+2021-03-10 15:13:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching LocalID
+2021-03-10 15:13:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 15:13:30 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID searched , window closed successful
+2021-03-10 15:13:30 INFO  DuplicateSearch_TS:33 - ---INFO--- switched to current handle
+2021-03-10 15:13:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Proceed button
+2021-03-10 15:13:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Page and Element Waits are over
+2021-03-10 15:16:09 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 15:16:09 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 164======
+2021-03-10 15:16:09 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 15:16:09 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 15:16:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 15:16:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 15:16:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 15:16:24 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 15:16:24 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 15:16:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 15:16:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 15:16:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 15:16:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 15:16:47 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 15:18:09 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@class='ui-datatable-scrollable-body']//table[@role='grid']//tr[1]//td[17]//span[.='RCT8874445'] (tried for 60 second(s) with 500 milliseconds interval)
+2021-03-10 15:18:10 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 15:18:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 15:18:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 15:18:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 15:18:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874445  searched successfully
+2021-03-10 15:18:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT8874445 
+2021-03-10 15:18:40 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874445 opened successfully
+2021-03-10 15:18:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Classification window opened
+2021-03-10 15:18:53 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID has been specified on receipt number
+2021-03-10 15:18:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching LocalID
+2021-03-10 15:18:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 15:18:55 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID searched , window closed successful
+2021-03-10 15:18:56 INFO  DuplicateSearch_TS:33 - ---INFO--- switched to current handle
+2021-03-10 15:18:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Proceed button
+2021-03-10 15:18:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Page and Element Waits are over
+2021-03-10 15:18:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Initial on receipt number RCT8874445
+2021-03-10 15:19:05 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Next button
+2021-03-10 15:19:05 INFO  DuplicateSearch_TS:33 - ---INFO--- Sending receipt to QC intake process
+2021-03-10 15:19:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874445 has been marked to QC-intake successfully
+2021-03-10 15:19:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Follow-Up created successfully for receipt number RCT8874445
+2021-03-10 15:19:21 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL :  test case has been Passed 
+2021-03-10 15:21:00 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 15:21:01 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 205======
+2021-03-10 15:21:01 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 15:21:01 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 15:21:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 15:21:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 15:21:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 15:21:17 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 15:21:17 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 15:21:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 15:21:28 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 15:21:28 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 15:21:34 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 15:21:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 15:52:46 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 15:52:46 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 189======
+2021-03-10 15:52:46 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 15:52:46 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 15:52:46 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 15:52:46 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 15:52:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 15:53:00 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 15:53:00 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 15:53:06 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 15:53:13 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 15:53:13 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 15:53:20 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 15:53:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 15:55:25 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while moving Receipt to pending state, Exception details->org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@class='ui-datatable-scrollable-body']//table[@role='grid']//tr[1]//td[17]//span[.='RCT8874445'] (tried for 120 second(s) with 500 milliseconds interval)
+2021-03-10 15:55:25 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 15:55:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 15:55:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 15:55:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 15:55:30 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while moving Receipt to pending state, Exception details->org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <input id="body:inboundList:searchText1" name="body:inboundList:searchText1" type="text" maxlength="120" tabindex="1" title="Keyword search will be performed on the following field(s):  [Receipt #, AER #, LRN, Site Number, Source, ReceiptMessenger, Last Modified User, Protocol No. (Study No.), Product, Receiver, Unknown Sender, Seriousness, Message No, Safety Report ID]" onkeypress="return moveFocusOnEnterKeyPressList(this,event,'body:inboundList:searchText1');" onchange="PrimeFaces.ab({s:&quot;body:inboundList:searchText1&quot;,e:&quot;change&quot;,p:&quot;body:inboundList:searchText1 body:inboundList:advanceselectcriteriapanelid12&quot;,u:&quot;body:inboundList:list body:inboundList:inboundListingPanel2 body:inboundList:selectTransitionPanel body:inboundList:Inbound collapse_search:dupSearch&quot;,ps:true,onco:function(xhr,status,args){dynamicHeight();}});" class="ui-inputfield ui-inputtext ui-widget ui-state-default ui-corner-all" role="textbox" aria-disabled="false" aria-readonly="false" placeholder="Search"> is not clickable at point (111, 143). Other element would receive the click: <a href="#" onclick="return jsf.util.chain(document.getElementById('header:agxheader:j_id_3g'), event,'PF(\'statusDialog\').show();', 'return myfaces.oam.submitForm(\'header:agxheader\',\'header:agxheader:j_id_3g\');');" id="header:agxheader:j_id_3g" name="header:agxheader:j_id_3g" title="Opens the archive cases or items that are removed, rejected, split, or Follow Up denied or items archived as per application settings">...</a>
+  (Session info: chrome=88.0.4324.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50326}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0fbafb8dfd2bc4cab9358e7372183b65
+2021-03-10 15:55:30 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 15:55:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 15:55:39 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 15:55:49 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 15:57:09 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 15:57:10 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 213======
+2021-03-10 15:57:10 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 15:57:10 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 15:57:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 15:57:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 15:57:17 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 15:57:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 15:57:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 15:57:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 15:57:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 15:57:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 15:57:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 15:57:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 15:59:50 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while moving Receipt to pending state, Exception details->org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@class='ui-datatable-scrollable-body']//table[@role='grid']//tr[1]//td[17]//span[.='RCT8874440'] (tried for 120 second(s) with 500 milliseconds interval)
+2021-03-10 15:59:50 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 15:59:50 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 15:59:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 16:00:06 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 16:00:12 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874440  searched successfully
+2021-03-10 16:00:12 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT8874440 
+2021-03-10 16:00:21 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874440 opened successfully
+2021-03-10 16:00:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874440 has been marked to Pending successfully
+2021-03-10 16:00:38 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL :  test case has been Passed 
+2021-03-10 16:04:15 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 16:04:15 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 250======
+2021-03-10 16:04:15 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 16:04:15 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 16:04:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 16:04:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 16:04:24 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 16:04:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 16:04:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 16:04:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 16:04:52 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 16:04:52 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 16:05:13 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 20.000
+  (Session info: chrome=88.0.4324.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50407}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 90d3ebf893042a337e6539c2b0dd820b
+2021-03-10 16:05:13 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 16:05:13 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 16:06:14 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 16:06:14 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 192======
+2021-03-10 16:06:14 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 16:06:14 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 16:06:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 16:06:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 16:06:21 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 16:06:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 16:06:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 16:06:36 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 16:06:52 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 16:06:52 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 16:07:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 16:07:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 16:07:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874559  searched successfully
+2021-03-10 16:07:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT8874559 
+2021-03-10 16:07:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874559 opened successfully
+2021-03-10 16:12:16 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 16:12:16 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 153======
+2021-03-10 16:12:16 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 16:12:16 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 16:12:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 16:12:17 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 16:12:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 16:12:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 16:12:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 16:12:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 16:12:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 16:12:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 16:12:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 16:13:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 16:13:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874559  searched successfully
+2021-03-10 16:13:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT8874559 
+2021-03-10 16:13:20 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874559 opened successfully
+2021-03-10 16:14:07 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="body:inboundForm:tabView:ID0000000070117117_1"]"}
+  (Session info: chrome=88.0.4324.190)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60266}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: f5300f07d6af934616f82bafaafd2423
+*** Element info: {Using=xpath, value=//*[@id="body:inboundForm:tabView:ID0000000070117117_1"]}
+2021-03-10 16:14:08 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 16:14:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 16:20:34 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 16:20:35 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 162======
+2021-03-10 16:20:35 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 16:20:35 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 16:20:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 16:20:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 16:20:40 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 16:20:49 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 16:20:49 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 16:20:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 16:21:03 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 16:21:03 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 16:21:11 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 16:21:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 16:22:37 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@class='ui-datatable-scrollable-body']//table[@role='grid']//tr[1]//td[17]//span[.='RCT8874559'] (tried for 60 second(s) with 500 milliseconds interval)
+2021-03-10 16:22:38 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 16:22:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 16:22:47 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 16:22:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 16:23:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874559  searched successfully
+2021-03-10 16:23:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT8874559 
+2021-03-10 16:23:13 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874559 opened successfully
+2021-03-10 16:24:00 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="body:inboundForm:tabView:ID0000000070117117_1"]"}
+  (Session info: chrome=88.0.4324.190)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60427}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 2cc4289cbf1614d472f1d0a8ce6b412e
+*** Element info: {Using=xpath, value=//*[@id="body:inboundForm:tabView:ID0000000070117117_1"]}
+2021-03-10 16:24:01 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 16:24:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 16:27:00 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 16:27:00 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 222======
+2021-03-10 16:27:00 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 16:27:00 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 16:27:00 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 16:27:00 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 16:27:06 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 16:27:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 16:27:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 16:27:20 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 16:27:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 16:27:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 16:27:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 16:27:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 16:29:20 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@class='ui-datatable-scrollable-body']//table[@role='grid']//tr[1]//td[17]//span[.='RCT8874559'] (tried for 60 second(s) with 500 milliseconds interval)
+2021-03-10 16:29:21 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 16:29:21 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 16:29:41 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 16:30:00 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 16:30:12 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874559  searched successfully
+2021-03-10 16:30:12 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT8874559 
+2021-03-10 16:30:28 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874559 opened successfully
+2021-03-10 16:31:16 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="body:inboundForm:tabView:ID0000000070117117_1"]"}
+  (Session info: chrome=88.0.4324.190)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57546}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 9225161e8047ab24f4c8350d3eda12ea
+*** Element info: {Using=xpath, value=//*[@id="body:inboundForm:tabView:ID0000000070117117_1"]}
+2021-03-10 16:31:16 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 16:31:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 16:36:16 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 16:36:16 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 239======
+2021-03-10 16:36:16 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 16:36:16 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 16:36:17 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 16:36:17 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 16:36:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 16:36:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 16:36:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 16:36:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 16:36:47 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 16:36:47 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 16:36:56 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 16:36:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 16:38:23 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@class='ui-datatable-scrollable-body']//table[@role='grid']//tr[1]//td[17]//span[.='RCT8874608'] (tried for 60 second(s) with 500 milliseconds interval)
+2021-03-10 16:38:23 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 16:38:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 16:38:33 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 16:38:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 16:38:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874608  searched successfully
+2021-03-10 16:38:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT8874608 
+2021-03-10 16:39:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874608 opened successfully
+2021-03-10 16:42:40 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 16:42:40 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 169======
+2021-03-10 16:42:40 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 16:42:40 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 16:42:41 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 16:42:41 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 16:42:49 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 16:42:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 16:42:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 16:43:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 16:43:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 16:43:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 16:43:24 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 16:43:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 16:44:51 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@class='ui-datatable-scrollable-body']//table[@role='grid']//tr[1]//td[17]//span[.='RCT8874608'] (tried for 60 second(s) with 500 milliseconds interval)
+2021-03-10 16:44:52 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 16:44:52 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 16:45:03 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 16:45:11 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 16:45:20 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874608  searched successfully
+2021-03-10 16:45:20 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT8874608 
+2021-03-10 16:45:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874608 opened successfully
+2021-03-10 16:45:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Classification window opened
+2021-03-10 16:45:44 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID has been specified on receipt number
+2021-03-10 16:45:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching LocalID
+2021-03-10 16:45:46 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 16:45:47 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID searched , window closed successful
+2021-03-10 16:45:47 INFO  DuplicateSearch_TS:33 - ---INFO--- switched to current handle
+2021-03-10 16:45:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Proceed button
+2021-03-10 16:45:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Page and Element Waits are over
+2021-03-10 16:45:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Follow-up on receipt number RCT8874608
+2021-03-10 16:45:49 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering and searching AER number AER010101
+2021-03-10 17:51:23 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 17:51:23 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 294======
+2021-03-10 17:51:23 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 17:51:23 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 17:51:24 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 17:51:24 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 17:51:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 17:51:40 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 17:51:40 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 17:51:46 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 17:51:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 17:51:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 17:52:51 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 17:52:52 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 214======
+2021-03-10 17:52:52 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 17:52:52 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 17:52:52 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 17:52:52 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 17:52:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 17:53:07 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 17:53:07 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 17:53:13 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 17:53:20 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 17:53:20 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 17:53:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 17:53:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 17:54:53 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@class='ui-datatable-scrollable-body']//table[@role='grid']//tr[1]//td[17]//span[.='RCT8874609'] (tried for 60 second(s) with 500 milliseconds interval)
+2021-03-10 17:54:54 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 17:54:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 17:55:03 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 17:55:11 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 17:55:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874609  searched successfully
+2021-03-10 17:55:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT8874609 
+2021-03-10 17:55:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874609 opened successfully
+2021-03-10 17:55:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Classification window opened
+2021-03-10 17:55:43 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID has been specified on receipt number
+2021-03-10 17:55:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching LocalID
+2021-03-10 17:55:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 17:55:44 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->java.lang.NullPointerException: null value in entry: handle=null
+2021-03-10 17:55:45 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 17:55:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 17:55:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 17:56:20 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 17:56:21 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 151======
+2021-03-10 17:56:21 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 17:56:21 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 17:56:21 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 17:56:21 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 17:56:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 17:56:36 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 17:56:36 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 17:56:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 17:56:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 17:56:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 17:56:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 17:57:06 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 17:57:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874609  searched successfully
+2021-03-10 17:57:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT8874609 
+2021-03-10 17:57:24 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874609 opened successfully
+2021-03-10 17:57:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Classification window opened
+2021-03-10 17:57:39 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID has been specified on receipt number
+2021-03-10 17:57:39 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching LocalID
+2021-03-10 17:57:40 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 17:57:41 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID searched , window closed successful
+2021-03-10 17:57:41 INFO  DuplicateSearch_TS:33 - ---INFO--- switched to current handle
+2021-03-10 17:57:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Proceed button
+2021-03-10 17:57:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Page and Element Waits are over
+2021-03-10 17:57:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Initial on receipt number RCT8874609
+2021-03-10 17:57:52 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Next button
+2021-03-10 17:57:52 INFO  DuplicateSearch_TS:33 - ---INFO--- Sending receipt to QC intake process
+2021-03-10 17:59:16 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while creating Follow-Up, Exception details->org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@id='message:growlMessages_container']//div[@class='ui-growl-message']//span[.='Data Updated Successfully'] (tried for 60 second(s) with 500 milliseconds interval)
+2021-03-10 17:59:17 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 17:59:17 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 18:43:50 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 18:43:50 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 217======
+2021-03-10 18:43:50 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 18:43:50 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 18:43:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 18:43:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 18:44:00 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 18:44:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 18:44:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 18:44:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 18:44:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 18:44:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 18:44:34 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 18:44:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 19:46:30 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 19:46:30 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 223======
+2021-03-10 19:46:30 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 19:46:31 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 19:46:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 19:46:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 19:46:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 19:46:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 19:46:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 19:46:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 19:47:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 19:47:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 19:47:30 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 20.000
+  (Session info: chrome=88.0.4324.190)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55820}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d31705cef39fd758708f2d438cd02dbb
+*** Element info: {Using=xpath, value=.//span[.='Processing...']/../..}
+2021-03-10 19:47:30 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 19:47:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 19:48:31 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@id='inbound-SubMenu']//table//li//a[.='Inbound Listing'] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55820}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d31705cef39fd758708f2d438cd02dbb
+2021-03-10 19:48:32 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 19:48:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 19:49:32 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@id='inbound-SubMenu']//table//li//a[.='Inbound Listing'] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.190, chrome: {chromedriverVersion: 87.0.4280.20 (c99e81631faa0..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55820}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d31705cef39fd758708f2d438cd02dbb
+2021-03-10 19:49:33 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-10 19:49:33 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 20:04:43 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-10 20:04:43 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 273======
+2021-03-10 20:04:43 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 111======
+2021-03-10 20:04:43 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-10 20:04:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_10_03_2021.xlsx
+2021-03-10 20:04:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-10 20:04:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-10 20:04:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 20:04:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-10 20:05:06 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-10 20:05:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-10 20:05:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-10 20:06:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-10 20:06:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-10 20:06:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874609  searched successfully
+2021-03-10 20:06:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT8874609 
+2021-03-10 20:06:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT8874609 opened successfully

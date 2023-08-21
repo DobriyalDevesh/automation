@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7617" started-at="2023-08-20T06:21:56 IST" finished-at="2023-08-20T06:22:03 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7617" started-at="2023-08-20T06:21:56 IST" finished-at="2023-08-20T06:22:03 IST">
+      <class name="com.company.automation.Sampletest">
+        <test-method status="PASS" signature="beforeTest(org.testng.ITestContext)[pri:0, instance:com.company.automation.Sampletest@2d9d4f9d]" name="beforeTest" is-config="true" duration-ms="27" started-at="2023-08-20T06:21:56 IST" finished-at="2023-08-20T06:21:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@107f4980]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setUp(org.testng.ITestContext)[pri:0, instance:com.company.automation.Sampletest@2d9d4f9d]" name="setUp" is-config="true" duration-ms="1953" started-at="2023-08-20T06:21:56 IST" depends-on-methods="com.company.automation.TestBase.beforeTest" finished-at="2023-08-20T06:21:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@107f4980]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="getUserID()[pri:1, instance:com.company.automation.Sampletest@2d9d4f9d]" name="getUserID" duration-ms="5585" started-at="2023-08-20T06:21:58 IST" description="Sample tests" finished-at="2023-08-20T06:22:03 IST">
+          <exception class="java.lang.ArrayIndexOutOfBoundsException">
+            <message>
+              <![CDATA[0]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.ArrayIndexOutOfBoundsException: 0
+at com.company.automation.TestResultRunControllerList.onTestSuccess(TestResultRunControllerList.java:67)
+at org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:100)
+at org.testng.internal.TestInvoker.runTestResultListener(TestInvoker.java:219)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:656)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1259)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.ArrayIndexOutOfBoundsException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserID -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestContext,java.lang.reflect.Method)[pri:0, instance:com.company.automation.Sampletest@2d9d4f9d]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2023-08-20T06:21:58 IST" finished-at="2023-08-20T06:21:58 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@107f4980]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.company.automation.Sampletest.getUserID() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestContext)[pri:0, instance:com.company.automation.Sampletest@2d9d4f9d]" name="tearDown" is-config="true" duration-ms="0" started-at="2023-08-20T06:22:03 IST" finished-at="2023-08-20T06:22:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@107f4980]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.company.automation.Sampletest@2d9d4f9d]" name="afterTest" is-config="true" duration-ms="0" started-at="2023-08-20T06:22:03 IST" depends-on-methods="com.company.automation.Sampletest.tearDown" finished-at="2023-08-20T06:22:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.company.automation.Sampletest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

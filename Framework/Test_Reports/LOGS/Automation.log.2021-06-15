@@ -1,0 +1,2268 @@
+Testing the Log File2021-05-11 15:53:19 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 15:53:19 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 201======
+2021-05-11 15:53:19 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 15:53:20 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 15:53:20 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 15:53:20 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 15:53:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 15:53:25 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while logging to ARIS, Exception details->org.openqa.selenium.WebDriverException: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=90.0.4430.93)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61692}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 11f5cee76b3f67a8f462f10255920b35
+2021-05-11 15:53:26 INFO  DataLoaders:33 - ---INFO--- Test iteration/case-irtduplicateSearch_DL-RCT9637238 has been Skipped and Set to Fail
+2021-05-11 15:53:26 INFO  DataLoaders:33 - ---INFO--- Test iteration/case irtduplicateSearch_DL-RCT9637238 has been Failed 
+2021-05-11 15:54:58 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 15:54:58 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 132======
+2021-05-11 15:54:58 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 15:54:58 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 15:54:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 15:54:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 15:55:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 15:55:03 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while logging to ARIS, Exception details->org.openqa.selenium.WebDriverException: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=90.0.4430.93)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61737}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 33776fd261cccdd51cde26bbb116d784
+2021-05-11 15:55:03 INFO  DataLoaders:33 - ---INFO--- Test iteration/case-irtduplicateSearch_DL-RCT9637238 has been Skipped and Set to Fail
+2021-05-11 15:55:03 INFO  DataLoaders:33 - ---INFO--- Test iteration/case irtduplicateSearch_DL-RCT9637238 has been Failed 
+2021-05-11 15:55:45 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 15:55:45 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 138======
+2021-05-11 15:55:45 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 15:55:45 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 15:55:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 15:55:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 15:55:49 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 15:55:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 15:55:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-05-11 15:56:00 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 15:56:05 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-05-11 15:56:06 INFO  DataLoaders:33 - ---INFO--- report location isDupsSearchSummary_2021.05.11.15.55.45
+2021-05-11 15:56:06 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-05-11 15:56:13 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 15:56:19 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:02:49 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 16:02:49 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 269======
+2021-05-11 16:02:49 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 16:02:49 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 16:02:49 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 16:02:49 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 16:03:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 16:03:47 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while logging to ARIS, Exception details->org.openqa.selenium.WebDriverException: unknown error: cannot determine loading status
+from disconnected: unable to send message to renderer
+  (Session info: chrome=90.0.4430.93)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50169}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: baa090a89d33ef1cfb50dea4f1fe12ba
+2021-05-11 16:03:47 INFO  DataLoaders:33 - ---INFO--- Test iteration/case-irtduplicateSearch_DL-RCT9640643 has been Skipped and Set to Fail
+2021-05-11 16:03:47 INFO  DataLoaders:33 - ---INFO--- Test iteration/case irtduplicateSearch_DL-RCT9640643 has been Failed 
+2021-05-11 16:04:03 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 16:04:03 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 254======
+2021-05-11 16:04:03 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 16:04:03 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 16:04:04 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 16:04:04 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 16:04:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 16:04:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 16:04:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-05-11 16:04:21 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 16:04:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-05-11 16:04:28 INFO  DataLoaders:33 - ---INFO--- report location isDupsSearchSummary_2021.05.11.16.04.03
+2021-05-11 16:04:28 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-05-11 16:04:33 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:04:38 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:04:43 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9640643  searched successfully
+2021-05-11 16:04:43 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9640643 
+2021-05-11 16:04:50 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9640643 opened successfully
+2021-05-11 16:04:50 INFO  DataLoaders:33 - ---INFO--- Report type is CT
+2021-05-11 16:04:53 INFO  DataLoaders:33 - ---INFO--- Study Patient ID is set to :583783 
+2021-05-11 16:04:53 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- FetchFullData489293014
+2021-05-11 16:05:20 INFO  DataLoaders:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-05-11 16:05:20 INFO  DataLoaders:33 - ---INFO--- Reponse for Advere event is {
+  "receiptDetails": [
+    {
+      "patdob_fmt": 3,
+      "protocol_no": "PCSNSP001518",
+      "receipt_no": "RCT9640643",
+      "reporttype": "CT",
+      "gender": "Male",
+      "study_patient_no": null,
+      "aer_init_recv_date": "2021-04-28",
+      "patsex": "1",
+      "agx_asr_primary_src_country": "163",
+      "patdob_random_no": "bgH05Li6cBQruiWbpPus6ETheDG6dmYW9WJ0JMkKQn4=",
+      "agx_wfa_activity_name": "Initial Review",
+      "safetyreportid": "US_Jan_PMF_00251009",
+      "aer_no": null,
+      "lrn_version_no": null,
+      "agx_asr_serious": "02",
+      "patientinitial": "yHDinRj3rn8QY2hKhTfHUgqkNQJfVrIG5vTJz+X+hhs=",
+      "lrd": "2021-04-28",
+      "patdob": "1965-05-18",
+      "patinvestigationnumb": null,
+      "aer_version_no": null,
+      "local_case_id": null,
+      "local_received_date": "2021-04-29",
+      "patonsetage": null,
+      "project_no": "PCSNSP001518",
+      "aer_latest_recv_date": "2021-04-28",
+      "aer_last": null,
+      "lrn_no": null,
+      "primarysourcecountry": "United States of America"
+    }
+  ],
+  "reporterdetails": [
+    {
+      "receipt_no": "RCT9640643",
+      "phone": null,
+      "reporterfamilyname": "pFwmmLE57K4FW2W9I7ZFYpKPILmPg43xE+y+Nkbi2to=",
+      "reportercity": null,
+      "reportergivenname": "1q8uyk3tFEPySoBp4Ttr3vkuBNSSm9Y4PRo+0kvrd4k=",
+      "reportermiddlename": null,
+      "reporterpostcode": null,
+      "reportercountry": "163",
+      "reporterstate": null
+    },
+    {
+      "receipt_no": "RCT9640643",
+      "phone": null,
+      "reporterfamilyname": "wPmeySmQz7QB31tqwH20gAecuYYi+BOjXe5cTY2Nz28=",
+      "reportercity": "C8ukOtcDvFNu8nlgmpADibnd6k/BGIqHtYN905UMoic=",
+      "reportergivenname": "VSY19SOOQf+tnvDsbJGjU88VwbHsy+jbvL7IH62X5Zs=",
+      "reportermiddlename": null,
+      "reporterpostcode": "1GyTZOAsmKRUBrIaANrowbqkK2dJrQpyMjRmAyw21cU=",
+      "reportercountry": "163",
+      "reporterstate": "JuCX1O94faNfrl4nrbmS2/kJsqbiXbLfHHrVf75dP/A="
+    }
+  ],
+  "drugdetails": [
+    {
+      "receipt_no": "RCT9640643",
+      "therapy_start_date": null,
+      "drugstartdate": null,
+      "therapy_end_date": null,
+      "drugenddate": null,
+      "medicinalproduct": "Esketamine"
+    }
+  ],
+  "reactiondetails": [
+    {
+      "receipt_no": "RCT9640643",
+      "reporter_seriousness": "02",
+      "primarysrcreaction": "Dissociation",
+      "reactstartdate": "2021-04-28T00:00:00",
+      "reactstartdatefmt": 3
+    },
+    {
+      "receipt_no": "RCT9640643",
+      "reporter_seriousness": "02",
+      "primarysrcreaction": "Sedation",
+      "reactstartdate": "2021-04-28T00:00:00",
+      "reactstartdatefmt": 3
+    }
+  ],
+  "additionaldetails": [
+    {
+      "receipt_no": "RCT9640643",
+      "other_identification_ref": null,
+      "other_identification_number": null,
+      "company_unit": null
+    }
+  ]
+}
+2021-05-11 16:05:20 INFO  DataLoaders:33 - ---INFO--- Therapy Start/End Date of one of product is 'Null' so setting to 'Initial'
+2021-05-11 16:05:20 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page
+2021-05-11 16:05:25 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:05:30 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:05:35 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9640643  searched successfully
+2021-05-11 16:05:35 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9640643 
+2021-05-11 16:05:41 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9640643 opened successfully
+2021-05-11 16:05:41 INFO  DataLoaders:33 - ---INFO--- Entering Local Trade Name
+2021-05-11 16:05:43 INFO  DataLoaders:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-05-11 16:05:43 INFO  DataLoaders:33 - ---INFO--- Entering Country Name 
+2021-05-11 16:05:44 INFO  DataLoaders:33 - ---INFO--- Country Name entered United States Of America 
+2021-05-11 16:05:44 INFO  DataLoaders:33 - ---INFO--- Entering Approaval 
+2021-05-11 16:05:44 INFO  DataLoaders:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-05-11 16:05:50 INFO  DataLoaders:33 - ---INFO--- Study Patient ID feild on Receipt Summary is : 
+2021-05-11 16:05:50 INFO  DataLoaders:33 - ---INFO--- Entering Study Patient ID Since , Study Patient ID feild on Receipt Summary is Blank 
+2021-05-11 16:05:53 INFO  DataLoaders:33 - ---INFO--- Study Patient ID entered :583783
+2021-05-11 16:05:53 INFO  DataLoaders:33 - ---INFO--- Entering Formulation 
+2021-05-11 16:05:53 INFO  DataLoaders:33 - ---INFO--- Formulation label text is --Select--
+2021-05-11 16:05:59 INFO  DataLoaders:33 - ---INFO--- Formulation Entered 
+2021-05-11 16:05:59 INFO  DataLoaders:33 - ---INFO--- Entering ROA Label 
+2021-05-11 16:06:02 INFO  DataLoaders:33 - ---INFO--- Entering Local Case ID 
+2021-05-11 16:06:03 INFO  DataLoaders:33 - ---INFO--- Entered Local Case ID:US_Jan_PMF_00251009
+2021-05-11 16:06:03 INFO  DataLoaders:33 - ---INFO--- ROA label text is Not Applicable
+2021-05-11 16:06:03 INFO  DataLoaders:33 - ---INFO--- Repo Term label text is Sedation
+2021-05-11 16:06:04 INFO  DataLoaders:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-05-11 16:06:04 INFO  DataLoaders:33 - ---INFO--- Sex label text is Male
+2021-05-11 16:06:04 INFO  DataLoaders:33 - ---INFO--- AG label text is --Select--
+2021-05-11 16:06:09 INFO  DataLoaders:33 - ---INFO--- Clicked on Physician
+2021-05-11 16:06:18 INFO  DataLoaders:33 - ---INFO--- Filtered Patient
+2021-05-11 16:06:18 INFO  DataLoaders:33 - ---INFO--- Clickable Patient
+2021-05-11 16:06:18 INFO  DataLoaders:33 - ---INFO--- Clicked Patient
+2021-05-11 16:06:20 INFO  DataLoaders:33 - ---INFO--- Clicked Next
+2021-05-11 16:06:27 INFO  DataLoaders:33 - ---INFO--- Classification window opened
+2021-05-11 16:06:27 INFO  DataLoaders:33 - ---INFO--- LocalID has been specified on receipt number
+2021-05-11 16:06:27 INFO  DataLoaders:33 - ---INFO--- Searching LocalID
+2021-05-11 16:06:29 INFO  DataLoaders:33 - ---INFO--- Browser windows active-2
+2021-05-11 16:06:29 INFO  DataLoaders:33 - ---INFO--- LocalID searched , window closed successful
+2021-05-11 16:06:29 INFO  DataLoaders:33 - ---INFO--- switched to current handle
+2021-05-11 16:06:30 INFO  DataLoaders:33 - ---INFO--- Clicked on Proceed button
+2021-05-11 16:06:30 INFO  DataLoaders:33 - ---INFO--- Page and Element Waits are over
+2021-05-11 16:06:30 INFO  DataLoaders:33 - ---INFO--- Creating Initial on receipt number RCT9640643
+2021-05-11 16:06:34 INFO  DataLoaders:33 - ---INFO--- Clicked on Next button
+2021-05-11 16:06:34 INFO  DataLoaders:33 - ---INFO--- Sending receipt to QC intake process
+2021-05-11 16:06:42 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9640643 has been marked to QC-intake successfully
+2021-05-11 16:06:42 INFO  DataLoaders:33 - ---INFO--- Follow-Up created successfully for receipt number RCT9640643
+2021-05-11 16:06:49 INFO  DataLoaders:33 - ---INFO--- Test iteration/case irtduplicateSearch_DL-RCT9640643 has been Passed 
+2021-05-11 16:06:49 INFO  DataLoaders:33 - ---INFO--- Test iteration/case irtduplicateSearch_DL-RCT9640643 has been Passed 
+2021-05-11 16:06:49 INFO  DataLoaders:33 - ---INFO--- report location isDupsSearchSummary_2021.05.11.16.04.03
+2021-05-11 16:06:49 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-05-11 16:06:54 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:06:58 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:07:02 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:07:02 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:07:09 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:07:09 INFO  DataLoaders:33 - ---INFO--- Report type is CT
+2021-05-11 16:07:12 INFO  DataLoaders:33 - ---INFO--- Study Patient ID is set to :257747 
+2021-05-11 16:07:12 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- FetchFullData1664918303
+2021-05-11 16:07:36 INFO  DataLoaders:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-05-11 16:07:36 INFO  DataLoaders:33 - ---INFO--- Reponse for Advere event is {
+  "receiptDetails": [
+    {
+      "patdob_fmt": 3,
+      "protocol_no": "PCSNSP001518",
+      "receipt_no": "RCT9641007",
+      "reporttype": "CT",
+      "gender": "Female",
+      "study_patient_no": null,
+      "aer_init_recv_date": "2021-02-25",
+      "patsex": "2",
+      "agx_asr_primary_src_country": "163",
+      "patdob_random_no": "VB0mBZDywThUtSafsw7y9OTsbGlXfDGaJ7dzuYH1GYI=",
+      "agx_wfa_activity_name": "Initial Review",
+      "safetyreportid": "US_Jan_PMF_9999985",
+      "aer_no": null,
+      "lrn_version_no": "1",
+      "agx_asr_serious": "02",
+      "patientinitial": "8RsgvtR+csEXmay/ZdukC0h9n4GclZy5kYlNQZJ/9Jg=",
+      "lrd": "2021-02-25",
+      "patdob": "1983-04-13",
+      "patinvestigationnumb": null,
+      "aer_version_no": null,
+      "local_case_id": "fdfdsfs",
+      "local_received_date": "2021-05-03",
+      "patonsetage": null,
+      "project_no": "PCSNSP001518",
+      "aer_latest_recv_date": "2021-02-25",
+      "aer_last": null,
+      "lrn_no": "LRN3209847",
+      "primarysourcecountry": "United States of America"
+    }
+  ],
+  "reporterdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "UVtSqPo0rfxD9yMh+XB1qBQzPxiXnn+m9VZijyPLy+4=",
+      "reportercity": null,
+      "reportergivenname": "N5nMY+c3LhoNMeThyukk+LSGUTXJbAbX0FPHvWEjJZY=",
+      "reportermiddlename": null,
+      "reporterpostcode": null,
+      "reportercountry": "163",
+      "reporterstate": null
+    },
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "K1wTU6+DkIZzuA7XL7QWckUUtt1md5GOQZZ7TLC62buvlOQ/PKZbm1Q4j7OjlidQ",
+      "reportercity": "VCu4fMYs8ltKU2ESkDttGRIV1oIoojGjR2/5iB1Cv8nbIC2+mnzd1MBtTpoM2pJ/",
+      "reportergivenname": "PpO5XaH4ysebPYMEAb+dxz6Mp+Obb9XYyK2lCUD5aAA=",
+      "reportermiddlename": null,
+      "reporterpostcode": "W6z+2ghWdiy4N0QkQIGpQVdxuDoBBQWSQ2WvZzFgaJE=",
+      "reportercountry": "163",
+      "reporterstate": "DcY8sbkgp/0KJJLti9xDvE17J6Ga28S+sx7eSALQgq86VsT1/R+TqSvJnRCGVoMt"
+    }
+  ],
+  "drugdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "therapy_start_date": null,
+      "drugstartdate": null,
+      "therapy_end_date": null,
+      "drugenddate": null,
+      "medicinalproduct": "Esketamine"
+    }
+  ],
+  "reactiondetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "reporter_seriousness": "02",
+      "primarysrcreaction": "Sedation",
+      "reactstartdate": "2021-02-24T00:00:00",
+      "reactstartdatefmt": 3
+    }
+  ],
+  "additionaldetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "other_identification_ref": null,
+      "other_identification_number": null,
+      "company_unit": null
+    }
+  ]
+}
+2021-05-11 16:07:36 INFO  DataLoaders:33 - ---INFO--- Therapy Start/End Date of one of product is 'Null' so setting to 'Initial'
+2021-05-11 16:07:36 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page
+2021-05-11 16:07:41 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:07:45 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:07:50 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:07:50 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:07:56 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:07:56 INFO  DataLoaders:33 - ---INFO--- Entering Local Trade Name
+2021-05-11 16:07:58 INFO  DataLoaders:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-05-11 16:07:58 INFO  DataLoaders:33 - ---INFO--- Entering Country Name 
+2021-05-11 16:07:58 INFO  DataLoaders:33 - ---INFO--- Country Name entered United States Of America 
+2021-05-11 16:07:58 INFO  DataLoaders:33 - ---INFO--- Entering Approaval 
+2021-05-11 16:07:59 INFO  DataLoaders:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-05-11 16:08:04 INFO  DataLoaders:33 - ---INFO--- Study Patient ID feild on Receipt Summary is : 
+2021-05-11 16:08:04 INFO  DataLoaders:33 - ---INFO--- Entering Study Patient ID Since , Study Patient ID feild on Receipt Summary is Blank 
+2021-05-11 16:08:08 INFO  DataLoaders:33 - ---INFO--- Study Patient ID entered :257747
+2021-05-11 16:08:08 INFO  DataLoaders:33 - ---INFO--- Entering Formulation 
+2021-05-11 16:08:08 INFO  DataLoaders:33 - ---INFO--- Formulation label text is --Select--
+2021-05-11 16:08:13 INFO  DataLoaders:33 - ---INFO--- Formulation Entered 
+2021-05-11 16:08:13 INFO  DataLoaders:33 - ---INFO--- Entering ROA Label 
+2021-05-11 16:08:16 INFO  DataLoaders:33 - ---INFO--- Entering Local Case ID 
+2021-05-11 16:08:17 INFO  DataLoaders:33 - ---INFO--- Entered Local Case ID:US_Jan_PMF_9999985
+2021-05-11 16:08:17 INFO  DataLoaders:33 - ---INFO--- ROA label text is Not Applicable
+2021-05-11 16:08:17 INFO  DataLoaders:33 - ---INFO--- Repo Term label text is Sedation
+2021-05-11 16:08:18 INFO  DataLoaders:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-05-11 16:08:18 INFO  DataLoaders:33 - ---INFO--- Sex label text is Female
+2021-05-11 16:08:18 INFO  DataLoaders:33 - ---INFO--- AG label text is --Select--
+2021-05-11 16:08:23 INFO  DataLoaders:33 - ---INFO--- Clicked on Physician
+2021-05-11 16:08:32 INFO  DataLoaders:33 - ---INFO--- Filtered Patient
+2021-05-11 16:08:32 INFO  DataLoaders:33 - ---INFO--- Clickable Patient
+2021-05-11 16:08:32 INFO  DataLoaders:33 - ---INFO--- Clicked Patient
+2021-05-11 16:08:34 INFO  DataLoaders:33 - ---INFO--- Clicked Next
+2021-05-11 16:09:21 ERROR DataLoaders:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50207}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 64db9ad8861ae15eac68e596be866efa
+*** Element info: {Using=xpath, value=.//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']}
+2021-05-11 16:09:21 INFO  DataLoaders:33 - ---INFO--- Retrying same Test Iteration/Case - 1
+2021-05-11 16:09:21 INFO  DataLoaders:33 - ---INFO--- Test iteration/case-irtduplicateSearch_DL-RCT9641007 has been Skipped and Set to Fail
+2021-05-11 16:09:21 INFO  DataLoaders:33 - ---INFO--- Test iteration/case irtduplicateSearch_DL-RCT9641007 has been Failed 
+2021-05-11 16:09:21 INFO  DataLoaders:33 - ---INFO--- report location isDupsSearchSummary_2021.05.11.16.04.03
+2021-05-11 16:09:21 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-05-11 16:09:26 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:09:30 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:09:35 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:09:35 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:09:40 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:09:40 INFO  DataLoaders:33 - ---INFO--- Report type is CT
+2021-05-11 16:09:44 INFO  DataLoaders:33 - ---INFO--- Study Patient ID is set to :257747 
+2021-05-11 16:09:44 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- FetchFullData937911464
+2021-05-11 16:10:08 INFO  DataLoaders:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-05-11 16:10:08 INFO  DataLoaders:33 - ---INFO--- Reponse for Advere event is {
+  "receiptDetails": [
+    {
+      "patdob_fmt": 3,
+      "protocol_no": "PCSNSP001518",
+      "receipt_no": "RCT9641007",
+      "reporttype": "CT",
+      "gender": "Female",
+      "study_patient_no": null,
+      "aer_init_recv_date": "2021-02-25",
+      "patsex": "2",
+      "agx_asr_primary_src_country": "163",
+      "patdob_random_no": "VB0mBZDywThUtSafsw7y9OTsbGlXfDGaJ7dzuYH1GYI=",
+      "agx_wfa_activity_name": "Initial Review",
+      "safetyreportid": "US_Jan_PMF_9999985",
+      "aer_no": null,
+      "lrn_version_no": "1",
+      "agx_asr_serious": "02",
+      "patientinitial": "8RsgvtR+csEXmay/ZdukC0h9n4GclZy5kYlNQZJ/9Jg=",
+      "lrd": "2021-02-25",
+      "patdob": "1983-04-13",
+      "patinvestigationnumb": null,
+      "aer_version_no": null,
+      "local_case_id": "fdfdsfs",
+      "local_received_date": "2021-05-03",
+      "patonsetage": null,
+      "project_no": "PCSNSP001518",
+      "aer_latest_recv_date": "2021-02-25",
+      "aer_last": null,
+      "lrn_no": "LRN3209847",
+      "primarysourcecountry": "United States of America"
+    }
+  ],
+  "reporterdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "UVtSqPo0rfxD9yMh+XB1qBQzPxiXnn+m9VZijyPLy+4=",
+      "reportercity": null,
+      "reportergivenname": "N5nMY+c3LhoNMeThyukk+LSGUTXJbAbX0FPHvWEjJZY=",
+      "reportermiddlename": null,
+      "reporterpostcode": null,
+      "reportercountry": "163",
+      "reporterstate": null
+    },
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "K1wTU6+DkIZzuA7XL7QWckUUtt1md5GOQZZ7TLC62buvlOQ/PKZbm1Q4j7OjlidQ",
+      "reportercity": "VCu4fMYs8ltKU2ESkDttGRIV1oIoojGjR2/5iB1Cv8nbIC2+mnzd1MBtTpoM2pJ/",
+      "reportergivenname": "PpO5XaH4ysebPYMEAb+dxz6Mp+Obb9XYyK2lCUD5aAA=",
+      "reportermiddlename": null,
+      "reporterpostcode": "W6z+2ghWdiy4N0QkQIGpQVdxuDoBBQWSQ2WvZzFgaJE=",
+      "reportercountry": "163",
+      "reporterstate": "DcY8sbkgp/0KJJLti9xDvE17J6Ga28S+sx7eSALQgq86VsT1/R+TqSvJnRCGVoMt"
+    }
+  ],
+  "drugdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "therapy_start_date": null,
+      "drugstartdate": null,
+      "therapy_end_date": null,
+      "drugenddate": null,
+      "medicinalproduct": "Esketamine"
+    }
+  ],
+  "reactiondetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "reporter_seriousness": "02",
+      "primarysrcreaction": "Sedation",
+      "reactstartdate": "2021-02-24T00:00:00",
+      "reactstartdatefmt": 3
+    }
+  ],
+  "additionaldetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "other_identification_ref": null,
+      "other_identification_number": null,
+      "company_unit": null
+    }
+  ]
+}
+2021-05-11 16:10:08 INFO  DataLoaders:33 - ---INFO--- Therapy Start/End Date of one of product is 'Null' so setting to 'Initial'
+2021-05-11 16:10:08 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page
+2021-05-11 16:10:14 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:10:19 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:10:24 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:10:24 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:10:30 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:10:31 INFO  DataLoaders:33 - ---INFO--- Entering Local Trade Name
+2021-05-11 16:10:32 INFO  DataLoaders:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-05-11 16:10:32 INFO  DataLoaders:33 - ---INFO--- Entering Country Name 
+2021-05-11 16:10:33 INFO  DataLoaders:33 - ---INFO--- Country Name entered United States Of America 
+2021-05-11 16:10:33 INFO  DataLoaders:33 - ---INFO--- Entering Approaval 
+2021-05-11 16:10:33 INFO  DataLoaders:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-05-11 16:10:39 INFO  DataLoaders:33 - ---INFO--- Study Patient ID feild on Receipt Summary is : 
+2021-05-11 16:10:39 INFO  DataLoaders:33 - ---INFO--- Entering Study Patient ID Since , Study Patient ID feild on Receipt Summary is Blank 
+2021-05-11 16:10:42 INFO  DataLoaders:33 - ---INFO--- Study Patient ID entered :257747
+2021-05-11 16:10:42 INFO  DataLoaders:33 - ---INFO--- Entering Formulation 
+2021-05-11 16:10:42 INFO  DataLoaders:33 - ---INFO--- Formulation label text is --Select--
+2021-05-11 16:10:47 INFO  DataLoaders:33 - ---INFO--- Formulation Entered 
+2021-05-11 16:10:47 INFO  DataLoaders:33 - ---INFO--- Entering ROA Label 
+2021-05-11 16:10:51 INFO  DataLoaders:33 - ---INFO--- Entering Local Case ID 
+2021-05-11 16:10:51 INFO  DataLoaders:33 - ---INFO--- Entered Local Case ID:US_Jan_PMF_9999985
+2021-05-11 16:10:52 INFO  DataLoaders:33 - ---INFO--- ROA label text is Not Applicable
+2021-05-11 16:10:52 INFO  DataLoaders:33 - ---INFO--- Repo Term label text is Sedation
+2021-05-11 16:10:52 INFO  DataLoaders:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-05-11 16:10:52 INFO  DataLoaders:33 - ---INFO--- Sex label text is Female
+2021-05-11 16:10:52 INFO  DataLoaders:33 - ---INFO--- AG label text is --Select--
+2021-05-11 16:10:57 INFO  DataLoaders:33 - ---INFO--- Clicked on Physician
+2021-05-11 16:11:06 INFO  DataLoaders:33 - ---INFO--- Filtered Patient
+2021-05-11 16:11:06 INFO  DataLoaders:33 - ---INFO--- Clickable Patient
+2021-05-11 16:11:06 INFO  DataLoaders:33 - ---INFO--- Clicked Patient
+2021-05-11 16:11:08 INFO  DataLoaders:33 - ---INFO--- Clicked Next
+2021-05-11 16:11:55 ERROR DataLoaders:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50207}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 64db9ad8861ae15eac68e596be866efa
+*** Element info: {Using=xpath, value=.//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']}
+2021-05-11 16:11:55 INFO  DataLoaders:33 - ---INFO--- Retrying same Test Iteration/Case - 2
+2021-05-11 16:11:55 INFO  DataLoaders:33 - ---INFO--- Retrying same Test Iteration/Case - 3
+2021-05-11 16:11:55 INFO  DataLoaders:33 - ---INFO--- report location isDupsSearchSummary_2021.05.11.16.04.03
+2021-05-11 16:11:55 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-05-11 16:12:00 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:12:05 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:12:10 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:12:10 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:12:17 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:12:17 INFO  DataLoaders:33 - ---INFO--- Report type is CT
+2021-05-11 16:12:20 INFO  DataLoaders:33 - ---INFO--- Study Patient ID is set to :257747 
+2021-05-11 16:12:20 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- FetchFullData-17439751
+2021-05-11 16:12:46 INFO  DataLoaders:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-05-11 16:12:46 INFO  DataLoaders:33 - ---INFO--- Reponse for Advere event is {
+  "receiptDetails": [
+    {
+      "patdob_fmt": 3,
+      "protocol_no": "PCSNSP001518",
+      "receipt_no": "RCT9641007",
+      "reporttype": "CT",
+      "gender": "Female",
+      "study_patient_no": null,
+      "aer_init_recv_date": "2021-02-25",
+      "patsex": "2",
+      "agx_asr_primary_src_country": "163",
+      "patdob_random_no": "VB0mBZDywThUtSafsw7y9OTsbGlXfDGaJ7dzuYH1GYI=",
+      "agx_wfa_activity_name": "Initial Review",
+      "safetyreportid": "US_Jan_PMF_9999985",
+      "aer_no": null,
+      "lrn_version_no": "1",
+      "agx_asr_serious": "02",
+      "patientinitial": "8RsgvtR+csEXmay/ZdukC0h9n4GclZy5kYlNQZJ/9Jg=",
+      "lrd": "2021-02-25",
+      "patdob": "1983-04-13",
+      "patinvestigationnumb": null,
+      "aer_version_no": null,
+      "local_case_id": "fdfdsfs",
+      "local_received_date": "2021-05-03",
+      "patonsetage": null,
+      "project_no": "PCSNSP001518",
+      "aer_latest_recv_date": "2021-02-25",
+      "aer_last": null,
+      "lrn_no": "LRN3209847",
+      "primarysourcecountry": "United States of America"
+    }
+  ],
+  "reporterdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "UVtSqPo0rfxD9yMh+XB1qBQzPxiXnn+m9VZijyPLy+4=",
+      "reportercity": null,
+      "reportergivenname": "N5nMY+c3LhoNMeThyukk+LSGUTXJbAbX0FPHvWEjJZY=",
+      "reportermiddlename": null,
+      "reporterpostcode": null,
+      "reportercountry": "163",
+      "reporterstate": null
+    },
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "K1wTU6+DkIZzuA7XL7QWckUUtt1md5GOQZZ7TLC62buvlOQ/PKZbm1Q4j7OjlidQ",
+      "reportercity": "VCu4fMYs8ltKU2ESkDttGRIV1oIoojGjR2/5iB1Cv8nbIC2+mnzd1MBtTpoM2pJ/",
+      "reportergivenname": "PpO5XaH4ysebPYMEAb+dxz6Mp+Obb9XYyK2lCUD5aAA=",
+      "reportermiddlename": null,
+      "reporterpostcode": "W6z+2ghWdiy4N0QkQIGpQVdxuDoBBQWSQ2WvZzFgaJE=",
+      "reportercountry": "163",
+      "reporterstate": "DcY8sbkgp/0KJJLti9xDvE17J6Ga28S+sx7eSALQgq86VsT1/R+TqSvJnRCGVoMt"
+    }
+  ],
+  "drugdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "therapy_start_date": null,
+      "drugstartdate": null,
+      "therapy_end_date": null,
+      "drugenddate": null,
+      "medicinalproduct": "Esketamine"
+    }
+  ],
+  "reactiondetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "reporter_seriousness": "02",
+      "primarysrcreaction": "Sedation",
+      "reactstartdate": "2021-02-24T00:00:00",
+      "reactstartdatefmt": 3
+    }
+  ],
+  "additionaldetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "other_identification_ref": null,
+      "other_identification_number": null,
+      "company_unit": null
+    }
+  ]
+}
+2021-05-11 16:12:46 INFO  DataLoaders:33 - ---INFO--- Therapy Start/End Date of one of product is 'Null' so setting to 'Initial'
+2021-05-11 16:12:46 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page
+2021-05-11 16:12:51 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:12:55 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:13:00 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:13:00 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:13:07 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:13:07 INFO  DataLoaders:33 - ---INFO--- Entering Local Trade Name
+2021-05-11 16:13:09 INFO  DataLoaders:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-05-11 16:13:09 INFO  DataLoaders:33 - ---INFO--- Entering Country Name 
+2021-05-11 16:13:10 INFO  DataLoaders:33 - ---INFO--- Country Name entered United States Of America 
+2021-05-11 16:13:10 INFO  DataLoaders:33 - ---INFO--- Entering Approaval 
+2021-05-11 16:13:10 INFO  DataLoaders:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-05-11 16:13:16 INFO  DataLoaders:33 - ---INFO--- Study Patient ID feild on Receipt Summary is : 
+2021-05-11 16:13:16 INFO  DataLoaders:33 - ---INFO--- Entering Study Patient ID Since , Study Patient ID feild on Receipt Summary is Blank 
+2021-05-11 16:13:19 INFO  DataLoaders:33 - ---INFO--- Study Patient ID entered :257747
+2021-05-11 16:13:19 INFO  DataLoaders:33 - ---INFO--- Entering Formulation 
+2021-05-11 16:13:19 INFO  DataLoaders:33 - ---INFO--- Formulation label text is --Select--
+2021-05-11 16:13:25 INFO  DataLoaders:33 - ---INFO--- Formulation Entered 
+2021-05-11 16:13:25 INFO  DataLoaders:33 - ---INFO--- Entering ROA Label 
+2021-05-11 16:13:28 INFO  DataLoaders:33 - ---INFO--- Entering Local Case ID 
+2021-05-11 16:13:29 INFO  DataLoaders:33 - ---INFO--- Entered Local Case ID:US_Jan_PMF_9999985
+2021-05-11 16:13:29 INFO  DataLoaders:33 - ---INFO--- ROA label text is Not Applicable
+2021-05-11 16:13:29 INFO  DataLoaders:33 - ---INFO--- Repo Term label text is Sedation
+2021-05-11 16:13:29 INFO  DataLoaders:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-05-11 16:13:29 INFO  DataLoaders:33 - ---INFO--- Sex label text is Female
+2021-05-11 16:13:29 INFO  DataLoaders:33 - ---INFO--- AG label text is --Select--
+2021-05-11 16:13:35 INFO  DataLoaders:33 - ---INFO--- Clicked on Physician
+2021-05-11 16:13:43 INFO  DataLoaders:33 - ---INFO--- Filtered Patient
+2021-05-11 16:13:43 INFO  DataLoaders:33 - ---INFO--- Clickable Patient
+2021-05-11 16:13:43 INFO  DataLoaders:33 - ---INFO--- Clicked Patient
+2021-05-11 16:13:45 INFO  DataLoaders:33 - ---INFO--- Clicked Next
+2021-05-11 16:14:32 ERROR DataLoaders:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50207}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 64db9ad8861ae15eac68e596be866efa
+*** Element info: {Using=xpath, value=.//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']}
+2021-05-11 16:14:32 INFO  DataLoaders:33 - ---INFO--- Retrying same Test Iteration/Case - 1
+2021-05-11 16:14:32 INFO  DataLoaders:33 - ---INFO--- report location isDupsSearchSummary_2021.05.11.16.04.03
+2021-05-11 16:14:32 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-05-11 16:14:37 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:14:41 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:14:46 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:14:46 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:14:52 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:14:52 INFO  DataLoaders:33 - ---INFO--- Report type is CT
+2021-05-11 16:14:55 INFO  DataLoaders:33 - ---INFO--- Study Patient ID is set to :257747 
+2021-05-11 16:14:55 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- FetchFullData1268686228
+2021-05-11 16:15:20 INFO  DataLoaders:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-05-11 16:15:20 INFO  DataLoaders:33 - ---INFO--- Reponse for Advere event is {
+  "receiptDetails": [
+    {
+      "patdob_fmt": 3,
+      "protocol_no": "PCSNSP001518",
+      "receipt_no": "RCT9641007",
+      "reporttype": "CT",
+      "gender": "Female",
+      "study_patient_no": null,
+      "aer_init_recv_date": "2021-02-25",
+      "patsex": "2",
+      "agx_asr_primary_src_country": "163",
+      "patdob_random_no": "VB0mBZDywThUtSafsw7y9OTsbGlXfDGaJ7dzuYH1GYI=",
+      "agx_wfa_activity_name": "Initial Review",
+      "safetyreportid": "US_Jan_PMF_9999985",
+      "aer_no": null,
+      "lrn_version_no": "1",
+      "agx_asr_serious": "02",
+      "patientinitial": "8RsgvtR+csEXmay/ZdukC0h9n4GclZy5kYlNQZJ/9Jg=",
+      "lrd": "2021-02-25",
+      "patdob": "1983-04-13",
+      "patinvestigationnumb": null,
+      "aer_version_no": null,
+      "local_case_id": "fdfdsfs",
+      "local_received_date": "2021-05-03",
+      "patonsetage": null,
+      "project_no": "PCSNSP001518",
+      "aer_latest_recv_date": "2021-02-25",
+      "aer_last": null,
+      "lrn_no": "LRN3209847",
+      "primarysourcecountry": "United States of America"
+    }
+  ],
+  "reporterdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "UVtSqPo0rfxD9yMh+XB1qBQzPxiXnn+m9VZijyPLy+4=",
+      "reportercity": null,
+      "reportergivenname": "N5nMY+c3LhoNMeThyukk+LSGUTXJbAbX0FPHvWEjJZY=",
+      "reportermiddlename": null,
+      "reporterpostcode": null,
+      "reportercountry": "163",
+      "reporterstate": null
+    },
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "K1wTU6+DkIZzuA7XL7QWckUUtt1md5GOQZZ7TLC62buvlOQ/PKZbm1Q4j7OjlidQ",
+      "reportercity": "VCu4fMYs8ltKU2ESkDttGRIV1oIoojGjR2/5iB1Cv8nbIC2+mnzd1MBtTpoM2pJ/",
+      "reportergivenname": "PpO5XaH4ysebPYMEAb+dxz6Mp+Obb9XYyK2lCUD5aAA=",
+      "reportermiddlename": null,
+      "reporterpostcode": "W6z+2ghWdiy4N0QkQIGpQVdxuDoBBQWSQ2WvZzFgaJE=",
+      "reportercountry": "163",
+      "reporterstate": "DcY8sbkgp/0KJJLti9xDvE17J6Ga28S+sx7eSALQgq86VsT1/R+TqSvJnRCGVoMt"
+    }
+  ],
+  "drugdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "therapy_start_date": null,
+      "drugstartdate": null,
+      "therapy_end_date": null,
+      "drugenddate": null,
+      "medicinalproduct": "Esketamine"
+    }
+  ],
+  "reactiondetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "reporter_seriousness": "02",
+      "primarysrcreaction": "Sedation",
+      "reactstartdate": "2021-02-24T00:00:00",
+      "reactstartdatefmt": 3
+    }
+  ],
+  "additionaldetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "other_identification_ref": null,
+      "other_identification_number": null,
+      "company_unit": null
+    }
+  ]
+}
+2021-05-11 16:15:20 INFO  DataLoaders:33 - ---INFO--- Therapy Start/End Date of one of product is 'Null' so setting to 'Initial'
+2021-05-11 16:15:20 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page
+2021-05-11 16:15:25 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:15:30 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:15:34 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:15:34 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:15:40 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:15:40 INFO  DataLoaders:33 - ---INFO--- Entering Local Trade Name
+2021-05-11 16:15:42 INFO  DataLoaders:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-05-11 16:15:42 INFO  DataLoaders:33 - ---INFO--- Entering Country Name 
+2021-05-11 16:15:43 INFO  DataLoaders:33 - ---INFO--- Country Name entered United States Of America 
+2021-05-11 16:15:43 INFO  DataLoaders:33 - ---INFO--- Entering Approaval 
+2021-05-11 16:15:43 INFO  DataLoaders:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-05-11 16:15:49 INFO  DataLoaders:33 - ---INFO--- Study Patient ID feild on Receipt Summary is : 
+2021-05-11 16:15:49 INFO  DataLoaders:33 - ---INFO--- Entering Study Patient ID Since , Study Patient ID feild on Receipt Summary is Blank 
+2021-05-11 16:15:52 INFO  DataLoaders:33 - ---INFO--- Study Patient ID entered :257747
+2021-05-11 16:15:52 INFO  DataLoaders:33 - ---INFO--- Entering Formulation 
+2021-05-11 16:15:52 INFO  DataLoaders:33 - ---INFO--- Formulation label text is --Select--
+2021-05-11 16:15:57 INFO  DataLoaders:33 - ---INFO--- Formulation Entered 
+2021-05-11 16:15:57 INFO  DataLoaders:33 - ---INFO--- Entering ROA Label 
+2021-05-11 16:16:01 INFO  DataLoaders:33 - ---INFO--- Entering Local Case ID 
+2021-05-11 16:16:01 INFO  DataLoaders:33 - ---INFO--- Entered Local Case ID:US_Jan_PMF_9999985
+2021-05-11 16:16:01 INFO  DataLoaders:33 - ---INFO--- ROA label text is Not Applicable
+2021-05-11 16:16:02 INFO  DataLoaders:33 - ---INFO--- Repo Term label text is Sedation
+2021-05-11 16:16:02 INFO  DataLoaders:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-05-11 16:16:02 INFO  DataLoaders:33 - ---INFO--- Sex label text is Female
+2021-05-11 16:16:02 INFO  DataLoaders:33 - ---INFO--- AG label text is --Select--
+2021-05-11 16:16:07 INFO  DataLoaders:33 - ---INFO--- Clicked on Physician
+2021-05-11 16:16:16 INFO  DataLoaders:33 - ---INFO--- Filtered Patient
+2021-05-11 16:16:16 INFO  DataLoaders:33 - ---INFO--- Clickable Patient
+2021-05-11 16:16:16 INFO  DataLoaders:33 - ---INFO--- Clicked Patient
+2021-05-11 16:16:18 INFO  DataLoaders:33 - ---INFO--- Clicked Next
+2021-05-11 16:17:05 ERROR DataLoaders:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50207}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 64db9ad8861ae15eac68e596be866efa
+*** Element info: {Using=xpath, value=.//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']}
+2021-05-11 16:17:05 INFO  DataLoaders:33 - ---INFO--- Retrying same Test Iteration/Case - 2
+2021-05-11 16:17:05 INFO  DataLoaders:33 - ---INFO--- Retrying same Test Iteration/Case - 3
+2021-05-11 16:17:05 INFO  DataLoaders:33 - ---INFO--- report location isDupsSearchSummary_2021.05.11.16.04.03
+2021-05-11 16:17:05 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-05-11 16:17:10 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:17:14 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:17:18 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:17:18 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:17:24 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:17:24 INFO  DataLoaders:33 - ---INFO--- Report type is CT
+2021-05-11 16:17:28 INFO  DataLoaders:33 - ---INFO--- Study Patient ID is set to :257747 
+2021-05-11 16:17:28 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- FetchFullData1518468333
+2021-05-11 16:17:53 INFO  DataLoaders:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-05-11 16:17:53 INFO  DataLoaders:33 - ---INFO--- Reponse for Advere event is {
+  "receiptDetails": [
+    {
+      "patdob_fmt": 3,
+      "protocol_no": "PCSNSP001518",
+      "receipt_no": "RCT9641007",
+      "reporttype": "CT",
+      "gender": "Female",
+      "study_patient_no": null,
+      "aer_init_recv_date": "2021-02-25",
+      "patsex": "2",
+      "agx_asr_primary_src_country": "163",
+      "patdob_random_no": "VB0mBZDywThUtSafsw7y9OTsbGlXfDGaJ7dzuYH1GYI=",
+      "agx_wfa_activity_name": "Initial Review",
+      "safetyreportid": "US_Jan_PMF_9999985",
+      "aer_no": null,
+      "lrn_version_no": "1",
+      "agx_asr_serious": "02",
+      "patientinitial": "8RsgvtR+csEXmay/ZdukC0h9n4GclZy5kYlNQZJ/9Jg=",
+      "lrd": "2021-02-25",
+      "patdob": "1983-04-13",
+      "patinvestigationnumb": null,
+      "aer_version_no": null,
+      "local_case_id": "fdfdsfs",
+      "local_received_date": "2021-05-03",
+      "patonsetage": null,
+      "project_no": "PCSNSP001518",
+      "aer_latest_recv_date": "2021-02-25",
+      "aer_last": null,
+      "lrn_no": "LRN3209847",
+      "primarysourcecountry": "United States of America"
+    }
+  ],
+  "reporterdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "UVtSqPo0rfxD9yMh+XB1qBQzPxiXnn+m9VZijyPLy+4=",
+      "reportercity": null,
+      "reportergivenname": "N5nMY+c3LhoNMeThyukk+LSGUTXJbAbX0FPHvWEjJZY=",
+      "reportermiddlename": null,
+      "reporterpostcode": null,
+      "reportercountry": "163",
+      "reporterstate": null
+    },
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "K1wTU6+DkIZzuA7XL7QWckUUtt1md5GOQZZ7TLC62buvlOQ/PKZbm1Q4j7OjlidQ",
+      "reportercity": "VCu4fMYs8ltKU2ESkDttGRIV1oIoojGjR2/5iB1Cv8nbIC2+mnzd1MBtTpoM2pJ/",
+      "reportergivenname": "PpO5XaH4ysebPYMEAb+dxz6Mp+Obb9XYyK2lCUD5aAA=",
+      "reportermiddlename": null,
+      "reporterpostcode": "W6z+2ghWdiy4N0QkQIGpQVdxuDoBBQWSQ2WvZzFgaJE=",
+      "reportercountry": "163",
+      "reporterstate": "DcY8sbkgp/0KJJLti9xDvE17J6Ga28S+sx7eSALQgq86VsT1/R+TqSvJnRCGVoMt"
+    }
+  ],
+  "drugdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "therapy_start_date": null,
+      "drugstartdate": null,
+      "therapy_end_date": null,
+      "drugenddate": null,
+      "medicinalproduct": "Esketamine"
+    }
+  ],
+  "reactiondetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "reporter_seriousness": "02",
+      "primarysrcreaction": "Sedation",
+      "reactstartdate": "2021-02-24T00:00:00",
+      "reactstartdatefmt": 3
+    }
+  ],
+  "additionaldetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "other_identification_ref": null,
+      "other_identification_number": null,
+      "company_unit": null
+    }
+  ]
+}
+2021-05-11 16:17:53 INFO  DataLoaders:33 - ---INFO--- Therapy Start/End Date of one of product is 'Null' so setting to 'Initial'
+2021-05-11 16:17:53 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page
+2021-05-11 16:17:58 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:18:02 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:18:07 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:18:07 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:18:14 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:18:14 INFO  DataLoaders:33 - ---INFO--- Entering Local Trade Name
+2021-05-11 16:18:15 INFO  DataLoaders:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-05-11 16:18:15 INFO  DataLoaders:33 - ---INFO--- Entering Country Name 
+2021-05-11 16:18:16 INFO  DataLoaders:33 - ---INFO--- Country Name entered United States Of America 
+2021-05-11 16:18:16 INFO  DataLoaders:33 - ---INFO--- Entering Approaval 
+2021-05-11 16:18:17 INFO  DataLoaders:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-05-11 16:18:22 INFO  DataLoaders:33 - ---INFO--- Study Patient ID feild on Receipt Summary is : 
+2021-05-11 16:18:22 INFO  DataLoaders:33 - ---INFO--- Entering Study Patient ID Since , Study Patient ID feild on Receipt Summary is Blank 
+2021-05-11 16:18:26 INFO  DataLoaders:33 - ---INFO--- Study Patient ID entered :257747
+2021-05-11 16:18:26 INFO  DataLoaders:33 - ---INFO--- Entering Formulation 
+2021-05-11 16:18:26 INFO  DataLoaders:33 - ---INFO--- Formulation label text is --Select--
+2021-05-11 16:18:31 INFO  DataLoaders:33 - ---INFO--- Formulation Entered 
+2021-05-11 16:18:31 INFO  DataLoaders:33 - ---INFO--- Entering ROA Label 
+2021-05-11 16:18:34 INFO  DataLoaders:33 - ---INFO--- Entering Local Case ID 
+2021-05-11 16:18:35 INFO  DataLoaders:33 - ---INFO--- Entered Local Case ID:US_Jan_PMF_9999985
+2021-05-11 16:18:35 INFO  DataLoaders:33 - ---INFO--- ROA label text is Not Applicable
+2021-05-11 16:18:35 INFO  DataLoaders:33 - ---INFO--- Repo Term label text is Sedation
+2021-05-11 16:18:36 INFO  DataLoaders:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-05-11 16:18:36 INFO  DataLoaders:33 - ---INFO--- Sex label text is Female
+2021-05-11 16:18:36 INFO  DataLoaders:33 - ---INFO--- AG label text is --Select--
+2021-05-11 16:18:41 INFO  DataLoaders:33 - ---INFO--- Clicked on Physician
+2021-05-11 16:18:49 INFO  DataLoaders:33 - ---INFO--- Filtered Patient
+2021-05-11 16:18:49 INFO  DataLoaders:33 - ---INFO--- Clickable Patient
+2021-05-11 16:18:50 INFO  DataLoaders:33 - ---INFO--- Clicked Patient
+2021-05-11 16:18:52 INFO  DataLoaders:33 - ---INFO--- Clicked Next
+2021-05-11 16:19:39 ERROR DataLoaders:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50207}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 64db9ad8861ae15eac68e596be866efa
+*** Element info: {Using=xpath, value=.//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']}
+2021-05-11 16:19:39 INFO  DataLoaders:33 - ---INFO--- Retrying same Test Iteration/Case - 1
+2021-05-11 16:19:39 INFO  DataLoaders:33 - ---INFO--- report location isDupsSearchSummary_2021.05.11.16.04.03
+2021-05-11 16:19:39 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-05-11 16:19:44 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:19:48 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:19:52 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:19:52 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:19:58 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:19:58 INFO  DataLoaders:33 - ---INFO--- Report type is CT
+2021-05-11 16:20:01 INFO  DataLoaders:33 - ---INFO--- Study Patient ID is set to :257747 
+2021-05-11 16:20:01 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- FetchFullData-334346174
+2021-05-11 16:20:27 INFO  DataLoaders:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-05-11 16:20:27 INFO  DataLoaders:33 - ---INFO--- Reponse for Advere event is {
+  "receiptDetails": [
+    {
+      "patdob_fmt": 3,
+      "protocol_no": "PCSNSP001518",
+      "receipt_no": "RCT9641007",
+      "reporttype": "CT",
+      "gender": "Female",
+      "study_patient_no": null,
+      "aer_init_recv_date": "2021-02-25",
+      "patsex": "2",
+      "agx_asr_primary_src_country": "163",
+      "patdob_random_no": "VB0mBZDywThUtSafsw7y9OTsbGlXfDGaJ7dzuYH1GYI=",
+      "agx_wfa_activity_name": "Initial Review",
+      "safetyreportid": "US_Jan_PMF_9999985",
+      "aer_no": null,
+      "lrn_version_no": "1",
+      "agx_asr_serious": "02",
+      "patientinitial": "8RsgvtR+csEXmay/ZdukC0h9n4GclZy5kYlNQZJ/9Jg=",
+      "lrd": "2021-02-25",
+      "patdob": "1983-04-13",
+      "patinvestigationnumb": null,
+      "aer_version_no": null,
+      "local_case_id": "fdfdsfs",
+      "local_received_date": "2021-05-03",
+      "patonsetage": null,
+      "project_no": "PCSNSP001518",
+      "aer_latest_recv_date": "2021-02-25",
+      "aer_last": null,
+      "lrn_no": "LRN3209847",
+      "primarysourcecountry": "United States of America"
+    }
+  ],
+  "reporterdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "UVtSqPo0rfxD9yMh+XB1qBQzPxiXnn+m9VZijyPLy+4=",
+      "reportercity": null,
+      "reportergivenname": "N5nMY+c3LhoNMeThyukk+LSGUTXJbAbX0FPHvWEjJZY=",
+      "reportermiddlename": null,
+      "reporterpostcode": null,
+      "reportercountry": "163",
+      "reporterstate": null
+    },
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "K1wTU6+DkIZzuA7XL7QWckUUtt1md5GOQZZ7TLC62buvlOQ/PKZbm1Q4j7OjlidQ",
+      "reportercity": "VCu4fMYs8ltKU2ESkDttGRIV1oIoojGjR2/5iB1Cv8nbIC2+mnzd1MBtTpoM2pJ/",
+      "reportergivenname": "PpO5XaH4ysebPYMEAb+dxz6Mp+Obb9XYyK2lCUD5aAA=",
+      "reportermiddlename": null,
+      "reporterpostcode": "W6z+2ghWdiy4N0QkQIGpQVdxuDoBBQWSQ2WvZzFgaJE=",
+      "reportercountry": "163",
+      "reporterstate": "DcY8sbkgp/0KJJLti9xDvE17J6Ga28S+sx7eSALQgq86VsT1/R+TqSvJnRCGVoMt"
+    }
+  ],
+  "drugdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "therapy_start_date": null,
+      "drugstartdate": null,
+      "therapy_end_date": null,
+      "drugenddate": null,
+      "medicinalproduct": "Esketamine"
+    }
+  ],
+  "reactiondetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "reporter_seriousness": "02",
+      "primarysrcreaction": "Sedation",
+      "reactstartdate": "2021-02-24T00:00:00",
+      "reactstartdatefmt": 3
+    }
+  ],
+  "additionaldetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "other_identification_ref": null,
+      "other_identification_number": null,
+      "company_unit": null
+    }
+  ]
+}
+2021-05-11 16:20:27 INFO  DataLoaders:33 - ---INFO--- Therapy Start/End Date of one of product is 'Null' so setting to 'Initial'
+2021-05-11 16:20:27 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page
+2021-05-11 16:20:32 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:20:36 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:20:41 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:20:41 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:20:47 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:20:47 INFO  DataLoaders:33 - ---INFO--- Entering Local Trade Name
+2021-05-11 16:20:48 INFO  DataLoaders:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-05-11 16:20:48 INFO  DataLoaders:33 - ---INFO--- Entering Country Name 
+2021-05-11 16:20:49 INFO  DataLoaders:33 - ---INFO--- Country Name entered United States Of America 
+2021-05-11 16:20:49 INFO  DataLoaders:33 - ---INFO--- Entering Approaval 
+2021-05-11 16:20:50 INFO  DataLoaders:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-05-11 16:20:55 INFO  DataLoaders:33 - ---INFO--- Study Patient ID feild on Receipt Summary is : 
+2021-05-11 16:20:55 INFO  DataLoaders:33 - ---INFO--- Entering Study Patient ID Since , Study Patient ID feild on Receipt Summary is Blank 
+2021-05-11 16:20:58 INFO  DataLoaders:33 - ---INFO--- Study Patient ID entered :257747
+2021-05-11 16:20:58 INFO  DataLoaders:33 - ---INFO--- Entering Formulation 
+2021-05-11 16:20:59 INFO  DataLoaders:33 - ---INFO--- Formulation label text is --Select--
+2021-05-11 16:21:04 INFO  DataLoaders:33 - ---INFO--- Formulation Entered 
+2021-05-11 16:21:04 INFO  DataLoaders:33 - ---INFO--- Entering ROA Label 
+2021-05-11 16:21:07 INFO  DataLoaders:33 - ---INFO--- Entering Local Case ID 
+2021-05-11 16:21:08 INFO  DataLoaders:33 - ---INFO--- Entered Local Case ID:US_Jan_PMF_9999985
+2021-05-11 16:21:08 INFO  DataLoaders:33 - ---INFO--- ROA label text is Not Applicable
+2021-05-11 16:21:08 INFO  DataLoaders:33 - ---INFO--- Repo Term label text is Sedation
+2021-05-11 16:21:08 INFO  DataLoaders:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-05-11 16:21:09 INFO  DataLoaders:33 - ---INFO--- Sex label text is Female
+2021-05-11 16:21:09 INFO  DataLoaders:33 - ---INFO--- AG label text is --Select--
+2021-05-11 16:21:14 INFO  DataLoaders:33 - ---INFO--- Clicked on Physician
+2021-05-11 16:21:22 INFO  DataLoaders:33 - ---INFO--- Filtered Patient
+2021-05-11 16:21:22 INFO  DataLoaders:33 - ---INFO--- Clickable Patient
+2021-05-11 16:21:23 INFO  DataLoaders:33 - ---INFO--- Clicked Patient
+2021-05-11 16:21:25 INFO  DataLoaders:33 - ---INFO--- Clicked Next
+2021-05-11 16:22:12 ERROR DataLoaders:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50207}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 64db9ad8861ae15eac68e596be866efa
+*** Element info: {Using=xpath, value=.//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']}
+2021-05-11 16:22:12 INFO  DataLoaders:33 - ---INFO--- Retrying same Test Iteration/Case - 2
+2021-05-11 16:22:12 INFO  DataLoaders:33 - ---INFO--- Retrying same Test Iteration/Case - 3
+2021-05-11 16:22:12 INFO  DataLoaders:33 - ---INFO--- report location isDupsSearchSummary_2021.05.11.16.04.03
+2021-05-11 16:22:12 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-05-11 16:22:17 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:22:21 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:22:25 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:22:25 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:22:31 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:22:31 INFO  DataLoaders:33 - ---INFO--- Report type is CT
+2021-05-11 16:22:34 INFO  DataLoaders:33 - ---INFO--- Study Patient ID is set to :257747 
+2021-05-11 16:22:34 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- FetchFullData1743591042
+2021-05-11 16:22:58 INFO  DataLoaders:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-05-11 16:22:58 INFO  DataLoaders:33 - ---INFO--- Reponse for Advere event is {
+  "receiptDetails": [
+    {
+      "patdob_fmt": 3,
+      "protocol_no": "PCSNSP001518",
+      "receipt_no": "RCT9641007",
+      "reporttype": "CT",
+      "gender": "Female",
+      "study_patient_no": null,
+      "aer_init_recv_date": "2021-02-25",
+      "patsex": "2",
+      "agx_asr_primary_src_country": "163",
+      "patdob_random_no": "VB0mBZDywThUtSafsw7y9OTsbGlXfDGaJ7dzuYH1GYI=",
+      "agx_wfa_activity_name": "Initial Review",
+      "safetyreportid": "US_Jan_PMF_9999985",
+      "aer_no": null,
+      "lrn_version_no": "1",
+      "agx_asr_serious": "02",
+      "patientinitial": "8RsgvtR+csEXmay/ZdukC0h9n4GclZy5kYlNQZJ/9Jg=",
+      "lrd": "2021-02-25",
+      "patdob": "1983-04-13",
+      "patinvestigationnumb": null,
+      "aer_version_no": null,
+      "local_case_id": "fdfdsfs",
+      "local_received_date": "2021-05-03",
+      "patonsetage": null,
+      "project_no": "PCSNSP001518",
+      "aer_latest_recv_date": "2021-02-25",
+      "aer_last": null,
+      "lrn_no": "LRN3209847",
+      "primarysourcecountry": "United States of America"
+    }
+  ],
+  "reporterdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "UVtSqPo0rfxD9yMh+XB1qBQzPxiXnn+m9VZijyPLy+4=",
+      "reportercity": null,
+      "reportergivenname": "N5nMY+c3LhoNMeThyukk+LSGUTXJbAbX0FPHvWEjJZY=",
+      "reportermiddlename": null,
+      "reporterpostcode": null,
+      "reportercountry": "163",
+      "reporterstate": null
+    },
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "K1wTU6+DkIZzuA7XL7QWckUUtt1md5GOQZZ7TLC62buvlOQ/PKZbm1Q4j7OjlidQ",
+      "reportercity": "VCu4fMYs8ltKU2ESkDttGRIV1oIoojGjR2/5iB1Cv8nbIC2+mnzd1MBtTpoM2pJ/",
+      "reportergivenname": "PpO5XaH4ysebPYMEAb+dxz6Mp+Obb9XYyK2lCUD5aAA=",
+      "reportermiddlename": null,
+      "reporterpostcode": "W6z+2ghWdiy4N0QkQIGpQVdxuDoBBQWSQ2WvZzFgaJE=",
+      "reportercountry": "163",
+      "reporterstate": "DcY8sbkgp/0KJJLti9xDvE17J6Ga28S+sx7eSALQgq86VsT1/R+TqSvJnRCGVoMt"
+    }
+  ],
+  "drugdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "therapy_start_date": null,
+      "drugstartdate": null,
+      "therapy_end_date": null,
+      "drugenddate": null,
+      "medicinalproduct": "Esketamine"
+    }
+  ],
+  "reactiondetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "reporter_seriousness": "02",
+      "primarysrcreaction": "Sedation",
+      "reactstartdate": "2021-02-24T00:00:00",
+      "reactstartdatefmt": 3
+    }
+  ],
+  "additionaldetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "other_identification_ref": null,
+      "other_identification_number": null,
+      "company_unit": null
+    }
+  ]
+}
+2021-05-11 16:22:58 INFO  DataLoaders:33 - ---INFO--- Therapy Start/End Date of one of product is 'Null' so setting to 'Initial'
+2021-05-11 16:22:58 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page
+2021-05-11 16:23:04 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:23:08 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:23:13 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:23:13 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:23:19 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:23:19 INFO  DataLoaders:33 - ---INFO--- Entering Local Trade Name
+2021-05-11 16:23:20 INFO  DataLoaders:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-05-11 16:23:20 INFO  DataLoaders:33 - ---INFO--- Entering Country Name 
+2021-05-11 16:23:21 INFO  DataLoaders:33 - ---INFO--- Country Name entered United States Of America 
+2021-05-11 16:23:21 INFO  DataLoaders:33 - ---INFO--- Entering Approaval 
+2021-05-11 16:23:21 INFO  DataLoaders:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-05-11 16:23:27 INFO  DataLoaders:33 - ---INFO--- Study Patient ID feild on Receipt Summary is : 
+2021-05-11 16:23:27 INFO  DataLoaders:33 - ---INFO--- Entering Study Patient ID Since , Study Patient ID feild on Receipt Summary is Blank 
+2021-05-11 16:23:30 INFO  DataLoaders:33 - ---INFO--- Study Patient ID entered :257747
+2021-05-11 16:23:30 INFO  DataLoaders:33 - ---INFO--- Entering Formulation 
+2021-05-11 16:23:30 INFO  DataLoaders:33 - ---INFO--- Formulation label text is --Select--
+2021-05-11 16:23:35 INFO  DataLoaders:33 - ---INFO--- Formulation Entered 
+2021-05-11 16:23:35 INFO  DataLoaders:33 - ---INFO--- Entering ROA Label 
+2021-05-11 16:23:39 INFO  DataLoaders:33 - ---INFO--- Entering Local Case ID 
+2021-05-11 16:23:40 INFO  DataLoaders:33 - ---INFO--- Entered Local Case ID:US_Jan_PMF_9999985
+2021-05-11 16:23:40 INFO  DataLoaders:33 - ---INFO--- ROA label text is Not Applicable
+2021-05-11 16:23:40 INFO  DataLoaders:33 - ---INFO--- Repo Term label text is Sedation
+2021-05-11 16:23:40 INFO  DataLoaders:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-05-11 16:23:40 INFO  DataLoaders:33 - ---INFO--- Sex label text is Female
+2021-05-11 16:23:40 INFO  DataLoaders:33 - ---INFO--- AG label text is --Select--
+2021-05-11 16:23:46 INFO  DataLoaders:33 - ---INFO--- Clicked on Physician
+2021-05-11 16:23:54 INFO  DataLoaders:33 - ---INFO--- Filtered Patient
+2021-05-11 16:23:54 INFO  DataLoaders:33 - ---INFO--- Clickable Patient
+2021-05-11 16:23:54 INFO  DataLoaders:33 - ---INFO--- Clicked Patient
+2021-05-11 16:23:56 INFO  DataLoaders:33 - ---INFO--- Clicked Next
+2021-05-11 16:24:43 ERROR DataLoaders:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50207}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 64db9ad8861ae15eac68e596be866efa
+*** Element info: {Using=xpath, value=.//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']}
+2021-05-11 16:24:43 INFO  DataLoaders:33 - ---INFO--- Retrying same Test Iteration/Case - 1
+2021-05-11 16:24:43 INFO  DataLoaders:33 - ---INFO--- report location isDupsSearchSummary_2021.05.11.16.04.03
+2021-05-11 16:24:43 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-05-11 16:24:49 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:24:53 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:24:57 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:24:57 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:25:04 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:25:04 INFO  DataLoaders:33 - ---INFO--- Report type is CT
+2021-05-11 16:25:08 INFO  DataLoaders:33 - ---INFO--- Study Patient ID is set to :257747 
+2021-05-11 16:25:08 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- FetchFullData-16916528
+2021-05-11 16:25:33 INFO  DataLoaders:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-05-11 16:25:33 INFO  DataLoaders:33 - ---INFO--- Reponse for Advere event is {
+  "receiptDetails": [
+    {
+      "patdob_fmt": 3,
+      "protocol_no": "PCSNSP001518",
+      "receipt_no": "RCT9641007",
+      "reporttype": "CT",
+      "gender": "Female",
+      "study_patient_no": null,
+      "aer_init_recv_date": "2021-02-25",
+      "patsex": "2",
+      "agx_asr_primary_src_country": "163",
+      "patdob_random_no": "VB0mBZDywThUtSafsw7y9OTsbGlXfDGaJ7dzuYH1GYI=",
+      "agx_wfa_activity_name": "Initial Review",
+      "safetyreportid": "US_Jan_PMF_9999985",
+      "aer_no": null,
+      "lrn_version_no": "1",
+      "agx_asr_serious": "02",
+      "patientinitial": "8RsgvtR+csEXmay/ZdukC0h9n4GclZy5kYlNQZJ/9Jg=",
+      "lrd": "2021-02-25",
+      "patdob": "1983-04-13",
+      "patinvestigationnumb": null,
+      "aer_version_no": null,
+      "local_case_id": "fdfdsfs",
+      "local_received_date": "2021-05-03",
+      "patonsetage": null,
+      "project_no": "PCSNSP001518",
+      "aer_latest_recv_date": "2021-02-25",
+      "aer_last": null,
+      "lrn_no": "LRN3209847",
+      "primarysourcecountry": "United States of America"
+    }
+  ],
+  "reporterdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "UVtSqPo0rfxD9yMh+XB1qBQzPxiXnn+m9VZijyPLy+4=",
+      "reportercity": null,
+      "reportergivenname": "N5nMY+c3LhoNMeThyukk+LSGUTXJbAbX0FPHvWEjJZY=",
+      "reportermiddlename": null,
+      "reporterpostcode": null,
+      "reportercountry": "163",
+      "reporterstate": null
+    },
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "K1wTU6+DkIZzuA7XL7QWckUUtt1md5GOQZZ7TLC62buvlOQ/PKZbm1Q4j7OjlidQ",
+      "reportercity": "VCu4fMYs8ltKU2ESkDttGRIV1oIoojGjR2/5iB1Cv8nbIC2+mnzd1MBtTpoM2pJ/",
+      "reportergivenname": "PpO5XaH4ysebPYMEAb+dxz6Mp+Obb9XYyK2lCUD5aAA=",
+      "reportermiddlename": null,
+      "reporterpostcode": "W6z+2ghWdiy4N0QkQIGpQVdxuDoBBQWSQ2WvZzFgaJE=",
+      "reportercountry": "163",
+      "reporterstate": "DcY8sbkgp/0KJJLti9xDvE17J6Ga28S+sx7eSALQgq86VsT1/R+TqSvJnRCGVoMt"
+    }
+  ],
+  "drugdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "therapy_start_date": null,
+      "drugstartdate": null,
+      "therapy_end_date": null,
+      "drugenddate": null,
+      "medicinalproduct": "Esketamine"
+    }
+  ],
+  "reactiondetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "reporter_seriousness": "02",
+      "primarysrcreaction": "Sedation",
+      "reactstartdate": "2021-02-24T00:00:00",
+      "reactstartdatefmt": 3
+    }
+  ],
+  "additionaldetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "other_identification_ref": null,
+      "other_identification_number": null,
+      "company_unit": null
+    }
+  ]
+}
+2021-05-11 16:25:33 INFO  DataLoaders:33 - ---INFO--- Therapy Start/End Date of one of product is 'Null' so setting to 'Initial'
+2021-05-11 16:25:33 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page
+2021-05-11 16:25:38 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:25:42 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:25:47 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:25:47 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:25:53 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:25:53 INFO  DataLoaders:33 - ---INFO--- Entering Local Trade Name
+2021-05-11 16:25:55 INFO  DataLoaders:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-05-11 16:25:55 INFO  DataLoaders:33 - ---INFO--- Entering Country Name 
+2021-05-11 16:25:56 INFO  DataLoaders:33 - ---INFO--- Country Name entered United States Of America 
+2021-05-11 16:25:56 INFO  DataLoaders:33 - ---INFO--- Entering Approaval 
+2021-05-11 16:25:56 INFO  DataLoaders:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-05-11 16:26:02 INFO  DataLoaders:33 - ---INFO--- Study Patient ID feild on Receipt Summary is : 
+2021-05-11 16:26:02 INFO  DataLoaders:33 - ---INFO--- Entering Study Patient ID Since , Study Patient ID feild on Receipt Summary is Blank 
+2021-05-11 16:26:05 INFO  DataLoaders:33 - ---INFO--- Study Patient ID entered :257747
+2021-05-11 16:26:05 INFO  DataLoaders:33 - ---INFO--- Entering Formulation 
+2021-05-11 16:26:05 INFO  DataLoaders:33 - ---INFO--- Formulation label text is --Select--
+2021-05-11 16:26:10 INFO  DataLoaders:33 - ---INFO--- Formulation Entered 
+2021-05-11 16:26:10 INFO  DataLoaders:33 - ---INFO--- Entering ROA Label 
+2021-05-11 16:26:14 INFO  DataLoaders:33 - ---INFO--- Entering Local Case ID 
+2021-05-11 16:26:15 INFO  DataLoaders:33 - ---INFO--- Entered Local Case ID:US_Jan_PMF_9999985
+2021-05-11 16:26:15 INFO  DataLoaders:33 - ---INFO--- ROA label text is Not Applicable
+2021-05-11 16:26:15 INFO  DataLoaders:33 - ---INFO--- Repo Term label text is Sedation
+2021-05-11 16:26:15 INFO  DataLoaders:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-05-11 16:26:15 INFO  DataLoaders:33 - ---INFO--- Sex label text is Female
+2021-05-11 16:26:15 INFO  DataLoaders:33 - ---INFO--- AG label text is --Select--
+2021-05-11 16:26:20 INFO  DataLoaders:33 - ---INFO--- Clicked on Physician
+2021-05-11 16:26:29 INFO  DataLoaders:33 - ---INFO--- Filtered Patient
+2021-05-11 16:26:29 INFO  DataLoaders:33 - ---INFO--- Clickable Patient
+2021-05-11 16:26:29 INFO  DataLoaders:33 - ---INFO--- Clicked Patient
+2021-05-11 16:26:31 INFO  DataLoaders:33 - ---INFO--- Clicked Next
+2021-05-11 16:27:18 ERROR DataLoaders:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50207}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 64db9ad8861ae15eac68e596be866efa
+*** Element info: {Using=xpath, value=.//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']}
+2021-05-11 16:27:18 INFO  DataLoaders:33 - ---INFO--- Retrying same Test Iteration/Case - 2
+2021-05-11 16:27:18 INFO  DataLoaders:33 - ---INFO--- Retrying same Test Iteration/Case - 3
+2021-05-11 16:27:18 INFO  DataLoaders:33 - ---INFO--- report location isDupsSearchSummary_2021.05.11.16.04.03
+2021-05-11 16:27:18 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-05-11 16:27:23 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:27:27 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:27:32 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:27:32 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:27:38 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:27:38 INFO  DataLoaders:33 - ---INFO--- Report type is CT
+2021-05-11 16:27:41 INFO  DataLoaders:33 - ---INFO--- Study Patient ID is set to :257747 
+2021-05-11 16:27:41 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- FetchFullData-1156430555
+2021-05-11 16:28:04 INFO  DataLoaders:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-05-11 16:28:04 INFO  DataLoaders:33 - ---INFO--- Reponse for Advere event is {
+  "receiptDetails": [
+    {
+      "patdob_fmt": 3,
+      "protocol_no": "PCSNSP001518",
+      "receipt_no": "RCT9641007",
+      "reporttype": "CT",
+      "gender": "Female",
+      "study_patient_no": null,
+      "aer_init_recv_date": "2021-02-25",
+      "patsex": "2",
+      "agx_asr_primary_src_country": "163",
+      "patdob_random_no": "VB0mBZDywThUtSafsw7y9OTsbGlXfDGaJ7dzuYH1GYI=",
+      "agx_wfa_activity_name": "Initial Review",
+      "safetyreportid": "US_Jan_PMF_9999985",
+      "aer_no": null,
+      "lrn_version_no": "1",
+      "agx_asr_serious": "02",
+      "patientinitial": "8RsgvtR+csEXmay/ZdukC0h9n4GclZy5kYlNQZJ/9Jg=",
+      "lrd": "2021-02-25",
+      "patdob": "1983-04-13",
+      "patinvestigationnumb": null,
+      "aer_version_no": null,
+      "local_case_id": "fdfdsfs",
+      "local_received_date": "2021-05-03",
+      "patonsetage": null,
+      "project_no": "PCSNSP001518",
+      "aer_latest_recv_date": "2021-02-25",
+      "aer_last": null,
+      "lrn_no": "LRN3209847",
+      "primarysourcecountry": "United States of America"
+    }
+  ],
+  "reporterdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "UVtSqPo0rfxD9yMh+XB1qBQzPxiXnn+m9VZijyPLy+4=",
+      "reportercity": null,
+      "reportergivenname": "N5nMY+c3LhoNMeThyukk+LSGUTXJbAbX0FPHvWEjJZY=",
+      "reportermiddlename": null,
+      "reporterpostcode": null,
+      "reportercountry": "163",
+      "reporterstate": null
+    },
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "K1wTU6+DkIZzuA7XL7QWckUUtt1md5GOQZZ7TLC62buvlOQ/PKZbm1Q4j7OjlidQ",
+      "reportercity": "VCu4fMYs8ltKU2ESkDttGRIV1oIoojGjR2/5iB1Cv8nbIC2+mnzd1MBtTpoM2pJ/",
+      "reportergivenname": "PpO5XaH4ysebPYMEAb+dxz6Mp+Obb9XYyK2lCUD5aAA=",
+      "reportermiddlename": null,
+      "reporterpostcode": "W6z+2ghWdiy4N0QkQIGpQVdxuDoBBQWSQ2WvZzFgaJE=",
+      "reportercountry": "163",
+      "reporterstate": "DcY8sbkgp/0KJJLti9xDvE17J6Ga28S+sx7eSALQgq86VsT1/R+TqSvJnRCGVoMt"
+    }
+  ],
+  "drugdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "therapy_start_date": null,
+      "drugstartdate": null,
+      "therapy_end_date": null,
+      "drugenddate": null,
+      "medicinalproduct": "Esketamine"
+    }
+  ],
+  "reactiondetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "reporter_seriousness": "02",
+      "primarysrcreaction": "Sedation",
+      "reactstartdate": "2021-02-24T00:00:00",
+      "reactstartdatefmt": 3
+    }
+  ],
+  "additionaldetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "other_identification_ref": null,
+      "other_identification_number": null,
+      "company_unit": null
+    }
+  ]
+}
+2021-05-11 16:28:04 INFO  DataLoaders:33 - ---INFO--- Therapy Start/End Date of one of product is 'Null' so setting to 'Initial'
+2021-05-11 16:28:04 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page
+2021-05-11 16:28:10 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:28:14 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:28:19 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:28:19 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:28:25 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:28:25 INFO  DataLoaders:33 - ---INFO--- Entering Local Trade Name
+2021-05-11 16:28:27 INFO  DataLoaders:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-05-11 16:28:27 INFO  DataLoaders:33 - ---INFO--- Entering Country Name 
+2021-05-11 16:28:28 INFO  DataLoaders:33 - ---INFO--- Country Name entered United States Of America 
+2021-05-11 16:28:28 INFO  DataLoaders:33 - ---INFO--- Entering Approaval 
+2021-05-11 16:28:29 INFO  DataLoaders:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-05-11 16:28:34 INFO  DataLoaders:33 - ---INFO--- Study Patient ID feild on Receipt Summary is : 
+2021-05-11 16:28:34 INFO  DataLoaders:33 - ---INFO--- Entering Study Patient ID Since , Study Patient ID feild on Receipt Summary is Blank 
+2021-05-11 16:28:37 INFO  DataLoaders:33 - ---INFO--- Study Patient ID entered :257747
+2021-05-11 16:28:37 INFO  DataLoaders:33 - ---INFO--- Entering Formulation 
+2021-05-11 16:28:37 INFO  DataLoaders:33 - ---INFO--- Formulation label text is --Select--
+2021-05-11 16:28:42 INFO  DataLoaders:33 - ---INFO--- Formulation Entered 
+2021-05-11 16:28:42 INFO  DataLoaders:33 - ---INFO--- Entering ROA Label 
+2021-05-11 16:28:46 INFO  DataLoaders:33 - ---INFO--- Entering Local Case ID 
+2021-05-11 16:28:47 INFO  DataLoaders:33 - ---INFO--- Entered Local Case ID:US_Jan_PMF_9999985
+2021-05-11 16:28:47 INFO  DataLoaders:33 - ---INFO--- ROA label text is Not Applicable
+2021-05-11 16:28:47 INFO  DataLoaders:33 - ---INFO--- Repo Term label text is Sedation
+2021-05-11 16:28:47 INFO  DataLoaders:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-05-11 16:28:47 INFO  DataLoaders:33 - ---INFO--- Sex label text is Female
+2021-05-11 16:28:47 INFO  DataLoaders:33 - ---INFO--- AG label text is --Select--
+2021-05-11 16:28:52 INFO  DataLoaders:33 - ---INFO--- Clicked on Physician
+2021-05-11 16:29:01 INFO  DataLoaders:33 - ---INFO--- Filtered Patient
+2021-05-11 16:29:01 INFO  DataLoaders:33 - ---INFO--- Clickable Patient
+2021-05-11 16:29:01 INFO  DataLoaders:33 - ---INFO--- Clicked Patient
+2021-05-11 16:29:03 INFO  DataLoaders:33 - ---INFO--- Clicked Next
+2021-05-11 16:29:50 ERROR DataLoaders:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50207}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 64db9ad8861ae15eac68e596be866efa
+*** Element info: {Using=xpath, value=.//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']}
+2021-05-11 16:29:50 INFO  DataLoaders:33 - ---INFO--- Retrying same Test Iteration/Case - 1
+2021-05-11 16:29:50 INFO  DataLoaders:33 - ---INFO--- report location isDupsSearchSummary_2021.05.11.16.04.03
+2021-05-11 16:29:50 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-05-11 16:29:55 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:29:59 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:30:04 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:30:04 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:30:10 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:30:10 INFO  DataLoaders:33 - ---INFO--- Report type is CT
+2021-05-11 16:30:14 INFO  DataLoaders:33 - ---INFO--- Study Patient ID is set to :257747 
+2021-05-11 16:30:14 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- FetchFullData-1709639844
+2021-05-11 16:30:38 INFO  DataLoaders:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-05-11 16:30:38 INFO  DataLoaders:33 - ---INFO--- Reponse for Advere event is {
+  "receiptDetails": [
+    {
+      "patdob_fmt": 3,
+      "protocol_no": "PCSNSP001518",
+      "receipt_no": "RCT9641007",
+      "reporttype": "CT",
+      "gender": "Female",
+      "study_patient_no": null,
+      "aer_init_recv_date": "2021-02-25",
+      "patsex": "2",
+      "agx_asr_primary_src_country": "163",
+      "patdob_random_no": "VB0mBZDywThUtSafsw7y9OTsbGlXfDGaJ7dzuYH1GYI=",
+      "agx_wfa_activity_name": "Initial Review",
+      "safetyreportid": "US_Jan_PMF_9999985",
+      "aer_no": null,
+      "lrn_version_no": "1",
+      "agx_asr_serious": "02",
+      "patientinitial": "8RsgvtR+csEXmay/ZdukC0h9n4GclZy5kYlNQZJ/9Jg=",
+      "lrd": "2021-02-25",
+      "patdob": "1983-04-13",
+      "patinvestigationnumb": null,
+      "aer_version_no": null,
+      "local_case_id": "fdfdsfs",
+      "local_received_date": "2021-05-03",
+      "patonsetage": null,
+      "project_no": "PCSNSP001518",
+      "aer_latest_recv_date": "2021-02-25",
+      "aer_last": null,
+      "lrn_no": "LRN3209847",
+      "primarysourcecountry": "United States of America"
+    }
+  ],
+  "reporterdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "UVtSqPo0rfxD9yMh+XB1qBQzPxiXnn+m9VZijyPLy+4=",
+      "reportercity": null,
+      "reportergivenname": "N5nMY+c3LhoNMeThyukk+LSGUTXJbAbX0FPHvWEjJZY=",
+      "reportermiddlename": null,
+      "reporterpostcode": null,
+      "reportercountry": "163",
+      "reporterstate": null
+    },
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "K1wTU6+DkIZzuA7XL7QWckUUtt1md5GOQZZ7TLC62buvlOQ/PKZbm1Q4j7OjlidQ",
+      "reportercity": "VCu4fMYs8ltKU2ESkDttGRIV1oIoojGjR2/5iB1Cv8nbIC2+mnzd1MBtTpoM2pJ/",
+      "reportergivenname": "PpO5XaH4ysebPYMEAb+dxz6Mp+Obb9XYyK2lCUD5aAA=",
+      "reportermiddlename": null,
+      "reporterpostcode": "W6z+2ghWdiy4N0QkQIGpQVdxuDoBBQWSQ2WvZzFgaJE=",
+      "reportercountry": "163",
+      "reporterstate": "DcY8sbkgp/0KJJLti9xDvE17J6Ga28S+sx7eSALQgq86VsT1/R+TqSvJnRCGVoMt"
+    }
+  ],
+  "drugdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "therapy_start_date": null,
+      "drugstartdate": null,
+      "therapy_end_date": null,
+      "drugenddate": null,
+      "medicinalproduct": "Esketamine"
+    }
+  ],
+  "reactiondetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "reporter_seriousness": "02",
+      "primarysrcreaction": "Sedation",
+      "reactstartdate": "2021-02-24T00:00:00",
+      "reactstartdatefmt": 3
+    }
+  ],
+  "additionaldetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "other_identification_ref": null,
+      "other_identification_number": null,
+      "company_unit": null
+    }
+  ]
+}
+2021-05-11 16:30:38 INFO  DataLoaders:33 - ---INFO--- Therapy Start/End Date of one of product is 'Null' so setting to 'Initial'
+2021-05-11 16:30:38 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page
+2021-05-11 16:30:43 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:30:47 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:30:52 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:30:52 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:30:57 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:30:58 INFO  DataLoaders:33 - ---INFO--- Entering Local Trade Name
+2021-05-11 16:30:59 INFO  DataLoaders:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-05-11 16:30:59 INFO  DataLoaders:33 - ---INFO--- Entering Country Name 
+2021-05-11 16:31:00 INFO  DataLoaders:33 - ---INFO--- Country Name entered United States Of America 
+2021-05-11 16:31:00 INFO  DataLoaders:33 - ---INFO--- Entering Approaval 
+2021-05-11 16:31:01 INFO  DataLoaders:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-05-11 16:31:06 INFO  DataLoaders:33 - ---INFO--- Study Patient ID feild on Receipt Summary is : 
+2021-05-11 16:31:06 INFO  DataLoaders:33 - ---INFO--- Entering Study Patient ID Since , Study Patient ID feild on Receipt Summary is Blank 
+2021-05-11 16:31:09 INFO  DataLoaders:33 - ---INFO--- Study Patient ID entered :257747
+2021-05-11 16:31:09 INFO  DataLoaders:33 - ---INFO--- Entering Formulation 
+2021-05-11 16:31:09 INFO  DataLoaders:33 - ---INFO--- Formulation label text is --Select--
+2021-05-11 16:31:15 INFO  DataLoaders:33 - ---INFO--- Formulation Entered 
+2021-05-11 16:31:15 INFO  DataLoaders:33 - ---INFO--- Entering ROA Label 
+2021-05-11 16:31:18 INFO  DataLoaders:33 - ---INFO--- Entering Local Case ID 
+2021-05-11 16:31:19 INFO  DataLoaders:33 - ---INFO--- Entered Local Case ID:US_Jan_PMF_9999985
+2021-05-11 16:31:19 INFO  DataLoaders:33 - ---INFO--- ROA label text is Not Applicable
+2021-05-11 16:31:19 INFO  DataLoaders:33 - ---INFO--- Repo Term label text is Sedation
+2021-05-11 16:31:19 INFO  DataLoaders:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-05-11 16:31:19 INFO  DataLoaders:33 - ---INFO--- Sex label text is Female
+2021-05-11 16:31:19 INFO  DataLoaders:33 - ---INFO--- AG label text is --Select--
+2021-05-11 16:31:24 INFO  DataLoaders:33 - ---INFO--- Clicked on Physician
+2021-05-11 16:31:33 INFO  DataLoaders:33 - ---INFO--- Filtered Patient
+2021-05-11 16:31:33 INFO  DataLoaders:33 - ---INFO--- Clickable Patient
+2021-05-11 16:31:33 INFO  DataLoaders:33 - ---INFO--- Clicked Patient
+2021-05-11 16:31:35 INFO  DataLoaders:33 - ---INFO--- Clicked Next
+2021-05-11 16:32:22 ERROR DataLoaders:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50207}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 64db9ad8861ae15eac68e596be866efa
+*** Element info: {Using=xpath, value=.//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']}
+2021-05-11 16:32:22 INFO  DataLoaders:33 - ---INFO--- Retrying same Test Iteration/Case - 2
+2021-05-11 16:32:22 INFO  DataLoaders:33 - ---INFO--- Retrying same Test Iteration/Case - 3
+2021-05-11 16:32:22 INFO  DataLoaders:33 - ---INFO--- report location isDupsSearchSummary_2021.05.11.16.04.03
+2021-05-11 16:32:22 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-05-11 16:32:27 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:32:31 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:32:36 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:32:36 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:32:41 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:32:41 INFO  DataLoaders:33 - ---INFO--- Report type is CT
+2021-05-11 16:32:45 INFO  DataLoaders:33 - ---INFO--- Study Patient ID is set to :257747 
+2021-05-11 16:32:45 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- FetchFullData-835135007
+2021-05-11 16:33:09 INFO  DataLoaders:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-05-11 16:33:09 INFO  DataLoaders:33 - ---INFO--- Reponse for Advere event is {
+  "receiptDetails": [
+    {
+      "patdob_fmt": 3,
+      "protocol_no": "PCSNSP001518",
+      "receipt_no": "RCT9641007",
+      "reporttype": "CT",
+      "gender": "Female",
+      "study_patient_no": null,
+      "aer_init_recv_date": "2021-02-25",
+      "patsex": "2",
+      "agx_asr_primary_src_country": "163",
+      "patdob_random_no": "VB0mBZDywThUtSafsw7y9OTsbGlXfDGaJ7dzuYH1GYI=",
+      "agx_wfa_activity_name": "Initial Review",
+      "safetyreportid": "US_Jan_PMF_9999985",
+      "aer_no": null,
+      "lrn_version_no": "1",
+      "agx_asr_serious": "02",
+      "patientinitial": "8RsgvtR+csEXmay/ZdukC0h9n4GclZy5kYlNQZJ/9Jg=",
+      "lrd": "2021-02-25",
+      "patdob": "1983-04-13",
+      "patinvestigationnumb": null,
+      "aer_version_no": null,
+      "local_case_id": "fdfdsfs",
+      "local_received_date": "2021-05-03",
+      "patonsetage": null,
+      "project_no": "PCSNSP001518",
+      "aer_latest_recv_date": "2021-02-25",
+      "aer_last": null,
+      "lrn_no": "LRN3209847",
+      "primarysourcecountry": "United States of America"
+    }
+  ],
+  "reporterdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "UVtSqPo0rfxD9yMh+XB1qBQzPxiXnn+m9VZijyPLy+4=",
+      "reportercity": null,
+      "reportergivenname": "N5nMY+c3LhoNMeThyukk+LSGUTXJbAbX0FPHvWEjJZY=",
+      "reportermiddlename": null,
+      "reporterpostcode": null,
+      "reportercountry": "163",
+      "reporterstate": null
+    },
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "K1wTU6+DkIZzuA7XL7QWckUUtt1md5GOQZZ7TLC62buvlOQ/PKZbm1Q4j7OjlidQ",
+      "reportercity": "VCu4fMYs8ltKU2ESkDttGRIV1oIoojGjR2/5iB1Cv8nbIC2+mnzd1MBtTpoM2pJ/",
+      "reportergivenname": "PpO5XaH4ysebPYMEAb+dxz6Mp+Obb9XYyK2lCUD5aAA=",
+      "reportermiddlename": null,
+      "reporterpostcode": "W6z+2ghWdiy4N0QkQIGpQVdxuDoBBQWSQ2WvZzFgaJE=",
+      "reportercountry": "163",
+      "reporterstate": "DcY8sbkgp/0KJJLti9xDvE17J6Ga28S+sx7eSALQgq86VsT1/R+TqSvJnRCGVoMt"
+    }
+  ],
+  "drugdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "therapy_start_date": null,
+      "drugstartdate": null,
+      "therapy_end_date": null,
+      "drugenddate": null,
+      "medicinalproduct": "Esketamine"
+    }
+  ],
+  "reactiondetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "reporter_seriousness": "02",
+      "primarysrcreaction": "Sedation",
+      "reactstartdate": "2021-02-24T00:00:00",
+      "reactstartdatefmt": 3
+    }
+  ],
+  "additionaldetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "other_identification_ref": null,
+      "other_identification_number": null,
+      "company_unit": null
+    }
+  ]
+}
+2021-05-11 16:33:09 INFO  DataLoaders:33 - ---INFO--- Therapy Start/End Date of one of product is 'Null' so setting to 'Initial'
+2021-05-11 16:33:09 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page
+2021-05-11 16:33:14 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:33:18 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:33:22 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:33:22 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:33:29 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:33:29 INFO  DataLoaders:33 - ---INFO--- Entering Local Trade Name
+2021-05-11 16:33:31 INFO  DataLoaders:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-05-11 16:33:31 INFO  DataLoaders:33 - ---INFO--- Entering Country Name 
+2021-05-11 16:33:32 INFO  DataLoaders:33 - ---INFO--- Country Name entered United States Of America 
+2021-05-11 16:33:32 INFO  DataLoaders:33 - ---INFO--- Entering Approaval 
+2021-05-11 16:33:32 INFO  DataLoaders:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-05-11 16:33:38 INFO  DataLoaders:33 - ---INFO--- Study Patient ID feild on Receipt Summary is : 
+2021-05-11 16:33:38 INFO  DataLoaders:33 - ---INFO--- Entering Study Patient ID Since , Study Patient ID feild on Receipt Summary is Blank 
+2021-05-11 16:33:41 INFO  DataLoaders:33 - ---INFO--- Study Patient ID entered :257747
+2021-05-11 16:33:41 INFO  DataLoaders:33 - ---INFO--- Entering Formulation 
+2021-05-11 16:33:41 INFO  DataLoaders:33 - ---INFO--- Formulation label text is --Select--
+2021-05-11 16:33:46 INFO  DataLoaders:33 - ---INFO--- Formulation Entered 
+2021-05-11 16:33:46 INFO  DataLoaders:33 - ---INFO--- Entering ROA Label 
+2021-05-11 16:33:50 INFO  DataLoaders:33 - ---INFO--- Entering Local Case ID 
+2021-05-11 16:33:50 INFO  DataLoaders:33 - ---INFO--- Entered Local Case ID:US_Jan_PMF_9999985
+2021-05-11 16:33:50 INFO  DataLoaders:33 - ---INFO--- ROA label text is Not Applicable
+2021-05-11 16:33:51 INFO  DataLoaders:33 - ---INFO--- Repo Term label text is Sedation
+2021-05-11 16:33:51 INFO  DataLoaders:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-05-11 16:33:51 INFO  DataLoaders:33 - ---INFO--- Sex label text is Female
+2021-05-11 16:33:51 INFO  DataLoaders:33 - ---INFO--- AG label text is --Select--
+2021-05-11 16:33:56 INFO  DataLoaders:33 - ---INFO--- Clicked on Physician
+2021-05-11 16:34:04 INFO  DataLoaders:33 - ---INFO--- Filtered Patient
+2021-05-11 16:34:04 INFO  DataLoaders:33 - ---INFO--- Clickable Patient
+2021-05-11 16:34:05 INFO  DataLoaders:33 - ---INFO--- Clicked Patient
+2021-05-11 16:34:07 INFO  DataLoaders:33 - ---INFO--- Clicked Next
+2021-05-11 16:34:53 ERROR DataLoaders:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']"}
+  (Session info: chrome=90.0.4430.93)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.93, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50207}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 64db9ad8861ae15eac68e596be866efa
+*** Element info: {Using=xpath, value=.//div[@id='body:inboundForm:dupSearchCriteriaPanel']//label[.='Duplicate Search criteria']}
+2021-05-11 16:34:54 INFO  DataLoaders:33 - ---INFO--- Retrying same Test Iteration/Case - 1
+2021-05-11 16:34:54 INFO  DataLoaders:33 - ---INFO--- report location isDupsSearchSummary_2021.05.11.16.04.03
+2021-05-11 16:34:54 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-05-11 16:34:59 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:35:03 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:35:08 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:35:08 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:35:14 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:35:14 INFO  DataLoaders:33 - ---INFO--- Report type is CT
+2021-05-11 16:35:17 INFO  DataLoaders:33 - ---INFO--- Study Patient ID is set to :257747 
+2021-05-11 16:35:17 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- FetchFullData1060828064
+2021-05-11 16:35:43 INFO  DataLoaders:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-05-11 16:35:43 INFO  DataLoaders:33 - ---INFO--- Reponse for Advere event is {
+  "receiptDetails": [
+    {
+      "patdob_fmt": 3,
+      "protocol_no": "PCSNSP001518",
+      "receipt_no": "RCT9641007",
+      "reporttype": "CT",
+      "gender": "Female",
+      "study_patient_no": null,
+      "aer_init_recv_date": "2021-02-25",
+      "patsex": "2",
+      "agx_asr_primary_src_country": "163",
+      "patdob_random_no": "VB0mBZDywThUtSafsw7y9OTsbGlXfDGaJ7dzuYH1GYI=",
+      "agx_wfa_activity_name": "Initial Review",
+      "safetyreportid": "US_Jan_PMF_9999985",
+      "aer_no": null,
+      "lrn_version_no": "1",
+      "agx_asr_serious": "02",
+      "patientinitial": "8RsgvtR+csEXmay/ZdukC0h9n4GclZy5kYlNQZJ/9Jg=",
+      "lrd": "2021-02-25",
+      "patdob": "1983-04-13",
+      "patinvestigationnumb": null,
+      "aer_version_no": null,
+      "local_case_id": "fdfdsfs",
+      "local_received_date": "2021-05-03",
+      "patonsetage": null,
+      "project_no": "PCSNSP001518",
+      "aer_latest_recv_date": "2021-02-25",
+      "aer_last": null,
+      "lrn_no": "LRN3209847",
+      "primarysourcecountry": "United States of America"
+    }
+  ],
+  "reporterdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "UVtSqPo0rfxD9yMh+XB1qBQzPxiXnn+m9VZijyPLy+4=",
+      "reportercity": null,
+      "reportergivenname": "N5nMY+c3LhoNMeThyukk+LSGUTXJbAbX0FPHvWEjJZY=",
+      "reportermiddlename": null,
+      "reporterpostcode": null,
+      "reportercountry": "163",
+      "reporterstate": null
+    },
+    {
+      "receipt_no": "RCT9641007",
+      "phone": null,
+      "reporterfamilyname": "K1wTU6+DkIZzuA7XL7QWckUUtt1md5GOQZZ7TLC62buvlOQ/PKZbm1Q4j7OjlidQ",
+      "reportercity": "VCu4fMYs8ltKU2ESkDttGRIV1oIoojGjR2/5iB1Cv8nbIC2+mnzd1MBtTpoM2pJ/",
+      "reportergivenname": "PpO5XaH4ysebPYMEAb+dxz6Mp+Obb9XYyK2lCUD5aAA=",
+      "reportermiddlename": null,
+      "reporterpostcode": "W6z+2ghWdiy4N0QkQIGpQVdxuDoBBQWSQ2WvZzFgaJE=",
+      "reportercountry": "163",
+      "reporterstate": "DcY8sbkgp/0KJJLti9xDvE17J6Ga28S+sx7eSALQgq86VsT1/R+TqSvJnRCGVoMt"
+    }
+  ],
+  "drugdetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "therapy_start_date": null,
+      "drugstartdate": null,
+      "therapy_end_date": null,
+      "drugenddate": null,
+      "medicinalproduct": "Esketamine"
+    }
+  ],
+  "reactiondetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "reporter_seriousness": "02",
+      "primarysrcreaction": "Sedation",
+      "reactstartdate": "2021-02-24T00:00:00",
+      "reactstartdatefmt": 3
+    }
+  ],
+  "additionaldetails": [
+    {
+      "receipt_no": "RCT9641007",
+      "other_identification_ref": null,
+      "other_identification_number": null,
+      "company_unit": null
+    }
+  ]
+}
+2021-05-11 16:35:43 INFO  DataLoaders:33 - ---INFO--- Therapy Start/End Date of one of product is 'Null' so setting to 'Initial'
+2021-05-11 16:35:43 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page
+2021-05-11 16:35:48 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 16:35:52 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 16:35:57 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007  searched successfully
+2021-05-11 16:35:57 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9641007 
+2021-05-11 16:36:03 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9641007 opened successfully
+2021-05-11 16:36:03 INFO  DataLoaders:33 - ---INFO--- Entering Local Trade Name
+2021-05-11 16:36:04 INFO  DataLoaders:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-05-11 16:36:04 INFO  DataLoaders:33 - ---INFO--- Entering Country Name 
+2021-05-11 16:36:05 INFO  DataLoaders:33 - ---INFO--- Country Name entered United States Of America 
+2021-05-11 16:36:05 INFO  DataLoaders:33 - ---INFO--- Entering Approaval 
+2021-05-11 16:36:06 INFO  DataLoaders:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-05-11 16:36:11 INFO  DataLoaders:33 - ---INFO--- Study Patient ID feild on Receipt Summary is : 
+2021-05-11 16:36:11 INFO  DataLoaders:33 - ---INFO--- Entering Study Patient ID Since , Study Patient ID feild on Receipt Summary is Blank 
+2021-05-11 16:36:14 INFO  DataLoaders:33 - ---INFO--- Study Patient ID entered :257747
+2021-05-11 16:36:14 INFO  DataLoaders:33 - ---INFO--- Entering Formulation 
+2021-05-11 16:36:14 INFO  DataLoaders:33 - ---INFO--- Formulation label text is --Select--
+2021-05-11 16:36:20 INFO  DataLoaders:33 - ---INFO--- Formulation Entered 
+2021-05-11 16:36:20 INFO  DataLoaders:33 - ---INFO--- Entering ROA Label 
+2021-05-11 16:36:23 INFO  DataLoaders:33 - ---INFO--- Entering Local Case ID 
+2021-05-11 16:36:24 INFO  DataLoaders:33 - ---INFO--- Entered Local Case ID:US_Jan_PMF_9999985
+2021-05-11 16:36:24 INFO  DataLoaders:33 - ---INFO--- ROA label text is Not Applicable
+2021-05-11 16:36:24 INFO  DataLoaders:33 - ---INFO--- Repo Term label text is Sedation
+2021-05-11 16:36:24 INFO  DataLoaders:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-05-11 16:36:24 INFO  DataLoaders:33 - ---INFO--- Sex label text is Female
+2021-05-11 16:36:24 INFO  DataLoaders:33 - ---INFO--- AG label text is --Select--
+2021-05-11 16:36:29 INFO  DataLoaders:33 - ---INFO--- Clicked on Physician
+2021-05-11 16:36:38 INFO  DataLoaders:33 - ---INFO--- Filtered Patient
+2021-05-11 16:36:38 INFO  DataLoaders:33 - ---INFO--- Clickable Patient
+2021-05-11 16:36:38 INFO  DataLoaders:33 - ---INFO--- Clicked Patient
+2021-05-11 16:36:40 INFO  DataLoaders:33 - ---INFO--- Clicked Next
+2021-05-11 16:44:08 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 16:44:08 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 176======
+2021-05-11 16:44:08 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 16:44:08 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 16:44:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 16:44:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 16:44:13 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 16:44:20 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 16:44:20 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-05-11 16:44:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 16:44:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-05-11 16:44:29 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- PendingReceipts-1168378328
+2021-05-11 16:44:35 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-200
+2021-05-11 16:44:35 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-[
+  
+]
+2021-05-11 16:44:36 INFO  DataLoaders:33 - ---INFO--- Logging out of agXchange
+2021-05-11 16:55:20 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 16:55:20 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 147======
+2021-05-11 16:55:20 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 16:55:20 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 16:55:21 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 16:55:21 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 16:55:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 16:55:33 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 16:55:33 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-05-11 16:55:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 16:55:50 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-05-11 16:55:50 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- PendingReceipts-751507701
+2021-05-11 16:55:56 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-200
+2021-05-11 16:55:56 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-[
+  
+]
+2021-05-11 16:55:56 INFO  DataLoaders:33 - ---INFO--- Logging out of agXchange
+2021-05-11 16:58:50 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 16:58:50 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 155======
+2021-05-11 16:58:50 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 16:58:50 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 16:58:50 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 16:58:50 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 16:58:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 16:59:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 16:59:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-05-11 16:59:05 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 16:59:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-05-11 16:59:10 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- PendingReceipts-769152421
+2021-05-11 16:59:15 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-200
+2021-05-11 16:59:15 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-[
+  
+]
+2021-05-11 16:59:16 INFO  DataLoaders:33 - ---INFO--- Logging out of agXchange
+2021-05-11 17:09:29 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 17:09:29 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 235======
+2021-05-11 17:09:29 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 17:09:29 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 17:09:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 17:09:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 17:09:34 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 17:09:41 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:09:41 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-05-11 17:09:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:09:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-05-11 17:09:48 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- PendingReceipts1486222543
+2021-05-11 17:09:55 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-200
+2021-05-11 17:09:55 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-[
+  
+]
+2021-05-11 17:09:55 INFO  DataLoaders:33 - ---INFO--- Logging out of agXchange
+2021-05-11 17:19:02 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 17:19:02 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 146======
+2021-05-11 17:19:02 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 17:19:02 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 17:19:03 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 17:19:03 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 17:19:07 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 17:19:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:19:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-05-11 17:19:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:19:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-05-11 17:19:23 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- PendingReceipts869134964
+2021-05-11 17:19:29 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-200
+2021-05-11 17:19:29 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-[
+  
+]
+2021-05-11 17:19:29 INFO  DataLoaders:33 - ---INFO--- Logging out of agXchange
+2021-05-11 17:21:13 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 17:21:14 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 203======
+2021-05-11 17:21:14 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 17:21:14 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 17:21:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 17:21:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 17:21:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 17:21:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:21:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-05-11 17:21:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:21:34 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-05-11 17:21:34 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- PendingReceipts1718669134
+2021-05-11 17:21:40 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-200
+2021-05-11 17:21:40 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-[
+  
+]
+2021-05-11 17:21:41 INFO  DataLoaders:33 - ---INFO--- Logging out of agXchange
+2021-05-11 17:23:02 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 17:23:02 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 167======
+2021-05-11 17:23:02 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 17:23:02 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 17:23:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 17:23:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 17:23:06 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 17:23:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:23:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-05-11 17:23:17 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:23:21 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-05-11 17:23:21 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- PendingReceipts1504452494
+2021-05-11 17:23:27 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-200
+2021-05-11 17:23:27 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-[
+  
+]
+2021-05-11 17:23:28 INFO  DataLoaders:33 - ---INFO--- Logging out of agXchange
+2021-05-11 17:23:57 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 17:23:57 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 184======
+2021-05-11 17:23:57 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 17:23:57 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 17:23:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 17:23:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 17:24:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 17:24:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:24:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-05-11 17:24:13 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:24:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-05-11 17:24:18 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- PendingReceipts-542023543
+2021-05-11 17:24:24 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-200
+2021-05-11 17:24:24 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-[
+  
+]
+2021-05-11 17:24:25 INFO  DataLoaders:33 - ---INFO--- Logging out of agXchange
+2021-05-11 17:32:37 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 17:32:37 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 153======
+2021-05-11 17:32:37 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 17:32:37 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 17:32:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 17:32:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 17:32:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 17:32:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:32:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-05-11 17:32:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:32:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-05-11 17:32:59 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- PendingReceipts1380635383
+2021-05-11 17:33:05 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-200
+2021-05-11 17:33:05 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-[
+  
+]
+2021-05-11 17:33:06 INFO  DataLoaders:33 - ---INFO--- Logging out of agXchange
+2021-05-11 17:36:42 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 17:36:42 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 149======
+2021-05-11 17:36:42 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 17:36:42 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 17:36:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 17:36:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 17:36:46 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 17:36:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:36:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-05-11 17:36:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:37:03 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-05-11 17:37:03 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- PendingReceipts648559490
+2021-05-11 17:37:09 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-200
+2021-05-11 17:37:09 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-[
+  
+]
+2021-05-11 17:37:10 INFO  DataLoaders:33 - ---INFO--- Logging out of agXchange
+2021-05-11 17:54:07 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 17:54:07 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 157======
+2021-05-11 17:54:07 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 17:54:08 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 17:54:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 17:54:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 17:54:12 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 17:54:20 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:54:20 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-05-11 17:54:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:54:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-05-11 17:54:27 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- PendingReceipts-345314431
+2021-05-11 17:54:50 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-200
+2021-05-11 17:54:50 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-[
+  {
+    "agx_wfa_activity_name": "Initial Review",
+    "receipt_no": "RCT9636976",
+    "reporttype": "CT",
+    "agx_wf_name": "Case Processing Workflow",
+    "receiver_name": "BRM Inbound",
+    "source_name": "ESKPMF"
+  }
+]
+2021-05-11 17:54:50 INFO  DataLoaders:33 - ---INFO--- Logging out of agXchange
+2021-05-11 17:55:52 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 17:55:53 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 152======
+2021-05-11 17:55:53 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 17:55:53 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 17:55:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 17:55:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 17:55:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 17:56:06 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:56:06 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-05-11 17:56:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:56:13 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-05-11 17:56:13 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- PendingReceipts137229227
+2021-05-11 17:56:23 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-200
+2021-05-11 17:56:23 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-[
+  {
+    "agx_wfa_activity_name": "Initial Review",
+    "receipt_no": "RCT9636976",
+    "reporttype": "CT",
+    "agx_wf_name": "Case Processing Workflow",
+    "receiver_name": "BRM Inbound",
+    "source_name": "ESKPMF"
+  }
+]
+2021-05-11 17:56:24 INFO  DataLoaders:33 - ---INFO--- Logging out of agXchange
+2021-05-11 17:56:48 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 17:56:48 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 206======
+2021-05-11 17:56:48 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 17:56:48 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 17:56:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 17:56:49 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 17:56:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 17:57:00 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:57:00 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-05-11 17:57:04 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 17:57:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-05-11 17:57:08 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- PendingReceipts2308505
+2021-05-11 17:57:18 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-200
+2021-05-11 17:57:18 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-[
+  {
+    "agx_wfa_activity_name": "Initial Review",
+    "receipt_no": "RCT9636976",
+    "reporttype": "CT",
+    "agx_wf_name": "Case Processing Workflow",
+    "receiver_name": "BRM Inbound",
+    "source_name": "ESKPMF"
+  }
+]
+2021-05-11 17:57:19 INFO  DataLoaders:33 - ---INFO--- Logging out of agXchange
+2021-05-11 18:01:02 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 18:01:02 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 154======
+2021-05-11 18:01:02 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 18:01:02 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 18:01:03 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 18:01:03 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 18:01:07 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 18:01:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 18:01:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-05-11 18:01:17 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 18:01:21 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-05-11 18:01:21 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- PendingReceipts326554076
+2021-05-11 18:01:32 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-200
+2021-05-11 18:01:32 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-[
+  {
+    "agx_wfa_activity_name": "Initial Review",
+    "receipt_no": "RCT9636976",
+    "reporttype": "CT",
+    "agx_wf_name": "Case Processing Workflow",
+    "receiver_name": "BRM Inbound",
+    "source_name": "ESKPMF"
+  }
+]
+2021-05-11 18:01:32 INFO  DataLoaders:33 - ---INFO--- report location isDupsSearchSummary_2021.05.11.18.01.02
+2021-05-11 18:01:32 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-05-11 18:01:37 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 18:01:40 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 18:01:45 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9636976  searched successfully
+2021-05-11 18:01:45 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9636976 
+2021-05-11 18:01:52 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9636976 opened successfully
+2021-05-11 18:01:52 INFO  DataLoaders:33 - ---INFO--- Report type is CT
+2021-05-11 18:03:14 ERROR DataLoaders:78 - ---ERROR--- Exception Found while trying to find the Study Patient IDorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id="body:inboundForm:tabView"]/ul/li[6] (tried for 60 second(s) with 500 milliseconds interval)
+2021-05-11 18:03:14 ERROR DataLoaders:78 - ---ERROR--- Exception Found in the @Test Blockorg.testng.SkipException: Receipt not present
+2021-05-11 18:03:18 INFO  DataLoaders:33 - ---INFO--- Test iteration/case-irtduplicateSearch_DL-RCT9636976 has been Skipped and Set to Fail
+2021-05-11 18:03:18 INFO  DataLoaders:33 - ---INFO--- Test iteration/case irtduplicateSearch_DL-RCT9636976 has been Failed 
+2021-05-11 18:03:18 INFO  DataLoaders:33 - ---INFO--- Logging out of agXchange
+2021-05-11 18:14:56 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-05-11 18:14:56 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 180======
+2021-05-11 18:14:56 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-05-11 18:14:56 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-05-11 18:14:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_11_05_2021.xlsx
+2021-05-11 18:14:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-05-11 18:15:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-05-11 18:15:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 18:15:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-05-11 18:15:13 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-05-11 18:15:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-05-11 18:15:18 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- PendingReceipts601399508
+2021-05-11 18:15:27 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-200
+2021-05-11 18:15:27 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-[
+  {
+    "agx_wfa_activity_name": "Initial Review",
+    "receipt_no": "RCT9636976",
+    "reporttype": "CT",
+    "agx_wf_name": "Case Processing Workflow",
+    "receiver_name": "BRM Inbound",
+    "source_name": "ESKPMF"
+  }
+]
+2021-05-11 18:15:28 INFO  DataLoaders:33 - ---INFO--- report location isDupsSearchSummary_2021.05.11.18.14.57
+2021-05-11 18:15:28 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-05-11 18:15:33 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-05-11 18:15:38 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-05-11 18:15:43 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9636976  searched successfully
+2021-05-11 18:15:43 INFO  DataLoaders:33 - ---INFO--- Editing Receipt number RCT9636976 
+2021-05-11 18:15:49 INFO  DataLoaders:33 - ---INFO--- Receipt number RCT9636976 opened successfully
+2021-05-11 18:15:49 INFO  DataLoaders:33 - ---INFO--- Report type is CT
+2021-05-11 18:17:12 ERROR DataLoaders:78 - ---ERROR--- Exception Found while trying to find the Study Patient IDorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id="body:inboundForm:tabView"]/ul/li[6] (tried for 60 second(s) with 500 milliseconds interval)
+2021-05-11 18:17:12 ERROR DataLoaders:78 - ---ERROR--- Exception Found in the @Test Blockorg.testng.SkipException: Receipt not present
+2021-05-11 18:17:34 INFO  DataLoaders:33 - ---INFO--- Test iteration/case-irtduplicateSearch_DL-RCT9636976 has been Skipped and Set to Fail
+2021-05-11 18:17:34 INFO  DataLoaders:33 - ---INFO--- Test iteration/case irtduplicateSearch_DL-RCT9636976 has been Failed 
+2021-05-11 18:17:34 INFO  DataLoaders:33 - ---INFO--- Logging out of agXchange
+2021-06-15 18:35:33 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-06-15 18:35:33 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 336======
+2021-06-15 18:35:33 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-06-15 18:35:33 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-06-15 18:35:34 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_15_06_2021.xlsx
+2021-06-15 18:35:34 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-06-15 18:35:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-06-15 18:35:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-06-15 18:35:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-06-15 18:36:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-06-15 18:36:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-06-15 18:36:09 INFO  DataLoaders:33 - ---INFO--- Correlation-id :- PendingReceipts-1454615890
+2021-06-15 18:36:17 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-200
+2021-06-15 18:36:17 INFO  DataLoaders:33 - ---INFO--- Reponse Code:-[
+  
+]
+2021-06-15 18:36:18 INFO  DataLoaders:33 - ---INFO--- Logging out of agXchange
+2021-06-15 18:37:00 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-06-15 18:37:00 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 171======
+2021-06-15 18:37:00 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-06-15 18:37:01 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-06-15 18:37:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_15_06_2021.xlsx
+2021-06-15 18:37:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-06-15 18:37:07 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-06-15 18:37:13 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-06-15 18:37:13 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-06-15 18:38:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-06-15 18:38:27 INFO  DataLoaders:33 - ---INFO--- report location isDupsSearchSummary_2021.06.15.18.37.01
+2021-06-15 18:38:27 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-06-15 18:38:32 INFO  DataLoaders:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-06-15 18:38:35 INFO  DataLoaders:33 - ---INFO--- Searching Receipt number
+2021-06-15 20:08:49 INFO  DataLoaders:33 - ---INFO--- Navigating to Inbound Listing page 

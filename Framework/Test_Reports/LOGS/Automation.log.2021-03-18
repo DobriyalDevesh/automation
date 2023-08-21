@@ -1,0 +1,1008 @@
+Testing the Log File2021-03-18 14:59:55 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-18 14:59:55 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 183======
+2021-03-18 14:59:55 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-18 14:59:55 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-18 14:59:56 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_18_03_2021.xlsx
+2021-03-18 14:59:56 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-18 15:00:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-18 15:00:12 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 15:00:12 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-18 15:00:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 15:00:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-18 15:00:26 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.14.59.56
+2021-03-18 15:00:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-03-18 15:00:46 ERROR DuplicateSearch_TS:78 - ---ERROR--- Exception Found while trying to find the Study Patient IDorg.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 20.000
+  (Session info: chrome=89.0.4389.90)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51876}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 39ab22bae05436f1eb067d19487437e5
+2021-03-18 15:00:49 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL :  test case has been Passed 
+2021-03-18 15:00:49 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.14.59.56
+2021-03-18 15:00:49 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-03-18 15:07:15 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-18 15:07:15 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 134======
+2021-03-18 15:07:15 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-18 15:07:16 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-18 15:07:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_18_03_2021.xlsx
+2021-03-18 15:07:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-18 15:07:21 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-18 15:07:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 15:07:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-18 15:07:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 15:07:52 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-18 15:07:52 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.15.07.16
+2021-03-18 15:07:52 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-03-18 15:08:12 ERROR DuplicateSearch_TS:78 - ---ERROR--- Exception Found while trying to find the Study Patient IDorg.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 20.000
+  (Session info: chrome=89.0.4389.90)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51989}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 19bd024c465bccbf38c7b858972d6b4e
+2021-03-18 15:08:15 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL :  test case has been Passed 
+2021-03-18 15:08:15 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.15.07.16
+2021-03-18 15:08:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-03-18 15:09:12 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-18 15:09:12 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 140======
+2021-03-18 15:09:12 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-18 15:09:12 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-18 15:09:12 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_18_03_2021.xlsx
+2021-03-18 15:09:12 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-18 15:09:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-18 15:09:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 15:09:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-18 15:09:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 15:09:36 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-18 15:09:36 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.15.09.12
+2021-03-18 15:09:36 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-03-18 15:09:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-18 15:09:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-18 15:11:11 ERROR DuplicateSearch_TS:78 - ---ERROR--- Exception Found while trying to find the Study Patient IDorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@class='ui-datatable-scrollable-body']//table[@role='grid']//tr[1]//td[17]//span[.='RCT8821536'] (tried for 60 second(s) with 500 milliseconds interval)
+2021-03-18 15:11:14 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL :  test case has been Passed 
+2021-03-18 15:11:14 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.15.09.12
+2021-03-18 15:11:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-03-18 15:11:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-18 15:20:48 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-18 15:20:49 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 149======
+2021-03-18 15:20:49 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-18 15:20:49 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-18 15:20:49 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_18_03_2021.xlsx
+2021-03-18 15:20:49 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-18 15:20:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-18 15:21:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 15:21:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-18 15:21:05 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 15:21:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-18 15:21:10 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.15.20.49
+2021-03-18 15:21:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-03-18 15:21:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-18 15:21:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-18 15:22:50 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-18 15:22:50 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 122======
+2021-03-18 15:22:50 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-18 15:22:51 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-18 15:22:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_18_03_2021.xlsx
+2021-03-18 15:22:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-18 15:22:56 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-18 15:23:03 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 15:23:03 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-18 15:23:06 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 15:28:26 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-18 15:28:26 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 132======
+2021-03-18 15:28:26 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-18 15:28:27 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-18 15:28:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_18_03_2021.xlsx
+2021-03-18 15:28:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-18 15:28:33 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-18 15:28:41 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 15:28:41 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-18 15:28:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 15:28:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-18 15:28:54 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.15.28.27
+2021-03-18 15:28:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-03-18 15:29:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-18 15:29:05 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-18 15:30:29 ERROR DuplicateSearch_TS:78 - ---ERROR--- Exception Found while trying to find the Study Patient IDorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@class='ui-datatable-scrollable-body']//table[@role='grid']//tr[1]//td[17]//span[.='RCT8821536'] (tried for 60 second(s) with 500 milliseconds interval)
+2021-03-18 15:30:32 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL :  test case has been Passed 
+2021-03-18 15:30:32 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.15.28.27
+2021-03-18 15:30:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-03-18 15:30:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-18 15:30:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-18 15:30:47 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637422  searched successfully
+2021-03-18 15:30:47 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637422 
+2021-03-18 15:30:56 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637422 opened successfully
+2021-03-18 15:30:56 INFO  DuplicateSearch_TS:33 - ---INFO--- Report type is CT
+2021-03-18 15:31:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Study Patient ID is set to : 
+2021-03-18 18:48:06 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-18 18:48:07 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 167======
+2021-03-18 18:48:07 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-18 18:48:07 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-18 18:48:07 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_18_03_2021.xlsx
+2021-03-18 18:48:07 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-18 18:48:18 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-18 18:48:19 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 160======
+2021-03-18 18:48:19 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-18 18:48:19 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-18 18:48:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_18_03_2021.xlsx
+2021-03-18 18:48:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-18 18:48:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-18 18:48:36 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 18:48:36 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-18 18:49:51 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-18 18:49:51 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 158======
+2021-03-18 18:49:51 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-18 18:49:51 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-18 18:49:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_18_03_2021.xlsx
+2021-03-18 18:49:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-18 18:49:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-18 18:50:04 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 18:50:04 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-18 18:50:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 18:52:18 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-18 18:52:18 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 161======
+2021-03-18 18:52:18 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-18 18:52:18 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-18 18:52:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_18_03_2021.xlsx
+2021-03-18 18:52:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-18 18:52:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-18 18:52:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 18:52:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-18 18:52:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 18:56:28 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-18 18:56:28 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 149======
+2021-03-18 18:56:28 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-18 18:56:29 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-18 18:56:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_18_03_2021.xlsx
+2021-03-18 18:56:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-18 18:56:34 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-18 18:56:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 18:56:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-18 18:56:46 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 18:58:26 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-18 18:58:26 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 142======
+2021-03-18 18:58:26 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-18 18:58:26 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-18 18:58:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_18_03_2021.xlsx
+2021-03-18 18:58:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-18 18:58:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-18 18:58:40 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 18:58:40 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-18 18:58:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 18:59:38 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-18 18:59:38 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 216======
+2021-03-18 18:59:38 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-18 18:59:39 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-18 18:59:39 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_18_03_2021.xlsx
+2021-03-18 18:59:39 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-18 18:59:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-18 18:59:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 18:59:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-18 18:59:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 19:00:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-18 19:00:02 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.18.59.39
+2021-03-18 19:00:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-03-18 19:00:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-18 19:00:24 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-18 19:01:48 ERROR DuplicateSearch_TS:78 - ---ERROR--- Exception Found while trying to find the Study Patient IDorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@class='ui-datatable-scrollable-body']//table[@role='grid']//tr[1]//td[17]//span[.='RCT8821536'] (tried for 60 second(s) with 500 milliseconds interval)
+2021-03-18 19:01:51 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL :  test case has been Passed 
+2021-03-18 19:01:51 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.18.59.39
+2021-03-18 19:01:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-03-18 19:01:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-18 19:02:39 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-18 19:02:39 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 226======
+2021-03-18 19:02:39 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-18 19:02:39 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-18 19:02:40 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_18_03_2021.xlsx
+2021-03-18 19:02:40 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-18 19:02:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-18 19:02:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 19:02:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-18 19:02:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 19:03:03 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-18 19:03:03 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.19.02.39
+2021-03-18 19:03:03 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-03-18 19:03:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-18 19:03:12 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-18 19:04:36 ERROR DuplicateSearch_TS:78 - ---ERROR--- Exception Found while trying to find the Study Patient IDorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@class='ui-datatable-scrollable-body']//table[@role='grid']//tr[1]//td[17]//span[.='RCT8821536'] (tried for 60 second(s) with 500 milliseconds interval)
+2021-03-18 19:04:39 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL :  test case has been Passed 
+2021-03-18 19:04:39 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.19.02.39
+2021-03-18 19:04:39 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-03-18 19:04:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-18 19:04:47 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-18 19:04:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637422  searched successfully
+2021-03-18 19:04:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637422 
+2021-03-18 19:05:52 ERROR DuplicateSearch_TS:78 - ---ERROR--- Exception Found while trying to find the Study Patient IDorg.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 60.000
+  (Session info: chrome=89.0.4389.90)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64173}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c7cf49fae608c74b0400ba230190ce6e
+2021-03-18 19:05:54 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL :  test case has been Passed 
+2021-03-18 19:05:54 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.19.02.39
+2021-03-18 19:05:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-03-18 19:06:55 ERROR DuplicateSearch_TS:78 - ---ERROR--- Exception Found while trying to find the Study Patient IDorg.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@id='inbound-SubMenu']//table//li//a[.='Inbound Listing'] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.90, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:64173}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c7cf49fae608c74b0400ba230190ce6e
+2021-03-18 19:06:58 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL :  test case has been Passed 
+2021-03-18 19:06:58 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.19.02.39
+2021-03-18 19:06:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-03-18 19:07:51 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-18 19:07:51 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 155======
+2021-03-18 19:07:51 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-18 19:07:51 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-18 19:07:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_18_03_2021.xlsx
+2021-03-18 19:07:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-18 19:07:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-18 19:08:06 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 19:08:06 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-18 19:08:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 19:08:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-18 19:08:22 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.19.07.51
+2021-03-18 19:08:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-03-18 19:08:28 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-18 19:08:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-18 19:08:36 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637422  searched successfully
+2021-03-18 19:08:36 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637422 
+2021-03-18 19:08:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637422 opened successfully
+2021-03-18 19:08:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Report type is CT
+2021-03-18 19:08:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Study Patient ID is set to : 
+2021-03-18 19:09:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-03-18 19:09:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse for Advere event is {
+  "receiptDetails": [
+    {
+      "patdob_fmt": 3,
+      "protocol_no": "PCSNSP001518",
+      "receipt_no": "RCT9637422",
+      "reporttype": "CT",
+      "gender": "Female",
+      "study_patient_no": null,
+      "aer_init_recv_date": "2021-02-24",
+      "patsex": "2",
+      "agx_asr_primary_src_country": "163",
+      "patdob_random_no": "9Ovct+BZAO1o18MUXI6vrrBO5RQDEkL3Ed6yuTSBLqg=",
+      "agx_wfa_activity_name": "Initial Review",
+      "safetyreportid": "US_Jan_PMF_00211115",
+      "aer_no": null,
+      "lrn_version_no": null,
+      "agx_asr_serious": "02",
+      "patientinitial": "aBv4ZSHVN5SJY6/EP4vSGFQq494BZEYkbwLEpmSWo8o=",
+      "lrd": "2021-02-24",
+      "patdob": "2003-07-28",
+      "patinvestigationnumb": null,
+      "aer_version_no": null,
+      "local_case_id": null,
+      "local_received_date": "2021-02-25",
+      "patonsetage": null,
+      "project_no": "PCSNSP001518",
+      "aer_latest_recv_date": "2021-02-24",
+      "aer_last": null,
+      "lrn_no": null,
+      "primarysourcecountry": "United States of America"
+    }
+  ],
+  "reporterdetails": [
+    {
+      "receipt_no": "RCT9637422",
+      "phone": null,
+      "reporterfamilyname": "Z8NZ6o0+m/nh5fjGcrxdPHdncqsY9ZF6IwtTW1e9fAQ=",
+      "reportercity": null,
+      "reportergivenname": "95vbb628ZPfz3rK3wilUaKyRQkB+f6/9o63owqS4RXk=",
+      "reportermiddlename": null,
+      "reporterpostcode": null,
+      "reportercountry": "163",
+      "reporterstate": null
+    },
+    {
+      "receipt_no": "RCT9637422",
+      "phone": null,
+      "reporterfamilyname": "g5eNl1mydUy+/lq5xDhcZ/ayKCk2AFIuVgd6MDZ2Di0=",
+      "reportercity": "3hg4BQTemNI9jax7HtsGevehGo7rFgaDB9jWPCMMp3E=",
+      "reportergivenname": "pf+GFEmZ0+NaxhFKQQKA0S0E/PMtchDjwKTTysVztGE=",
+      "reportermiddlename": null,
+      "reporterpostcode": "AHozdfUDDA8q+yT8TZ8KgeYq0njjUNQDeP42Kt6WbX0=",
+      "reportercountry": "163",
+      "reporterstate": "e3fBO8Y84IkVJOGR+EqLk1h03QjvPuStT/BW5avQDWM="
+    }
+  ],
+  "drugdetails": [
+    {
+      "receipt_no": "RCT9637422",
+      "medicinalproduct": "Esketamine"
+    }
+  ],
+  "reactiondetails": [
+    {
+      "receipt_no": "RCT9637422",
+      "reporter_seriousness": "02",
+      "primarysrcreaction": "Sedation",
+      "reactstartdate": "2021-02-23T00:00:00",
+      "reactstartdatefmt": 3
+    }
+  ],
+  "additionaldetails": [
+    {
+      "receipt_no": "RCT9637422",
+      "other_identification_ref": null,
+      "other_identification_number": null,
+      "company_unit": null
+    }
+  ]
+}
+2021-03-18 19:09:15 INFO  DuplicateSearch_TS:33 - ---INFO--- SearchPatientWithProtocolPatient
+2021-03-18 19:09:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-03-18 19:09:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse for Advere event is []
+2021-03-18 19:09:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Running combination keeping following null: PatientInitial
+2021-03-18 19:09:43 INFO  DuplicateSearch_TS:33 - ---INFO--- SearchPatientWithProtocolPatient
+2021-03-18 19:10:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-03-18 19:10:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse for Advere event is []
+2021-03-18 19:10:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Running combination keeping following null: dob
+2021-03-18 19:10:18 INFO  DuplicateSearch_TS:33 - ---INFO--- SearchPatientWithProtocolPatient
+2021-03-18 19:10:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-03-18 19:10:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse for Advere event is [
+  {
+    "patdob_fmt": 3,
+    "protocol_no": "PCSNSP001518",
+    "receipt_no": "RCT9093960",
+    "reporttype": "CT",
+    "gender": "Female",
+    "study_patient_no": "gEsp7nxhIy+ZROISLC0sIrWI5nOc3+WrAFFcUIFdR/U=",
+    "agx_asr_disposed_date": "2020-11-03T11:56:25",
+    "aer_init_recv_date": "2020-11-01T00:00:00",
+    "trade_name": "SPRAVATO",
+    "agx_asr_primary_src_country": "163",
+    "patdob_random_no": "XHW/v1Kr57fjg/MOS5toRh29/aerfcwVh7cpRUX1qtY=",
+    "agx_wfa_activity_name": "Imported Cases",
+    "agx_wf_name": "Case Processing Workflow",
+    "aer_no": "20201103302",
+    "ae_reported_term": "DISSOCIATION|SEDATION",
+    "max_ae_onset_date": "2020-10-26T00:00:00",
+    "lrn_version_no": "1",
+    "atn": null,
+    "aer_version_no": "0.0",
+    "patient_dob": "1997-03-10T00:00:00",
+    "patient_initials": "aBv4ZSHVN5SJY6/EP4vSGFQq494BZEYkbwLEpmSWo8o=",
+    "product_name": "SPRAVATO,NASAL SPRAY",
+    "record_id": 46925008,
+    "aer_latest_recv_date": "2020-11-01T00:00:00",
+    "min_ae_onset_date": "2020-10-26T00:00:00",
+    "aer_last": "1",
+    "lrn_no": "LRN2953872"
+  },
+  {
+    "patdob_fmt": 3,
+    "protocol_no": "PCSNSP001518",
+    "receipt_no": "RCT7294086",
+    "reporttype": "CT",
+    "gender": "Female",
+    "study_patient_no": "vJLiipAJKnp21xg/UvpnQ+7x7vr6hZFe8TGX7jH1z/g=",
+    "agx_asr_disposed_date": "2020-02-20T02:16:24",
+    "aer_init_recv_date": "2020-02-17T00:00:00",
+    "trade_name": "SPRAVATO",
+    "agx_asr_primary_src_country": "163",
+    "patdob_random_no": "+Zb61Hp1glqyRxw8f84tBrKQydIO5H8T9UDhBgccUJo=",
+    "agx_wfa_activity_name": "Imported Cases",
+    "agx_wf_name": "Case Processing Workflow",
+    "aer_no": "20200229537",
+    "ae_reported_term": "DISSOCIATION",
+    "max_ae_onset_date": "2020-02-13T00:00:00",
+    "lrn_version_no": "1",
+    "atn": null,
+    "aer_version_no": "0.0",
+    "patient_dob": "1988-10-15T00:00:00",
+    "patient_initials": "aBv4ZSHVN5SJY6/EP4vSGFQq494BZEYkbwLEpmSWo8o=",
+    "product_name": "SPRAVATO",
+    "record_id": 39404961,
+    "aer_latest_recv_date": "2020-02-17T00:00:00",
+    "min_ae_onset_date": "2020-02-13T00:00:00",
+    "aer_last": "1",
+    "lrn_no": "LRN2469198"
+  },
+  {
+    "patdob_fmt": 3,
+    "protocol_no": "PCSNSP001518",
+    "receipt_no": "RCT7268216",
+    "reporttype": "CT",
+    "gender": "Female",
+    "study_patient_no": "vJLiipAJKnp21xg/UvpnQ+7x7vr6hZFe8TGX7jH1z/g=",
+    "agx_asr_disposed_date": "2020-02-13T11:56:55",
+    "aer_init_recv_date": "2020-02-11T00:00:00",
+    "trade_name": "SPRAVATO",
+    "agx_asr_primary_src_country": "163",
+    "patdob_random_no": "GhGpdhOzqsxN0gAiQkqthmaouTfEgYvrMXdGgig4AhM=",
+    "agx_wfa_activity_name": "Imported Cases",
+    "agx_wf_name": "Case Processing Workflow",
+    "aer_no": "20200219559",
+    "ae_reported_term": "DISSOCIATION",
+    "max_ae_onset_date": "2020-02-11T00:00:00",
+    "lrn_version_no": "1",
+    "atn": null,
+    "aer_version_no": "0.0",
+    "patient_dob": "1989-09-23T00:00:00",
+    "patient_initials": "aBv4ZSHVN5SJY6/EP4vSGFQq494BZEYkbwLEpmSWo8o=",
+    "product_name": "SPRAVATO",
+    "record_id": 39248007,
+    "aer_latest_recv_date": "2020-02-11T00:00:00",
+    "min_ae_onset_date": "2020-02-11T00:00:00",
+    "aer_last": "1",
+    "lrn_no": "LRN2457312"
+  },
+  {
+    "patdob_fmt": 3,
+    "protocol_no": "PCSNSP001518",
+    "receipt_no": "RCT7294085",
+    "reporttype": "CT",
+    "gender": "Female",
+    "study_patient_no": "vJLiipAJKnp21xg/UvpnQ+7x7vr6hZFe8TGX7jH1z/g=",
+    "agx_asr_disposed_date": "2020-02-20T04:07:27",
+    "aer_init_recv_date": "2020-02-17T00:00:00",
+    "trade_name": "SPRAVATO",
+    "agx_asr_primary_src_country": "163",
+    "patdob_random_no": "8ZzAaOdtzqemDAE9zjNNRuRhNOI1S94i3T3rrQ/WmPs=",
+    "agx_wfa_activity_name": "Imported Cases",
+    "agx_wf_name": "Case Processing Workflow",
+    "aer_no": "20200229735",
+    "ae_reported_term": "DISSOCIATION|SEDATION",
+    "max_ae_onset_date": "2020-02-17T00:00:00",
+    "lrn_version_no": "1",
+    "atn": null,
+    "aer_version_no": "0.0",
+    "patient_dob": "1990-01-23T00:00:00",
+    "patient_initials": "aBv4ZSHVN5SJY6/EP4vSGFQq494BZEYkbwLEpmSWo8o=",
+    "product_name": "SPRAVATO",
+    "record_id": 39404963,
+    "aer_latest_recv_date": "2020-02-17T00:00:00",
+    "min_ae_onset_date": "2020-02-17T00:00:00",
+    "aer_last": "1",
+    "lrn_no": "LRN2470355"
+  },
+  {
+    "patdob_fmt": 3,
+    "protocol_no": "PCSNSP001518",
+    "receipt_no": "RCT7831096",
+    "reporttype": "CT",
+    "gender": "Female",
+    "study_patient_no": "vJLiipAJKnp21xg/UvpnQ+7x7vr6hZFe8TGX7jH1z/g=",
+    "agx_asr_disposed_date": "2020-05-26T06:20:34",
+    "aer_init_recv_date": "2020-05-25T00:00:00",
+    "trade_name": "SPRAVATO",
+    "agx_asr_primary_src_country": "163",
+    "patdob_random_no": "2JC3pPCBDmtR8ye83VVfJdS82cl6MEW78TkB5spXNWs=",
+    "agx_wfa_activity_name": "Imported Cases",
+    "agx_wf_name": "Case Processing Workflow",
+    "aer_no": "20200530455",
+    "ae_reported_term": "DISSOCIATION",
+    "max_ae_onset_date": "2020-05-18T00:00:00",
+    "lrn_version_no": "1",
+    "atn": null,
+    "aer_version_no": "0.0",
+    "patient_dob": "1988-12-04T00:00:00",
+    "patient_initials": "aBv4ZSHVN5SJY6/EP4vSGFQq494BZEYkbwLEpmSWo8o=",
+    "product_name": "SPRAVATO,NASAL SPRAY",
+    "record_id": 41740878,
+    "aer_latest_recv_date": "2020-05-25T00:00:00",
+    "min_ae_onset_date": "2020-05-18T00:00:00",
+    "aer_last": "1",
+    "lrn_no": "LRN2633565"
+  },
+  {
+    "patdob_fmt": 3,
+    "protocol_no": "PCSNSP001518",
+    "receipt_no": "RCT7311148",
+    "reporttype": "CT",
+    "gender": "Female",
+    "study_patient_no": "vJLiipAJKnp21xg/UvpnQ+7x7vr6hZFe8TGX7jH1z/g=",
+    "agx_asr_disposed_date": "2020-02-24T11:36:57",
+    "aer_init_recv_date": "2020-02-20T00:00:00",
+    "trade_name": "SPRAVATO",
+    "agx_asr_primary_src_country": "163",
+    "patdob_random_no": "mv1Qnb1uUaUtc43aslge3AACVFj6HAzuLRdmgHcE3+8=",
+    "agx_wfa_activity_name": "Imported Cases",
+    "agx_wf_name": "Case Processing Workflow",
+    "aer_no": "20200235037",
+    "ae_reported_term": "SEDATION",
+    "max_ae_onset_date": "2020-02-18T00:00:00",
+    "lrn_version_no": "1",
+    "atn": null,
+    "aer_version_no": "0.0",
+    "patient_dob": "1989-08-16T00:00:00",
+    "patient_initials": "aBv4ZSHVN5SJY6/EP4vSGFQq494BZEYkbwLEpmSWo8o=",
+    "product_name": "SPRAVATO",
+    "record_id": 39497422,
+    "aer_latest_recv_date": "2020-02-20T00:00:00",
+    "min_ae_onset_date": "2020-02-18T00:00:00",
+    "aer_last": "1",
+    "lrn_no": "LRN2476771"
+  },
+  {
+    "patdob_fmt": 3,
+    "protocol_no": "PCSNSP001518",
+    "receipt_no": "RCT7460622",
+    "reporttype": "CT",
+    "gender": "Female",
+    "study_patient_no": "vJLiipAJKnp21xg/UvpnQ+7x7vr6hZFe8TGX7jH1z/g=",
+    "agx_asr_disposed_date": "2020-03-24T10:02:34",
+    "aer_init_recv_date": "2020-03-20T00:00:00",
+    "trade_name": "SPRAVATO",
+    "agx_asr_primary_src_country": "163",
+    "patdob_random_no": "SJ3N8t56DVs6vX+zt8PzP465WuEG9mvgMbFG6AJMsZQ=",
+    "agx_wfa_activity_name": "Imported Cases",
+    "agx_wf_name": "Case Processing Workflow",
+    "aer_no": "20200335743",
+    "ae_reported_term": "DISSOCIATION",
+    "max_ae_onset_date": "2020-03-20T00:00:00",
+    "lrn_version_no": "1",
+    "atn": null,
+    "aer_version_no": "0.0",
+    "patient_dob": "1989-07-06T00:00:00",
+    "patient_initials": "aBv4ZSHVN5SJY6/EP4vSGFQq494BZEYkbwLEpmSWo8o=",
+    "product_name": "SPRAVATO",
+    "record_id": 40334324,
+    "aer_latest_recv_date": "2020-03-20T00:00:00",
+    "min_ae_onset_date": "2020-03-20T00:00:00",
+    "aer_last": "1",
+    "lrn_no": "LRN2534651"
+  }
+]
+2021-03-18 19:10:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Running combination keeping following null: Sex
+2021-03-18 19:10:51 INFO  DuplicateSearch_TS:33 - ---INFO--- SearchPatientWithProtocolPatient
+2021-03-18 19:11:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-03-18 19:11:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse for Advere event is []
+2021-03-18 19:11:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Records Return out of combinations of Patient Search: 'Zero'
+2021-03-18 19:11:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Records Return: 'ZERO'
+2021-03-18 19:11:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Setting to initial as Pat STD No is removed and ISR!=multiple
+2021-03-18 19:11:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-18 19:11:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-18 19:11:33 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-18 19:11:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637422  searched successfully
+2021-03-18 19:11:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637422 
+2021-03-18 19:11:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637422 opened successfully
+2021-03-18 19:11:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local Trade Name
+2021-03-18 19:11:46 INFO  DuplicateSearch_TS:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-03-18 19:11:46 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Country Name 
+2021-03-18 19:11:47 INFO  DuplicateSearch_TS:33 - ---INFO--- Country Name entered United States Of America 
+2021-03-18 19:11:47 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Approaval 
+2021-03-18 19:11:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-03-18 19:11:50 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Formulation 
+2021-03-18 19:11:50 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation label text is --Select--
+2021-03-18 19:11:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation Entered 
+2021-03-18 19:11:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering ROA Label 
+2021-03-18 19:11:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local Case ID 
+2021-03-18 19:11:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Local Case ID:US_Jan_PMF_00211115
+2021-03-18 19:11:58 INFO  DuplicateSearch_TS:33 - ---INFO--- ROA label text is Not Applicable
+2021-03-18 19:11:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Repo Term label text is Sedation
+2021-03-18 19:11:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-03-18 19:11:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Sex label text is Female
+2021-03-18 19:11:58 INFO  DuplicateSearch_TS:33 - ---INFO--- AG label text is --Select--
+2021-03-18 19:12:03 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Physician
+2021-03-18 19:12:12 INFO  DuplicateSearch_TS:33 - ---INFO--- Filtered Patient
+2021-03-18 19:12:12 INFO  DuplicateSearch_TS:33 - ---INFO--- Clickable Patient
+2021-03-18 19:12:12 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked Patient
+2021-03-18 19:12:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked Next
+2021-03-18 19:12:21 INFO  DuplicateSearch_TS:33 - ---INFO--- Classification window opened
+2021-03-18 19:12:22 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID has been specified on receipt number
+2021-03-18 19:12:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching LocalID
+2021-03-18 19:12:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 19:12:23 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID searched , window closed successful
+2021-03-18 19:12:23 INFO  DuplicateSearch_TS:33 - ---INFO--- switched to current handle
+2021-03-18 19:12:24 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Proceed button
+2021-03-18 19:12:24 INFO  DuplicateSearch_TS:33 - ---INFO--- Page and Element Waits are over
+2021-03-18 19:12:27 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL :  test case has been Passed 
+2021-03-18 19:16:29 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-18 19:16:29 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 142======
+2021-03-18 19:16:29 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-18 19:16:29 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-18 19:16:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_18_03_2021.xlsx
+2021-03-18 19:16:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-18 19:16:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-18 19:16:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 19:16:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-18 19:16:47 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 19:16:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-18 19:16:54 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.19.16.29
+2021-03-18 19:16:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 
+2021-03-18 19:17:00 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-18 19:17:03 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-18 19:17:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637422  searched successfully
+2021-03-18 19:17:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637422 
+2021-03-18 19:17:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637422 opened successfully
+2021-03-18 19:17:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Report type is CT
+2021-03-18 19:17:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Study Patient ID is set to : 
+2021-03-18 19:17:47 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-03-18 19:17:47 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse for Advere event is {
+  "receiptDetails": [
+    {
+      "patdob_fmt": 3,
+      "protocol_no": "PCSNSP001518",
+      "receipt_no": "RCT9637422",
+      "reporttype": "CT",
+      "gender": "Female",
+      "study_patient_no": null,
+      "aer_init_recv_date": "2021-02-24",
+      "patsex": "2",
+      "agx_asr_primary_src_country": "163",
+      "patdob_random_no": "9Ovct+BZAO1o18MUXI6vrrBO5RQDEkL3Ed6yuTSBLqg=",
+      "agx_wfa_activity_name": "Initial Review",
+      "safetyreportid": "US_Jan_PMF_00211115",
+      "aer_no": null,
+      "lrn_version_no": null,
+      "agx_asr_serious": "02",
+      "patientinitial": "aBv4ZSHVN5SJY6/EP4vSGFQq494BZEYkbwLEpmSWo8o=",
+      "lrd": "2021-02-24",
+      "patdob": "2003-07-28",
+      "patinvestigationnumb": null,
+      "aer_version_no": null,
+      "local_case_id": null,
+      "local_received_date": "2021-02-25",
+      "patonsetage": null,
+      "project_no": "PCSNSP001518",
+      "aer_latest_recv_date": "2021-02-24",
+      "aer_last": null,
+      "lrn_no": null,
+      "primarysourcecountry": "United States of America"
+    }
+  ],
+  "reporterdetails": [
+    {
+      "receipt_no": "RCT9637422",
+      "phone": null,
+      "reporterfamilyname": "Z8NZ6o0+m/nh5fjGcrxdPHdncqsY9ZF6IwtTW1e9fAQ=",
+      "reportercity": null,
+      "reportergivenname": "95vbb628ZPfz3rK3wilUaKyRQkB+f6/9o63owqS4RXk=",
+      "reportermiddlename": null,
+      "reporterpostcode": null,
+      "reportercountry": "163",
+      "reporterstate": null
+    },
+    {
+      "receipt_no": "RCT9637422",
+      "phone": null,
+      "reporterfamilyname": "g5eNl1mydUy+/lq5xDhcZ/ayKCk2AFIuVgd6MDZ2Di0=",
+      "reportercity": "3hg4BQTemNI9jax7HtsGevehGo7rFgaDB9jWPCMMp3E=",
+      "reportergivenname": "pf+GFEmZ0+NaxhFKQQKA0S0E/PMtchDjwKTTysVztGE=",
+      "reportermiddlename": null,
+      "reporterpostcode": "AHozdfUDDA8q+yT8TZ8KgeYq0njjUNQDeP42Kt6WbX0=",
+      "reportercountry": "163",
+      "reporterstate": "e3fBO8Y84IkVJOGR+EqLk1h03QjvPuStT/BW5avQDWM="
+    }
+  ],
+  "drugdetails": [
+    {
+      "receipt_no": "RCT9637422",
+      "medicinalproduct": "Esketamine"
+    }
+  ],
+  "reactiondetails": [
+    {
+      "receipt_no": "RCT9637422",
+      "reporter_seriousness": "02",
+      "primarysrcreaction": "Sedation",
+      "reactstartdate": "2021-02-23T00:00:00",
+      "reactstartdatefmt": 3
+    }
+  ],
+  "additionaldetails": [
+    {
+      "receipt_no": "RCT9637422",
+      "other_identification_ref": null,
+      "other_identification_number": null,
+      "company_unit": null
+    }
+  ]
+}
+2021-03-18 19:17:47 INFO  DuplicateSearch_TS:33 - ---INFO--- SearchPatientWithProtocolPatient
+2021-03-18 19:18:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-03-18 19:18:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse for Advere event is []
+2021-03-18 19:18:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Running combination keeping following null: PatientInitial
+2021-03-18 19:18:09 INFO  DuplicateSearch_TS:33 - ---INFO--- SearchPatientWithProtocolPatient
+2021-03-18 19:18:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-03-18 19:18:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse for Advere event is []
+2021-03-18 19:18:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Running combination keeping following null: dob
+2021-03-18 19:18:30 INFO  DuplicateSearch_TS:33 - ---INFO--- SearchPatientWithProtocolPatient
+2021-03-18 19:18:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-03-18 19:18:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse for Advere event is [
+  {
+    "patdob_fmt": 3,
+    "protocol_no": "PCSNSP001518",
+    "receipt_no": "RCT9093960",
+    "reporttype": "CT",
+    "gender": "Female",
+    "study_patient_no": "gEsp7nxhIy+ZROISLC0sIrWI5nOc3+WrAFFcUIFdR/U=",
+    "agx_asr_disposed_date": "2020-11-03T11:56:25",
+    "aer_init_recv_date": "2020-11-01T00:00:00",
+    "trade_name": "SPRAVATO",
+    "agx_asr_primary_src_country": "163",
+    "patdob_random_no": "XHW/v1Kr57fjg/MOS5toRh29/aerfcwVh7cpRUX1qtY=",
+    "agx_wfa_activity_name": "Imported Cases",
+    "agx_wf_name": "Case Processing Workflow",
+    "aer_no": "20201103302",
+    "ae_reported_term": "DISSOCIATION|SEDATION",
+    "max_ae_onset_date": "2020-10-26T00:00:00",
+    "lrn_version_no": "1",
+    "atn": null,
+    "aer_version_no": "0.0",
+    "patient_dob": "1997-03-10T00:00:00",
+    "patient_initials": "aBv4ZSHVN5SJY6/EP4vSGFQq494BZEYkbwLEpmSWo8o=",
+    "product_name": "SPRAVATO,NASAL SPRAY",
+    "record_id": 46925008,
+    "aer_latest_recv_date": "2020-11-01T00:00:00",
+    "min_ae_onset_date": "2020-10-26T00:00:00",
+    "aer_last": "1",
+    "lrn_no": "LRN2953872"
+  },
+  {
+    "patdob_fmt": 3,
+    "protocol_no": "PCSNSP001518",
+    "receipt_no": "RCT7294086",
+    "reporttype": "CT",
+    "gender": "Female",
+    "study_patient_no": "vJLiipAJKnp21xg/UvpnQ+7x7vr6hZFe8TGX7jH1z/g=",
+    "agx_asr_disposed_date": "2020-02-20T02:16:24",
+    "aer_init_recv_date": "2020-02-17T00:00:00",
+    "trade_name": "SPRAVATO",
+    "agx_asr_primary_src_country": "163",
+    "patdob_random_no": "+Zb61Hp1glqyRxw8f84tBrKQydIO5H8T9UDhBgccUJo=",
+    "agx_wfa_activity_name": "Imported Cases",
+    "agx_wf_name": "Case Processing Workflow",
+    "aer_no": "20200229537",
+    "ae_reported_term": "DISSOCIATION",
+    "max_ae_onset_date": "2020-02-13T00:00:00",
+    "lrn_version_no": "1",
+    "atn": null,
+    "aer_version_no": "0.0",
+    "patient_dob": "1988-10-15T00:00:00",
+    "patient_initials": "aBv4ZSHVN5SJY6/EP4vSGFQq494BZEYkbwLEpmSWo8o=",
+    "product_name": "SPRAVATO",
+    "record_id": 39404961,
+    "aer_latest_recv_date": "2020-02-17T00:00:00",
+    "min_ae_onset_date": "2020-02-13T00:00:00",
+    "aer_last": "1",
+    "lrn_no": "LRN2469198"
+  },
+  {
+    "patdob_fmt": 3,
+    "protocol_no": "PCSNSP001518",
+    "receipt_no": "RCT7268216",
+    "reporttype": "CT",
+    "gender": "Female",
+    "study_patient_no": "vJLiipAJKnp21xg/UvpnQ+7x7vr6hZFe8TGX7jH1z/g=",
+    "agx_asr_disposed_date": "2020-02-13T11:56:55",
+    "aer_init_recv_date": "2020-02-11T00:00:00",
+    "trade_name": "SPRAVATO",
+    "agx_asr_primary_src_country": "163",
+    "patdob_random_no": "GhGpdhOzqsxN0gAiQkqthmaouTfEgYvrMXdGgig4AhM=",
+    "agx_wfa_activity_name": "Imported Cases",
+    "agx_wf_name": "Case Processing Workflow",
+    "aer_no": "20200219559",
+    "ae_reported_term": "DISSOCIATION",
+    "max_ae_onset_date": "2020-02-11T00:00:00",
+    "lrn_version_no": "1",
+    "atn": null,
+    "aer_version_no": "0.0",
+    "patient_dob": "1989-09-23T00:00:00",
+    "patient_initials": "aBv4ZSHVN5SJY6/EP4vSGFQq494BZEYkbwLEpmSWo8o=",
+    "product_name": "SPRAVATO",
+    "record_id": 39248007,
+    "aer_latest_recv_date": "2020-02-11T00:00:00",
+    "min_ae_onset_date": "2020-02-11T00:00:00",
+    "aer_last": "1",
+    "lrn_no": "LRN2457312"
+  },
+  {
+    "patdob_fmt": 3,
+    "protocol_no": "PCSNSP001518",
+    "receipt_no": "RCT7311148",
+    "reporttype": "CT",
+    "gender": "Female",
+    "study_patient_no": "vJLiipAJKnp21xg/UvpnQ+7x7vr6hZFe8TGX7jH1z/g=",
+    "agx_asr_disposed_date": "2020-02-24T11:36:57",
+    "aer_init_recv_date": "2020-02-20T00:00:00",
+    "trade_name": "SPRAVATO",
+    "agx_asr_primary_src_country": "163",
+    "patdob_random_no": "mv1Qnb1uUaUtc43aslge3AACVFj6HAzuLRdmgHcE3+8=",
+    "agx_wfa_activity_name": "Imported Cases",
+    "agx_wf_name": "Case Processing Workflow",
+    "aer_no": "20200235037",
+    "ae_reported_term": "SEDATION",
+    "max_ae_onset_date": "2020-02-18T00:00:00",
+    "lrn_version_no": "1",
+    "atn": null,
+    "aer_version_no": "0.0",
+    "patient_dob": "1989-08-16T00:00:00",
+    "patient_initials": "aBv4ZSHVN5SJY6/EP4vSGFQq494BZEYkbwLEpmSWo8o=",
+    "product_name": "SPRAVATO",
+    "record_id": 39497422,
+    "aer_latest_recv_date": "2020-02-20T00:00:00",
+    "min_ae_onset_date": "2020-02-18T00:00:00",
+    "aer_last": "1",
+    "lrn_no": "LRN2476771"
+  },
+  {
+    "patdob_fmt": 3,
+    "protocol_no": "PCSNSP001518",
+    "receipt_no": "RCT7294085",
+    "reporttype": "CT",
+    "gender": "Female",
+    "study_patient_no": "vJLiipAJKnp21xg/UvpnQ+7x7vr6hZFe8TGX7jH1z/g=",
+    "agx_asr_disposed_date": "2020-02-20T04:07:27",
+    "aer_init_recv_date": "2020-02-17T00:00:00",
+    "trade_name": "SPRAVATO",
+    "agx_asr_primary_src_country": "163",
+    "patdob_random_no": "8ZzAaOdtzqemDAE9zjNNRuRhNOI1S94i3T3rrQ/WmPs=",
+    "agx_wfa_activity_name": "Imported Cases",
+    "agx_wf_name": "Case Processing Workflow",
+    "aer_no": "20200229735",
+    "ae_reported_term": "DISSOCIATION|SEDATION",
+    "max_ae_onset_date": "2020-02-17T00:00:00",
+    "lrn_version_no": "1",
+    "atn": null,
+    "aer_version_no": "0.0",
+    "patient_dob": "1990-01-23T00:00:00",
+    "patient_initials": "aBv4ZSHVN5SJY6/EP4vSGFQq494BZEYkbwLEpmSWo8o=",
+    "product_name": "SPRAVATO",
+    "record_id": 39404963,
+    "aer_latest_recv_date": "2020-02-17T00:00:00",
+    "min_ae_onset_date": "2020-02-17T00:00:00",
+    "aer_last": "1",
+    "lrn_no": "LRN2470355"
+  },
+  {
+    "patdob_fmt": 3,
+    "protocol_no": "PCSNSP001518",
+    "receipt_no": "RCT7831096",
+    "reporttype": "CT",
+    "gender": "Female",
+    "study_patient_no": "vJLiipAJKnp21xg/UvpnQ+7x7vr6hZFe8TGX7jH1z/g=",
+    "agx_asr_disposed_date": "2020-05-26T06:20:34",
+    "aer_init_recv_date": "2020-05-25T00:00:00",
+    "trade_name": "SPRAVATO",
+    "agx_asr_primary_src_country": "163",
+    "patdob_random_no": "2JC3pPCBDmtR8ye83VVfJdS82cl6MEW78TkB5spXNWs=",
+    "agx_wfa_activity_name": "Imported Cases",
+    "agx_wf_name": "Case Processing Workflow",
+    "aer_no": "20200530455",
+    "ae_reported_term": "DISSOCIATION",
+    "max_ae_onset_date": "2020-05-18T00:00:00",
+    "lrn_version_no": "1",
+    "atn": null,
+    "aer_version_no": "0.0",
+    "patient_dob": "1988-12-04T00:00:00",
+    "patient_initials": "aBv4ZSHVN5SJY6/EP4vSGFQq494BZEYkbwLEpmSWo8o=",
+    "product_name": "SPRAVATO,NASAL SPRAY",
+    "record_id": 41740878,
+    "aer_latest_recv_date": "2020-05-25T00:00:00",
+    "min_ae_onset_date": "2020-05-18T00:00:00",
+    "aer_last": "1",
+    "lrn_no": "LRN2633565"
+  },
+  {
+    "patdob_fmt": 3,
+    "protocol_no": "PCSNSP001518",
+    "receipt_no": "RCT7460622",
+    "reporttype": "CT",
+    "gender": "Female",
+    "study_patient_no": "vJLiipAJKnp21xg/UvpnQ+7x7vr6hZFe8TGX7jH1z/g=",
+    "agx_asr_disposed_date": "2020-03-24T10:02:34",
+    "aer_init_recv_date": "2020-03-20T00:00:00",
+    "trade_name": "SPRAVATO",
+    "agx_asr_primary_src_country": "163",
+    "patdob_random_no": "SJ3N8t56DVs6vX+zt8PzP465WuEG9mvgMbFG6AJMsZQ=",
+    "agx_wfa_activity_name": "Imported Cases",
+    "agx_wf_name": "Case Processing Workflow",
+    "aer_no": "20200335743",
+    "ae_reported_term": "DISSOCIATION",
+    "max_ae_onset_date": "2020-03-20T00:00:00",
+    "lrn_version_no": "1",
+    "atn": null,
+    "aer_version_no": "0.0",
+    "patient_dob": "1989-07-06T00:00:00",
+    "patient_initials": "aBv4ZSHVN5SJY6/EP4vSGFQq494BZEYkbwLEpmSWo8o=",
+    "product_name": "SPRAVATO",
+    "record_id": 40334324,
+    "aer_latest_recv_date": "2020-03-20T00:00:00",
+    "min_ae_onset_date": "2020-03-20T00:00:00",
+    "aer_last": "1",
+    "lrn_no": "LRN2534651"
+  }
+]
+2021-03-18 19:18:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Running combination keeping following null: Sex
+2021-03-18 19:18:59 INFO  DuplicateSearch_TS:33 - ---INFO--- SearchPatientWithProtocolPatient
+2021-03-18 19:19:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse Code for Advere event is 200
+2021-03-18 19:19:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Reponse for Advere event is []
+2021-03-18 19:19:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Records Return out of combinations of Patient Search: 'Zero'
+2021-03-18 19:19:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Records Return: 'ZERO'
+2021-03-18 19:19:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Setting to initial as Pat STD No is removed and ISR!=multiple
+2021-03-18 19:19:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-18 19:19:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-18 19:19:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-18 19:19:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637422  searched successfully
+2021-03-18 19:19:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637422 
+2021-03-18 19:19:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637422 opened successfully
+2021-03-18 19:19:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local Trade Name
+2021-03-18 19:19:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-03-18 19:19:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Country Name 
+2021-03-18 19:19:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Country Name entered United States Of America 
+2021-03-18 19:19:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Approaval 
+2021-03-18 19:19:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-03-18 19:19:47 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Formulation 
+2021-03-18 19:19:47 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation label text is --Select--
+2021-03-18 19:19:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation Entered 
+2021-03-18 19:19:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering ROA Label 
+2021-03-18 19:19:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local Case ID 
+2021-03-18 19:19:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Local Case ID:US_Jan_PMF_00211115
+2021-03-18 19:19:55 INFO  DuplicateSearch_TS:33 - ---INFO--- ROA label text is Not Applicable
+2021-03-18 19:19:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Repo Term label text is Sedation
+2021-03-18 19:19:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-03-18 19:19:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Sex label text is Female
+2021-03-18 19:19:55 INFO  DuplicateSearch_TS:33 - ---INFO--- AG label text is --Select--
+2021-03-18 19:20:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Physician
+2021-03-18 19:20:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Filtered Patient
+2021-03-18 19:20:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Clickable Patient
+2021-03-18 19:20:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked Patient
+2021-03-18 19:20:11 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked Next
+2021-03-18 19:20:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Classification window opened
+2021-03-18 19:20:19 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID has been specified on receipt number
+2021-03-18 19:20:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching LocalID
+2021-03-18 19:20:20 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 19:20:20 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID searched , window closed successful
+2021-03-18 19:20:20 INFO  DuplicateSearch_TS:33 - ---INFO--- switched to current handle
+2021-03-18 19:20:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Proceed button
+2021-03-18 19:20:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Page and Element Waits are over
+2021-03-18 19:20:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Initial on receipt number RCT9637422
+2021-03-18 19:20:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Next button
+2021-03-18 19:20:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Sending receipt to QC intake process
+2021-03-18 19:20:36 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637422 has been marked to QC-intake successfully
+2021-03-18 19:20:36 INFO  DuplicateSearch_TS:33 - ---INFO--- Follow-Up created successfully for receipt number RCT9637422
+2021-03-18 19:20:40 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL :  test case has been Passed 
+2021-03-18 19:24:36 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-18 19:24:36 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 192======
+2021-03-18 19:24:36 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-18 19:24:37 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-18 19:24:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_18_03_2021.xlsx
+2021-03-18 19:24:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-18 19:24:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-18 19:24:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 19:24:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-18 19:24:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-18 19:25:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-18 19:25:01 INFO  DuplicateSearch_TS:33 - ---INFO--- report location isDupsSearchSummary_2021.03.18.19.24.37
+2021-03-18 19:25:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page 

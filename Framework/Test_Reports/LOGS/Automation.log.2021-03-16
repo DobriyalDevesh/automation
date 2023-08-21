@@ -1,0 +1,547 @@
+2021-03-16 17:21:28 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-16 17:21:28 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 349======
+2021-03-16 17:21:28 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-16 17:21:29 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-16 17:21:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_16_03_2021.xlsx
+2021-03-16 17:21:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-16 17:21:41 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-16 17:21:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:21:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-16 17:22:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:22:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-16 17:22:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 17:22:28 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-16 17:22:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-16 17:23:43 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-16 17:23:43 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 241======
+2021-03-16 17:23:43 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-16 17:23:43 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-16 17:23:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_16_03_2021.xlsx
+2021-03-16 17:23:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-16 17:23:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-16 17:24:05 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:24:05 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-16 17:24:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:24:17 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-16 17:24:17 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 17:24:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-16 17:24:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-16 17:24:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227  searched successfully
+2021-03-16 17:24:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637227 
+2021-03-16 17:25:37 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 60.000
+  (Session info: chrome=89.0.4389.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.82, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57948}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5f3863773841f057f9dc6feae44ca0a4
+2021-03-16 17:25:38 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-16 17:25:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 17:26:18 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-16 17:26:18 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 205======
+2021-03-16 17:26:18 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-16 17:26:19 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-16 17:26:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_16_03_2021.xlsx
+2021-03-16 17:26:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-16 17:26:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-16 17:26:36 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:26:36 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-16 17:26:41 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:27:39 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-16 17:27:39 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 17:27:46 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-16 17:27:50 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-16 17:27:56 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227  searched successfully
+2021-03-16 17:27:56 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637227 
+2021-03-16 17:28:06 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227 opened successfully
+2021-03-16 17:28:07 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local Trade Name
+2021-03-16 17:28:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-03-16 17:28:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Country Name 
+2021-03-16 17:28:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Country Name entered United States Of America 
+2021-03-16 17:28:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Approaval 
+2021-03-16 17:28:11 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-03-16 17:28:13 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Formulation 
+2021-03-16 17:28:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation label text is Nasal spray
+2021-03-16 17:28:17 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation Entered 
+2021-03-16 17:28:17 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering ROA Label 
+2021-03-16 17:28:21 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local C ID 
+2021-03-16 17:28:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Local C ID 
+2021-03-16 17:28:29 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=89.0.4389.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.82, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58041}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0e7a09879a7ed8e03a42c580cadd1954
+2021-03-16 17:28:30 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-16 17:28:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 17:28:36 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-16 17:28:39 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-16 17:28:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227  searched successfully
+2021-03-16 17:28:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637227 
+2021-03-16 17:29:24 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-16 17:29:25 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 163======
+2021-03-16 17:29:25 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-16 17:29:25 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-16 17:29:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_16_03_2021.xlsx
+2021-03-16 17:29:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-16 17:29:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-16 17:29:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:29:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-16 17:29:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:30:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-16 17:30:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 17:30:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-16 17:30:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-16 17:30:34 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227  searched successfully
+2021-03-16 17:30:34 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637227 
+2021-03-16 17:30:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227 opened successfully
+2021-03-16 17:30:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local Trade Name
+2021-03-16 17:30:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-03-16 17:30:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Country Name 
+2021-03-16 17:30:50 INFO  DuplicateSearch_TS:33 - ---INFO--- Country Name entered United States Of America 
+2021-03-16 17:30:50 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Approaval 
+2021-03-16 17:30:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-03-16 17:30:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Formulation 
+2021-03-16 17:30:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation label text is Nasal spray
+2021-03-16 17:30:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation Entered 
+2021-03-16 17:30:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering ROA Label 
+2021-03-16 17:31:03 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local C ID 
+2021-03-16 17:31:04 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Local C ID 
+2021-03-16 17:31:11 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=89.0.4389.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.82, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58095}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 37704dc69bf4e3bd515ae2b35fd011b3
+2021-03-16 17:31:12 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-16 17:31:12 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 17:31:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-16 17:31:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-16 17:34:55 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-16 17:34:55 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 207======
+2021-03-16 17:34:55 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-16 17:34:56 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-16 17:34:56 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_16_03_2021.xlsx
+2021-03-16 17:34:56 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-16 17:35:07 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-16 17:35:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:35:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-16 17:35:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:35:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-16 17:35:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 17:35:47 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-16 17:35:52 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-16 17:35:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227  searched successfully
+2021-03-16 17:35:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637227 
+2021-03-16 17:36:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227 opened successfully
+2021-03-16 17:36:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local Trade Name
+2021-03-16 17:36:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-03-16 17:36:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Country Name 
+2021-03-16 17:36:12 INFO  DuplicateSearch_TS:33 - ---INFO--- Country Name entered United States Of America 
+2021-03-16 17:36:12 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Approaval 
+2021-03-16 17:36:13 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-03-16 17:36:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Formulation 
+2021-03-16 17:36:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation label text is Nasal spray
+2021-03-16 17:36:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation Entered 
+2021-03-16 17:36:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering ROA Label 
+2021-03-16 17:36:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local C ID 
+2021-03-16 17:36:24 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Local C ID 
+2021-03-16 17:36:32 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=89.0.4389.82)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.82, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58207}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d81ca75d373c360e3bd14f47c0e5b691
+2021-03-16 17:36:33 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-16 17:36:33 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 17:36:39 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-16 17:39:17 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-16 17:39:18 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 285======
+2021-03-16 17:39:18 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-16 17:39:18 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-16 17:39:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_16_03_2021.xlsx
+2021-03-16 17:39:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-16 17:39:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-16 17:39:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:39:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-16 17:39:46 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:40:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-16 17:40:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 17:40:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-16 17:40:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-16 17:40:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227  searched successfully
+2021-03-16 17:40:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637227 
+2021-03-16 17:40:28 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227 opened successfully
+2021-03-16 17:40:28 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local Trade Name
+2021-03-16 17:40:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-03-16 17:40:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Country Name 
+2021-03-16 17:40:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Country Name entered United States Of America 
+2021-03-16 17:40:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Approaval 
+2021-03-16 17:40:33 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-03-16 17:40:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Formulation 
+2021-03-16 17:40:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation label text is Nasal spray
+2021-03-16 17:40:39 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation Entered 
+2021-03-16 17:40:39 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering ROA Label 
+2021-03-16 17:40:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local C ID 
+2021-03-16 17:40:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Local C ID 
+2021-03-16 17:41:36 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->java.lang.NullPointerException
+2021-03-16 17:41:36 ERROR DuplicateSearch_TS:78 - ---ERROR--- Unable to capture and save screenshot due to error-> org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=89.0.4389.82)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.82, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57526}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1207731a94b0bd798f6049dc24672db6
+2021-03-16 17:41:37 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-16 17:41:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 17:42:58 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-16 17:42:59 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 231======
+2021-03-16 17:42:59 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-16 17:42:59 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-16 17:42:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_16_03_2021.xlsx
+2021-03-16 17:42:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-16 17:43:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-16 17:43:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:43:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-16 17:43:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:43:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-16 17:43:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 17:43:39 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-16 17:43:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-16 17:43:50 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227  searched successfully
+2021-03-16 17:43:50 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637227 
+2021-03-16 17:44:00 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227 opened successfully
+2021-03-16 17:44:00 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local Trade Name
+2021-03-16 17:44:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-03-16 17:44:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Country Name 
+2021-03-16 17:44:04 INFO  DuplicateSearch_TS:33 - ---INFO--- Country Name entered United States Of America 
+2021-03-16 17:44:04 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Approaval 
+2021-03-16 17:44:05 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-03-16 17:44:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Formulation 
+2021-03-16 17:44:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation label text is Nasal spray
+2021-03-16 17:45:10 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-16 17:45:10 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 213======
+2021-03-16 17:45:10 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-16 17:45:10 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-16 17:45:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_16_03_2021.xlsx
+2021-03-16 17:45:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-16 17:45:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-16 17:45:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:45:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-16 17:45:33 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:45:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-16 17:45:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 17:45:50 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-16 17:45:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-16 17:46:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227  searched successfully
+2021-03-16 17:46:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637227 
+2021-03-16 17:46:11 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227 opened successfully
+2021-03-16 17:46:11 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local Trade Name
+2021-03-16 17:46:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-03-16 17:46:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Country Name 
+2021-03-16 17:46:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Country Name entered United States Of America 
+2021-03-16 17:46:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Approaval 
+2021-03-16 17:46:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-03-16 17:46:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Formulation 
+2021-03-16 17:46:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation label text is Nasal spray
+2021-03-16 17:46:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation Entered 
+2021-03-16 17:46:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering ROA Label 
+2021-03-16 17:46:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local C ID 
+2021-03-16 17:46:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Local C ID 
+2021-03-16 17:47:33 ERROR DuplicateSearch_TS:78 - ---ERROR--- Something went wrong while navigating to Inbound Page, Exception details->org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: .//div[@class='ui-selectonemenu-items-wrapper']//ul[@id='body:inboundForm:tabView:ID_3419337365105136_items']//li[.='No'] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-PALM5VR', ip: '10.220.211.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 89.0.4389.82, chrome: {chromedriverVersion: 89.0.4389.23 (61b08ee2c5002..., userDataDir: D:\Users\DDobriya\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57645}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 794f968cf75b90f043efdb4f434fba27
+2021-03-16 17:47:35 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL-null :  test case has been Skipped 
+2021-03-16 17:47:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 17:53:09 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-16 17:53:09 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 178======
+2021-03-16 17:53:09 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-16 17:53:09 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-16 17:53:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_16_03_2021.xlsx
+2021-03-16 17:53:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-16 17:53:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-16 17:53:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:53:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-16 17:53:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:53:40 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-16 17:53:40 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 17:53:49 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-16 17:53:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-16 17:53:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227  searched successfully
+2021-03-16 17:53:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637227 
+2021-03-16 17:54:11 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227 opened successfully
+2021-03-16 17:54:11 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local Trade Name
+2021-03-16 17:54:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-03-16 17:54:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Country Name 
+2021-03-16 17:54:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Country Name entered United States Of America 
+2021-03-16 17:54:15 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Approaval 
+2021-03-16 17:54:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-03-16 17:54:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Formulation 
+2021-03-16 17:54:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation label text is Nasal spray
+2021-03-16 17:54:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation Entered 
+2021-03-16 17:54:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering ROA Label 
+2021-03-16 17:54:26 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local C ID 
+2021-03-16 17:54:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Local C ID 
+2021-03-16 17:54:27 INFO  DuplicateSearch_TS:33 - ---INFO--- ROA label text is Not Applicable
+2021-03-16 17:54:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Repo Term label text is Sedation
+2021-03-16 17:54:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-03-16 17:54:28 INFO  DuplicateSearch_TS:33 - ---INFO--- Sex label text is Male
+2021-03-16 17:54:28 INFO  DuplicateSearch_TS:33 - ---INFO--- AG label text is Unknown
+2021-03-16 17:54:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Physician
+2021-03-16 17:54:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Filtered Patient
+2021-03-16 17:54:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Clickable Patient
+2021-03-16 17:54:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked Patient
+2021-03-16 17:54:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked Next
+2021-03-16 17:55:30 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-16 17:55:30 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 207======
+2021-03-16 17:55:30 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-16 17:55:30 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-16 17:55:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_16_03_2021.xlsx
+2021-03-16 17:55:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-16 17:55:40 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-16 17:55:49 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:55:49 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-16 17:55:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:56:13 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-16 17:56:13 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 17:56:20 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-16 17:56:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-16 17:56:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227  searched successfully
+2021-03-16 17:56:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637227 
+2021-03-16 17:56:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227 opened successfully
+2021-03-16 17:56:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local Trade Name
+2021-03-16 17:56:40 INFO  DuplicateSearch_TS:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-03-16 17:56:40 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Country Name 
+2021-03-16 17:56:41 INFO  DuplicateSearch_TS:33 - ---INFO--- Country Name entered United States Of America 
+2021-03-16 17:56:41 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Approaval 
+2021-03-16 17:56:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-03-16 17:56:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Formulation 
+2021-03-16 17:56:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation label text is Nasal spray
+2021-03-16 17:56:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation Entered 
+2021-03-16 17:56:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering ROA Label 
+2021-03-16 17:56:52 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local C ID 
+2021-03-16 17:56:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Local C ID 
+2021-03-16 17:56:53 INFO  DuplicateSearch_TS:33 - ---INFO--- ROA label text is Not Applicable
+2021-03-16 17:56:53 INFO  DuplicateSearch_TS:33 - ---INFO--- Repo Term label text is Sedation
+2021-03-16 17:56:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-03-16 17:56:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Sex label text is Male
+2021-03-16 17:56:54 INFO  DuplicateSearch_TS:33 - ---INFO--- AG label text is Unknown
+2021-03-16 17:56:56 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Physician
+2021-03-16 17:56:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Filtered Patient
+2021-03-16 17:59:36 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-16 17:59:36 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 238======
+2021-03-16 17:59:36 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-16 17:59:36 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-16 17:59:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_16_03_2021.xlsx
+2021-03-16 17:59:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-16 17:59:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-16 17:59:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 17:59:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-16 18:00:00 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 18:00:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-16 18:00:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 18:00:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-16 18:00:20 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-16 18:00:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227  searched successfully
+2021-03-16 18:00:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637227 
+2021-03-16 18:00:33 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227 opened successfully
+2021-03-16 18:00:33 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local Trade Name
+2021-03-16 18:00:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-03-16 18:00:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Country Name 
+2021-03-16 18:00:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Country Name entered United States Of America 
+2021-03-16 18:00:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Approaval 
+2021-03-16 18:00:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-03-16 18:00:40 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Formulation 
+2021-03-16 18:00:40 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation label text is Nasal spray
+2021-03-16 18:00:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation Entered 
+2021-03-16 18:00:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering ROA Label 
+2021-03-16 18:00:47 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local C ID 
+2021-03-16 18:00:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Local C ID 
+2021-03-16 18:00:48 INFO  DuplicateSearch_TS:33 - ---INFO--- ROA label text is Not Applicable
+2021-03-16 18:00:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Repo Term label text is Sedation
+2021-03-16 18:00:49 INFO  DuplicateSearch_TS:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-03-16 18:00:49 INFO  DuplicateSearch_TS:33 - ---INFO--- Sex label text is Male
+2021-03-16 18:00:49 INFO  DuplicateSearch_TS:33 - ---INFO--- AG label text is Unknown
+2021-03-16 18:00:52 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Physician
+2021-03-16 18:02:05 INFO  DuplicateSearch_TS:33 - ---INFO--- Filtered Patient
+2021-03-16 18:04:21 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-16 18:04:22 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 183======
+2021-03-16 18:04:22 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-16 18:04:22 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-16 18:04:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_16_03_2021.xlsx
+2021-03-16 18:04:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-16 18:04:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-16 18:04:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 18:04:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-16 18:04:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 18:04:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-16 18:04:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 18:05:05 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-16 18:05:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-16 18:05:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227  searched successfully
+2021-03-16 18:05:16 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637227 
+2021-03-16 18:05:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637227 opened successfully
+2021-03-16 18:05:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local Trade Name
+2021-03-16 18:05:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-03-16 18:05:29 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Country Name 
+2021-03-16 18:05:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Country Name entered United States Of America 
+2021-03-16 18:05:31 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Approaval 
+2021-03-16 18:05:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-03-16 18:05:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Formulation 
+2021-03-16 18:05:35 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation label text is Nasal spray
+2021-03-16 18:05:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation Entered 
+2021-03-16 18:05:38 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering ROA Label 
+2021-03-16 18:05:42 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local C ID 
+2021-03-16 18:05:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Local C ID 
+2021-03-16 18:05:43 INFO  DuplicateSearch_TS:33 - ---INFO--- ROA label text is Not Applicable
+2021-03-16 18:05:43 INFO  DuplicateSearch_TS:33 - ---INFO--- Repo Term label text is Sedation
+2021-03-16 18:05:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-03-16 18:05:44 INFO  DuplicateSearch_TS:33 - ---INFO--- Sex label text is Male
+2021-03-16 18:05:44 INFO  DuplicateSearch_TS:33 - ---INFO--- AG label text is Unknown
+2021-03-16 18:05:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Physician
+2021-03-16 18:05:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Filtered Patient
+2021-03-16 18:05:51 INFO  DuplicateSearch_TS:33 - ---INFO--- Clickable Patient
+2021-03-16 18:05:52 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked Patient
+2021-03-16 18:05:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked Next
+2021-03-16 18:12:40 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-16 18:12:40 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 239======
+2021-03-16 18:12:40 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-16 18:12:40 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-16 18:12:41 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_16_03_2021.xlsx
+2021-03-16 18:12:41 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-16 18:12:48 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-16 18:12:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 18:12:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-16 18:16:00 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-16 18:16:00 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 184======
+2021-03-16 18:16:00 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-16 18:16:00 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-16 18:16:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_16_03_2021.xlsx
+2021-03-16 18:16:01 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-16 18:16:07 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-16 18:16:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 18:16:19 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-16 18:16:23 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 18:16:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-16 18:16:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 18:16:37 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-16 18:16:41 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-16 18:16:46 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637061  searched successfully
+2021-03-16 18:16:46 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637061 
+2021-03-16 18:16:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637061 opened successfully
+2021-03-16 18:16:54 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local Trade Name
+2021-03-16 18:16:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-03-16 18:16:57 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Country Name 
+2021-03-16 18:16:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Country Name entered United States Of America 
+2021-03-16 18:16:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Approaval 
+2021-03-16 18:16:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-03-16 18:17:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Formulation 
+2021-03-16 18:17:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation label text is --Select--
+2021-03-16 18:17:05 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation Entered 
+2021-03-16 18:17:05 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering ROA Label 
+2021-03-16 18:17:09 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local C ID 
+2021-03-16 18:17:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Local C ID 
+2021-03-16 18:17:10 INFO  DuplicateSearch_TS:33 - ---INFO--- ROA label text is Not Applicable
+2021-03-16 18:17:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Repo Term label text is Sedation
+2021-03-16 18:17:11 INFO  DuplicateSearch_TS:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-03-16 18:17:11 INFO  DuplicateSearch_TS:33 - ---INFO--- Sex label text is Female
+2021-03-16 18:17:11 INFO  DuplicateSearch_TS:33 - ---INFO--- AG label text is --Select--
+2021-03-16 18:17:14 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Physician
+2021-03-16 18:17:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Filtered Patient
+2021-03-16 18:17:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Clickable Patient
+2021-03-16 18:17:18 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked Patient
+2021-03-16 18:17:20 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked Next
+2021-03-16 18:17:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Classification window opened
+2021-03-16 18:17:27 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID has been specified on receipt number
+2021-03-16 18:17:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching LocalID
+2021-03-16 18:17:28 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 18:17:28 INFO  DuplicateSearch_TS:33 - ---INFO--- LocalID searched , window closed successful
+2021-03-16 18:17:28 INFO  DuplicateSearch_TS:33 - ---INFO--- switched to current handle
+2021-03-16 18:17:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Proceed button
+2021-03-16 18:17:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Page and Element Waits are over
+2021-03-16 18:17:30 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Initial on receipt number RCT9637061
+2021-03-16 18:17:36 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Next button
+2021-03-16 18:17:36 INFO  DuplicateSearch_TS:33 - ---INFO--- Sending receipt to QC intake process
+2021-03-16 18:17:46 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637061 has been marked to QC-intake successfully
+2021-03-16 18:17:46 INFO  DuplicateSearch_TS:33 - ---INFO--- Follow-Up created successfully for receipt number RCT9637061
+2021-03-16 18:17:46 INFO  DuplicateSearch_TS:33 - ---INFO--- irtduplicateSearch_DL :  test case has been Passed 
+2021-03-16 18:28:59 INFO  ObjectRepository:33 - ---INFO--- ======Started populating element collection map======
+2021-03-16 18:29:00 INFO  ObjectRepository:33 - ---INFO--- ======Time taken to populate object repository in millis is 269======
+2021-03-16 18:29:00 INFO  ObjectRepository:33 - ---INFO--- ======Number of object in Object Map is 128======
+2021-03-16 18:29:00 INFO  DuplicateSearch_TS:33 - ---INFO--- *********EXECUTION STARTED**********
+
+
+2021-03-16 18:29:00 INFO  DuplicateSearch_TS:33 - ---INFO--- Output Excel file created with name-> DupsSearchSummary_16_03_2021.xlsx
+2021-03-16 18:29:00 INFO  DuplicateSearch_TS:33 - ---INFO--- Creating Chrome driver instance
+2021-03-16 18:29:08 INFO  DuplicateSearch_TS:33 - ---INFO--- Logging In arisXChange...
+2021-03-16 18:29:17 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 18:29:17 INFO  DuplicateSearch_TS:33 - ---INFO--- Switching to 2nd window
+2021-03-16 18:29:21 INFO  DuplicateSearch_TS:33 - ---INFO--- Browser windows active-2
+2021-03-16 18:29:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Login successfuly , HomePage loaded successfully
+2021-03-16 18:29:27 INFO  DuplicateSearch_TS:33 - ---INFO--- Navigating to Inbound Listing page
+2021-03-16 18:29:36 INFO  DuplicateSearch_TS:33 - ---INFO--- Inbound Listing page loaded successfully
+2021-03-16 18:29:40 INFO  DuplicateSearch_TS:33 - ---INFO--- Searching Receipt number
+2021-03-16 18:29:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637061  searched successfully
+2021-03-16 18:29:45 INFO  DuplicateSearch_TS:33 - ---INFO--- Editing Receipt number RCT9637061 
+2021-03-16 18:29:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Receipt number RCT9637061 opened successfully
+2021-03-16 18:29:55 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local Trade Name
+2021-03-16 18:29:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Local Trade Name entered SPRAVATO 
+2021-03-16 18:29:58 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Country Name 
+2021-03-16 18:29:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Country Name entered United States Of America 
+2021-03-16 18:29:59 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Approaval 
+2021-03-16 18:30:00 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Entering Approaval : NDA Number
+2021-03-16 18:30:02 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Formulation 
+2021-03-16 18:30:03 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation label text is Nasal spray
+2021-03-16 18:30:06 INFO  DuplicateSearch_TS:33 - ---INFO--- Formulation Entered 
+2021-03-16 18:30:06 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering ROA Label 
+2021-03-16 18:30:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Entering Local C ID 
+2021-03-16 18:30:10 INFO  DuplicateSearch_TS:33 - ---INFO--- Entered Local C ID 
+2021-03-16 18:30:11 INFO  DuplicateSearch_TS:33 - ---INFO--- ROA label text is Not Applicable
+2021-03-16 18:30:11 INFO  DuplicateSearch_TS:33 - ---INFO--- Repo Term label text is Sedation
+2021-03-16 18:30:11 INFO  DuplicateSearch_TS:33 - ---INFO--- Outcome  label text is Recovered/resolved
+2021-03-16 18:30:11 INFO  DuplicateSearch_TS:33 - ---INFO--- Sex label text is Female
+2021-03-16 18:30:12 INFO  DuplicateSearch_TS:33 - ---INFO--- AG label text is --Select--
+2021-03-16 18:30:17 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Physician
+2021-03-16 18:30:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Filtered Patient
+2021-03-16 18:30:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Clickable Patient
+2021-03-16 18:30:22 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked Patient
+2021-03-16 18:30:25 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked Next
+2021-03-16 18:30:32 INFO  DuplicateSearch_TS:33 - ---INFO--- Clicked on Physician

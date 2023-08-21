@@ -1,0 +1,408 @@
+{
+	"FetchFullData": {
+		"endpoint": "ct/receiptdetails",
+		"Header": {
+			"Content-Type": "application/json",
+			"Accept": "*/*",
+			"Accept-Encoding": "gzip, deflate, br",
+			"Connection": "keep-alive",
+			"User-Agent": "PostmanRuntime/7.26.10",
+			"client-id": "e57a413ee52b4171be6d5c6054ed1aa7",
+			"client-secret": "006C870aAe634E67ac646b7CDB7EcC68",
+			"x-correlation-id": "receiptdetails",
+			"Host": "dev.pvdalext.jnj.com"
+		},
+		"QueryParam": {
+			"receipt_no": "$pendingReceipts"
+		},
+		"Body": "null"
+	},
+	"PendingReceipts": {
+		"endpoint": "ct/pendingreceipts",
+		"Header": {
+			"Content-Type": "application/json",
+			"Accept": "*/*",
+			"Accept-Encoding": "gzip, deflate, br",
+			"Connection": "keep-alive",
+			"User-Agent": "PostmanRuntime/7.26.10",
+			"client-id": "e57a413ee52b4171be6d5c6054ed1aa7",
+			"client-secret": "006C870aAe634E67ac646b7CDB7EcC68",
+			"x-correlation-id": "pendingreceipts",
+			"Host": "dev.pvdalext.jnj.com"
+		},
+		"QueryParam": {},
+		"Body": { 
+			  "AGX_WFA_ACTIVITY_NAME": "Initial Review",
+			  "AGX_WF_NAME": "Case Processing Workflow",
+			  "SOURCE_NAME": ["UBCESK"],
+			  "RECEIVER_NAME": ["GMSBOT"],
+			  "ACTIVE_STATE": 1,
+			  "INCOMPLETE_RECEIPT_ITEM": 0,
+			  "CLDMEDIUM":["Gateway"],
+			  "AGX_ASR_REPORTTYPE" :["1","2"],
+			  "LIMIT": 30
+			}
+	},
+	"SearchReporterWithProtocolPatient": {
+		"endpoint": "ct/searchReporterWithProtocolPatient",
+		"Header": {
+			"Content-Type": "application/json",
+			"Accept": "*/*",
+			"Accept-Encoding": "gzip, deflate, br",
+			"Connection": "keep-alive",
+			"User-Agent": "PostmanRuntime/7.26.10",
+			"client-id": "e57a413ee52b4171be6d5c6054ed1aa7",
+			"client-secret": "006C870aAe634E67ac646b7CDB7EcC68",
+			"x-correlation-id": "searchReporterWithProtocolPatient",
+			"Host": "dev.pvdalext.jnj.com"
+		},
+		"QueryParam": {
+			
+		},
+		"Body": {
+			"STUDY_PATIENT_NO": "P-0000160151",
+			"PROTOCOL_NO": "RRA-5319"
+		}
+	},
+	"searchProtocolStdCountry": {
+		"endpoint": "ct/protocolpatient",
+		"Header": {
+			"Content-Type": "application/json",
+			"Accept": "*/*",
+			"Accept-Encoding": "gzip, deflate, br",
+			"Connection": "keep-alive",
+			"User-Agent": "PostmanRuntime/7.26.10",
+			"client-id": "e57a413ee52b4171be6d5c6054ed1aa7",
+			"client-secret": "006C870aAe634E67ac646b7CDB7EcC68",
+			"x-correlation-id": "protocolpatient",
+			"Host": "dev.pvdalext.jnj.com"
+		},
+		"QueryParam": {
+			
+		},
+		"Body": {
+			"STUDY_PATIENT_NO": "P5qis3Rj2FLmuy24dhRAnGH0mu+Ts9aaOtKcaalWTeY=",
+			"PROTOCOL_NO": "ESKETINSUI2002"
+		}
+	},
+	"searchProtocolStdCountryAG": {
+		"endpoint": "ct/searchProtocolPatientNoCountryinAG",
+		"Header": {
+			"Content-Type": "application/json",
+			"Accept": "*/*",
+			"Accept-Encoding": "gzip, deflate, br",
+			"Connection": "keep-alive",
+			"User-Agent": "PostmanRuntime/7.26.10",
+			"client-id": "e57a413ee52b4171be6d5c6054ed1aa7",
+			"client-secret": "006C870aAe634E67ac646b7CDB7EcC68",
+			"x-correlation-id": "protocolpatient",
+			"Host": "dev.pvdalext.jnj.com"
+		},
+		"QueryParam": {
+			
+		},
+		"Body": {
+			"STUDY_PATIENT_NO": "P5qis3Rj2FLmuy24dhRAnGH0mu+Ts9aaOtKcaalWTeY=",
+			"PROTOCOL_NO": "ESKETINSUI2002"
+		}
+	},
+	"searchPatientReporterWithProtocolPatient": {
+		"endpoint": "ct/searchPatientReporterWithProtocolPatient",
+		"Header": {
+			"Content-Type": "application/json",
+			"Accept": "*/*",
+			"Accept-Encoding": "gzip, deflate, br",
+			"Connection": "keep-alive",
+			"User-Agent": "PostmanRuntime/7.26.10",
+			"client-id": "e57a413ee52b4171be6d5c6054ed1aa7",
+			"client-secret": "006C870aAe634E67ac646b7CDB7EcC68",
+			"x-correlation-id": "searchPatientReporterWithProtocolPatient",
+			"Host": "dev.pvdalext.jnj.com"
+		},
+		"QueryParam": {
+			
+		},
+		"Body": {
+			"STUDY_PATIENT_NO": "P-0000160151",
+			"PROTOCOL_NO": "RRA-5319",
+			"PATIENT_SEX": "1"
+		}
+	},
+	"searchStudyGeneric": {
+		"endpoint": "ct/searchStudyGeneric",
+		"Header": {
+			"Content-Type": "application/json",
+			"Accept": "*/*",
+			"Accept-Encoding": "gzip, deflate, br",
+			"Connection": "keep-alive",
+			"User-Agent": "PostmanRuntime/7.26.10",
+			"client-id": "e57a413ee52b4171be6d5c6054ed1aa7",
+			"client-secret": "006C870aAe634E67ac646b7CDB7EcC68",
+			"x-correlation-id": "searchStudyGeneric",
+			"Host": "dev.pvdalext.jnj.com"
+		},
+		"QueryParam": {
+			
+		},
+		"Body": {
+			"STUDY_PATIENT_NO": "P-0000160151",
+			"PROTOCOL_NO": "RRA-5319",
+			"PATIENT_SEX": "1"
+		}
+	},
+	"searchStudyGenericAG": {
+		"endpoint": "ct/searchStudyGenericinAG",
+		"Header": {
+			"Content-Type": "application/json",
+			"Accept": "*/*",
+			"Accept-Encoding": "gzip, deflate, br",
+			"Connection": "keep-alive",
+			"User-Agent": "PostmanRuntime/7.26.10",
+			"client-id": "e57a413ee52b4171be6d5c6054ed1aa7",
+			"client-secret": "006C870aAe634E67ac646b7CDB7EcC68",
+			"x-correlation-id": "searchStudyGeneric",
+			"Host": "dev.pvdalext.jnj.com"
+		},
+		"QueryParam": {
+			
+		},
+		"Body": {
+			"STUDY_PATIENT_NO": "P-0000160151",
+			"PROTOCOL_NO": "RRA-5319",
+			"PATIENT_SEX": "1"
+		}
+	},
+	"searchPatientWithProtocolPatient": {
+		"endpoint": "ct/searchPatientWithProtocolPatient",
+		"Header": {
+			"Cookie": "JJCFGEOCC=in; __cfduid=dcdf417f96f1c7dd61933f3f5d30c2c631612789037",
+			"Content-Type": "application/json",
+			"Accept": "*/*",
+			"Accept-Encoding": "gzip, deflate, br",
+			"Connection": "keep-alive",
+			"User-Agent": "PostmanRuntime/7.26.10",
+			"client-id": "e57a413ee52b4171be6d5c6054ed1aa7",
+			"client-secret": "006C870aAe634E67ac646b7CDB7EcC68",
+			"x-correlation-id": "searchPatientWithProtocolPatient",
+			"Host": "dev.pvdalext.jnj.com"
+		},
+		"QueryParam": {
+			
+		},
+		"Body": {
+			"STUDY_PATIENT_NO": "P-0000160151",
+			"PROTOCOL_NO": "RRA-5319"
+		}
+	},
+	"searchPatientWithProtocolPatientAG": {
+		"endpoint": "ct/searchPatientWithProtocolPatientinAG",
+		"Header": {
+			"Cookie": "JJCFGEOCC=in; __cfduid=dcdf417f96f1c7dd61933f3f5d30c2c631612789037",
+			"Content-Type": "application/json",
+			"Accept": "*/*",
+			"Accept-Encoding": "gzip, deflate, br",
+			"Connection": "keep-alive",
+			"User-Agent": "PostmanRuntime/7.26.10",
+			"client-id": "e57a413ee52b4171be6d5c6054ed1aa7",
+			"client-secret": "006C870aAe634E67ac646b7CDB7EcC68",
+			"x-correlation-id": "searchPatientWithProtocolPatient",
+			"Host": "dev.pvdalext.jnj.com"
+		},
+		"QueryParam": {
+			
+		},
+		"Body": {
+			"STUDY_PATIENT_NO": "P-0000160151",
+			"PROTOCOL_NO": "RRA-5319"
+		}
+	},
+	"searchPatientWithExternalID": {
+		"endpoint": "pm/searchPatientWithExternalID",
+		"Header": {
+			"Content-Type": "application/json",
+			"Accept": "*/*",
+			"Accept-Encoding": "gzip, deflate, br",
+			"Connection": "keep-alive",
+			"client-id": "e57a413ee52b4171be6d5c6054ed1aa7",
+			"client-secret": "006C870aAe634E67ac646b7CDB7EcC68",
+			"x-correlation-id": "searchPatientWithExternalID"
+		},
+		"QueryParam": {
+			
+		},
+		"Body": {
+			"PRIMARY_SOURCE_COUNTRY": "163",
+			"LOCAL_CASE_ID": [
+				"EZR20200002929",
+				"EZR202000029209"
+			],
+			"OTHER_IDENTIFICATION_NO": [
+				"EZR20200002929",
+				"EZR202000029209"
+			],
+			"PATIENT_INITIALS": "S3NUFpSvuKmiVzTO9xC4MccQmJ5sjir/xnx8lAYC51U=",
+			"PATIENT_DOB_ACTUAL": "2030-12-09",
+			"PATIENT_DOB_RANDOM_NO": "L2W76NrEKmY/24CPaqfkHlMQkTDH36GR+fVeb61BTHk=",
+			"PATIENT_SEX": "2",
+			"RECEIPT_NO": "RCT8831653"
+		}
+	},
+	"searchReporterWithExternalID": {
+		"endpoint": "pm/searchReporterWithExternalID",
+		"Header": {
+			"Content-Type": "application/json",
+			"Accept": "*/*",
+			"Accept-Encoding": "gzip, deflate, br",
+			"Connection": "keep-alive",
+			"client-id": "e57a413ee52b4171be6d5c6054ed1aa7",
+			"client-secret": "006C870aAe634E67ac646b7CDB7EcC68",
+			"x-correlation-id": "searchReporterWithExternalID"
+		},
+		"QueryParam": {
+			
+		},
+		"Body": {
+			"PRIMARY_SOURCE_COUNTRY": "163",
+			"LOCAL_CASE_ID": [
+				"EZR20200002929",
+				"EZR202000029209"
+			],
+			"OTHER_IDENTIFICATION_NO": [
+				"EZR20200002929",
+				"EZR202000029209"
+			],
+			"REPORTER_LAST_NAME": [
+				"IzIvb7y4cuEl403/gSnnrstxHUPI51L+KydPBSbb6s4=",
+				"UMtcqVsmdE+Yl5B84/M6XPR17OExg960lXOtuFyLOGY=",
+				"Kq22zwsxqH0XYfOjIlpVKUdBKVlKabQBOD7/NKmjmsw="
+			],
+			"REPORTER_FIRST_NAME": [
+				"H28ojAD/4RW+U4m4ctIhZUM8Q/KAiUpIN1pQfnInTUU=",
+				"MMmg4Fb6w3B7sgxJbzlB5WAIHn0q95j1v4/2aHVvSKw=",
+				"otMBoxFpl/MXhz/PSc9gPDnprxNO1oaluVbAKRjPUSo="
+			],
+			"RECEIPT_NO": "RCT8831653"
+		}
+	},
+	"searchPMGeneric": {
+		"endpoint": "pm/searchPMGeneric",
+		"Header": {
+			"Content-Type": "application/json",
+			"Accept": "*/*",
+			"Accept-Encoding": "gzip, deflate, br",
+			"Connection": "keep-alive",
+			"client-id": "e57a413ee52b4171be6d5c6054ed1aa7",
+			"client-secret": "006C870aAe634E67ac646b7CDB7EcC68",
+			"x-correlation-id": "searchReporterWithExternalID"
+		},
+		"QueryParam": {
+			
+		},
+		"Body": {
+			"PRIMARY_SOURCE_COUNTRY": "163",
+			"LOCAL_CASE_ID": [
+				"EZR20200002929",
+				"EZR202000029209"
+			],
+			"OTHER_IDENTIFICATION_NO": [
+				"EZR20200002929",
+				"EZR202000029209"
+			],
+			"PATIENT_INITIALS": "S3NUFpSvuKmiVzTO9xC4MccQmJ5sjir/xnx8lAYC51U=",
+			"PATIENT_DOB_ACTUAL": "2030-12-09",
+			"PATIENT_DOB_RANDOM_NO": "L2W76NrEKmY/24CPaqfkHlMQkTDH36GR+fVeb61BTHk=",
+			"PATIENT_SEX": "2",
+			"REPORTER_LAST_NAME": [
+				"IzIvb7y4cuEl403/gSnnrstxHUPI51L+KydPBSbb6s4=",
+				"UMtcqVsmdE+Yl5B84/M6XPR17OExg960lXOtuFyLOGY=",
+				"Kq22zwsxqH0XYfOjIlpVKUdBKVlKabQBOD7/NKmjmsw="
+			],
+			"REPORTER_FIRST_NAME": [
+				"H28ojAD/4RW+U4m4ctIhZUM8Q/KAiUpIN1pQfnInTUU=",
+				"MMmg4Fb6w3B7sgxJbzlB5WAIHn0q95j1v4/2aHVvSKw=",
+				"otMBoxFpl/MXhz/PSc9gPDnprxNO1oaluVbAKRjPUSo="
+			],
+			"RECEIPT_NO": "RCT8831653",
+			"AE_REPORTED_TERM": [
+				"RASH",
+				"HEART",
+				"ATTACK"
+			],
+			"PRODUCT_NAME": [
+				"1,3 PROPANEDISULFONIC ACID, DISODIUM SALT",
+				"BLINDED EBL4001 JNJ-61210474"
+			],
+			"TRADE_NAME": [
+				"1,3 PROPANEDISULFONIC ACID, DISODIUM SALT",
+				"BLINDED EBL4001 JNJ-61210474"
+			]
+		}
+	},
+	"searchExternalID": {
+		"endpoint": "pm/searchExternalID",
+		"Header": {
+			"Content-Type": "application/json",
+			"Accept": "*/*",
+			"Accept-Encoding": "gzip, deflate, br",
+			"Connection": "keep-alive",
+			"client-id": "e57a413ee52b4171be6d5c6054ed1aa7",
+			"client-secret": "006C870aAe634E67ac646b7CDB7EcC68",
+			"x-correlation-id": "searchPatientWithExternalID"
+		},
+		"QueryParam": {
+			
+		},
+		"Body": {
+			"PRIMARY_SOURCE_COUNTRY": "163",
+			"LOCAL_CASE_ID": [
+				"EZR20200002929",
+				"EZR202000029209"
+			],
+			"OTHER_IDENTIFICATION_NO": [
+				"EZR20200002929",
+				"EZR202000029209"
+			],
+			"RECEIPT_NO": "RCT8831653"
+		}
+	},
+	"exceptionsLog": {
+		"endpoint": "exceptionsLog",
+		"Header": {
+			"Cookie": "__cfduid=d3cd9fe83ac32116def4f33df9edd186a1619427795; JJCFGEOCC=in",
+			"Content-Type": "application/json",
+			"Accept": "*/*",
+			"Accept-Encoding": "gzip, deflate, br",
+			"Connection": "keep-alive",
+			"User-Agent": "PostmanRuntime/7.26.8",
+			"client-id": "e57a413ee52b4171be6d5c6054ed1aa7",
+			"client-secret": "006C870aAe634E67ac646b7CDB7EcC68",
+			"x-correlation-id": "searchStudyGenericinAG",
+			"Host": "dev.pvdalext.jnj.com"
+		},
+		"QueryParam": {
+			
+		},
+		"Body": {
+			"RECEIPT_NO": "RCT8498189",
+			"CLASSIFICATION_CODE": 1,
+			"ERROR_CODE": 1,
+			"EXCEPTION_MESSAGE": "EXCEPTION_MESSAGE",
+			"SERVER_NAME": "SERVER_NAME",
+			"SCREENSHOT_PATH": "ScreenshotPath"
+		}
+	},
+	"listUsers": {
+		"endpoint": "api/users?page=2",
+		"Header": {
+			"Content-Type": "application/json",
+			"Accept": "*/*",
+			"Accept-Encoding": "gzip, deflate",
+			"Connection": "keep-alive",
+			"User-Agent": "PostmanRuntime/7.26.10"
+		},
+		"QueryParam": {
+			"page": "2"
+		},
+		"Body": "null"
+	}
+}
